@@ -1,0 +1,40 @@
+--- 4 letters: 10521 words
+most frequent letters                  ALOE         info 4.27 bits | avg answers left   863.4 | worst case  1854 | 62 patterns
+frequent letters in usual positions    SALE         info 4.56 bits | avg answers left   752.7 | worst case  2080 | 69 patterns
+information (solver)                   SALE         info 4.56 bits | avg answers left   752.7 | worst case  2080 | 69 patterns
+top letters by P(in answer): E38 A37 O26 L24 R24 S24 I22 T22 N18 D15
+--- 5 letters: 22223 words
+most frequent letters                  TEARS        info 6.15 bits | avg answers left   560.0 | worst case  2156 | 214 patterns
+frequent letters in usual positions    CANES        info 5.79 bits | avg answers left   650.5 | worst case  1597 | 198 patterns
+information (solver)                   TEARS        info 6.15 bits | avg answers left   560.0 | worst case  2156 | 214 patterns
+top letters by P(in answer): E47 A42 S37 R35 O29 T29 I28 L28 N24 C18
+--- 6 letters: 38539 words
+most frequent letters                  SATIRE       info 7.56 bits | avg answers left   341.6 | worst case  1305 | 561 patterns
+frequent letters in usual positions    SALTED       info 7.30 bits | avg answers left   415.9 | worst case  1502 | 517 patterns
+information (solver)                   SATIRE       info 7.56 bits | avg answers left   341.6 | worst case  1305 | 561 patterns
+top letters by P(in answer): E62 A45 R44 I36 S36 N33 T33 L32 O30 D23
+--- 7 letters: 50852 words
+most frequent letters                  ARSENIC      info 8.06 bits | avg answers left   323.6 | worst case  1032 | 1150 patterns
+frequent letters in usual positions    PARTIES      info 8.85 bits | avg answers left   181.6 | worst case   767 | 1566 patterns
+information (solver)                   PARTIES      info 8.85 bits | avg answers left   181.6 | worst case   767 | 1566 patterns
+top letters by P(in answer): E64 A49 I49 R47 N43 S41 T37 L35 O33 C27
+--- 8 letters: 58634 words
+most frequent letters                  ENTRAILS     info 9.78 bits | avg answers left    97.8 | worst case   472 | 3131 patterns
+frequent letters in usual positions    COUNTIES     info 9.79 bits | avg answers left   105.6 | worst case   502 | 3253 patterns
+information (solver)                   CURTAINS     info 9.92 bits | avg answers left    97.3 | worst case   662 | 3351 patterns
+top letters by P(in answer): E66 I57 A53 R51 N49 S45 T44 O40 L39 C31
+--- 9 letters: 57718 words
+most frequent letters                  DOCTRINES    info 10.76 bits | avg answers left    56.1 | worst case   373 | 6591 patterns
+frequent letters in usual positions    COMPANIES    info 10.58 bits | avg answers left    61.9 | worst case   393 | 6020 patterns
+information (solver)                   CENTURIES    info 10.89 bits | avg answers left    42.6 | worst case   196 | 6364 patterns
+top letters by P(in answer): E73 I63 A56 R56 N55 T51 S49 O45 L38 C35
+--- 10 letters: 48939 words
+most frequent letters                  TOURMALINE   info 11.34 bits | avg answers left    24.7 | worst case   187 | 9804 patterns
+frequent letters in usual positions    DECORATING   info 11.23 bits | avg answers left    28.1 | worst case   206 | 8695 patterns
+information (solver)                   MERCANTILE   info 11.43 bits | avg answers left    22.6 | worst case   145 | 10144 patterns
+top letters by P(in answer): E75 I70 N62 A59 T59 R57 O53 S50 L42 C40
+--- 11 letters: 39606 words
+most frequent letters                  PERSONALITY  info 11.64 bits | avg answers left    14.9 | worst case   104 | 13276 patterns
+frequent letters in usual positions    PERSONALITY  info 11.64 bits | avg answers left    14.9 | worst case   104 | 13276 patterns
+information (solver)                   PERSECUTION  info 11.67 bits | avg answers left    12.7 | worst case   101 | 12109 patterns
+top letters by P(in answer): I76 E75 N68 T66 A65 R63 O59 S52 C45 L44

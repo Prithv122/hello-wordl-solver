@@ -1,0 +1,1068 @@
+{
+ "length": 4,
+ "n_words": 10521,
+ "tiers": {
+  "A": 730,
+  "B": 650,
+  "C": 285,
+  "D": 8856
+ },
+ "n_common": 1256,
+ "n_guess_pool": 2381,
+ "letters": {
+  "presence": {
+   "e": 0.3840228009687067,
+   "a": 0.3723590240126983,
+   "o": 0.2597201470604424,
+   "l": 0.24443644410885462,
+   "r": 0.2411760746160562,
+   "s": 0.23721645078360956,
+   "i": 0.2194028140481103,
+   "t": 0.21914915201931626,
+   "n": 0.18458280999165327,
+   "d": 0.152306835773414,
+   "u": 0.1425270913753157,
+   "m": 0.1285112366214877,
+   "p": 0.12725401988145207,
+   "c": 0.12382322738489301,
+   "h": 0.1166293440628755,
+   "b": 0.10497053302863603,
+   "k": 0.09916224062919052,
+   "w": 0.09170984651688174,
+   "f": 0.09043067394208061,
+   "g": 0.08629883622744669,
+   "y": 0.0759265169375026,
+   "v": 0.045788500079716764,
+   "j": 0.0190844407195215,
+   "z": 0.016082868222818784,
+   "x": 0.014600912977436351,
+   "q": 0.0020345132098448107
+  },
+  "positional": {
+   "pos1": {
+    "s": 0.09059473681684967,
+    "b": 0.07100129664786609,
+    "p": 0.06537482527282085,
+    "c": 0.06338974532870248,
+    "l": 0.060671404439449524,
+    "t": 0.058678521621289566
+   },
+   "pos2": {
+    "a": 0.20498740594873543,
+    "o": 0.18291331462693317,
+    "e": 0.1420627299890646,
+    "i": 0.12572241880813764,
+    "u": 0.0899151637289929,
+    "r": 0.05280719364866683
+   },
+   "pos3": {
+    "a": 0.09910842891676885,
+    "r": 0.09670926607979376,
+    "l": 0.09486794346178039,
+    "e": 0.08715373631325939,
+    "n": 0.08048190911603616,
+    "i": 0.07148738456949576
+   },
+   "pos4": {
+    "e": 0.17410993371492003,
+    "t": 0.11203141266369841,
+    "s": 0.08597414160012734,
+    "l": 0.07177449585563019,
+    "d": 0.06962481744693295,
+    "n": 0.06267097878279551
+   }
+  },
+  "positional_matrix": [
+   [
+    0.044611146475195124,
+    0.07100129664786609,
+    0.06338974532870248,
+    0.05246221020986528,
+    0.024388112116199925,
+    0.058070396214060314,
+    0.04603955947677911,
+    0.05832751614456413,
+    0.01378118775238199,
+    0.016271323865987897,
+    0.021937795431234544,
+    0.060671404439449524,
+    0.05015231847815701,
+    0.02453415741502362,
+    0.02443032496180297,
+    0.06537482527282085,
+    0.001443781081688861,
+    0.05725806547581754,
+    0.09059473681684967,
+    0.058678521621289566,
+    0.009833905917614488,
+    0.01974424050108754,
+    0.05054339778868264,
+    0.000935646944513109,
+    0.010327212585649531,
+    0.005197171036717725
+   ],
+   [
+    0.20498740594873543,
+    0.005173456124170646,
+    0.011237877612971785,
+    0.009409812516469098,
+    0.1420627299890646,
+    0.0012984136387181842,
+    0.004958605945687266,
+    0.026949771227750212,
+    0.12572241880813764,
+    0.0005429156741678401,
+    0.005126615447867266,
+    0.04476401384922117,
+    0.006744915121643379,
+    0.0217621403845196,
+    0.18291331462693317,
+    0.010405944287690254,
+    0.00032723867891558097,
+    0.05280719364866683,
+    0.007977293884249469,
+    0.013361610042820453,
+    0.0899151637289929,
+    0.007202874535949727,
+    0.006958469842274289,
+    0.0039043543115119496,
+    0.012593582624157081,
+    0.0008918674987163715
+   ],
+   [
+    0.09910842891676885,
+    0.015049179889903489,
+    0.046179964345418247,
+    0.025469005995976474,
+    0.08715373631325939,
+    0.017355250523062474,
+    0.017575069970749906,
+    0.0053756111504436035,
+    0.07148738456949576,
+    0.0016693698358587424,
+    0.014616711203107308,
+    0.09486794346178039,
+    0.03690990394750764,
+    0.08048190911603616,
+    0.06468299889434673,
+    0.018648848874646917,
+    0.0001505676852802107,
+    0.09670926607979376,
+    0.0691029052619001,
+    0.04447278689014208,
+    0.038400798521559275,
+    0.017584636943727475,
+    0.0174926460464579,
+    0.003526942583445138,
+    0.007823685053080464,
+    0.008104447926250575
+   ],
+   [
+    0.04358425176427347,
+    0.017435515350933732,
+    0.007027567622611218,
+    0.06962481744693295,
+    0.17410993371492003,
+    0.01930535477888271,
+    0.020752796282177927,
+    0.02825020504428227,
+    0.013602935095089568,
+    0.0006572942254870828,
+    0.05937309624497506,
+    0.07177449585563019,
+    0.03611464848188853,
+    0.06267097878279551,
+    0.019509272230373586,
+    0.040348536139907486,
+    0.00013174672462018435,
+    0.03825089864982318,
+    0.08597414160012734,
+    0.11203141266369841,
+    0.005864910937214093,
+    0.0015390625088523983,
+    0.016997647249367497,
+    0.006309252980606259,
+    0.045445530123856465,
+    0.003313697500673007
+   ]
+  ],
+  "p_double_letter": 0.19409357783983372,
+  "vowel_count": {
+   "0": 0.011494868667177577,
+   "1": 0.5120431477711652,
+   "2": 0.46144812581970496,
+   "3": 0.014844469096006906,
+   "4": 0.00016938864594023703
+  },
+  "top_endings_2": [
+   [
+    "ll",
+    0.02504147477773939
+   ],
+   [
+    "st",
+    0.02157323451116657
+   ],
+   [
+    "re",
+    0.021255529330865438
+   ],
+   [
+    "ck",
+    0.01999132147009381
+   ],
+   [
+    "le",
+    0.018379971074099888
+   ],
+   [
+    "ne",
+    0.016112692206633864
+   ],
+   [
+    "nd",
+    0.014683330206855714
+   ],
+   [
+    "te",
+    0.014338092362894522
+   ],
+   [
+    "nt",
+    0.013722287936767278
+   ],
+   [
+    "in",
+    0.013240931616363407
+   ]
+  ],
+  "top_endings_3": [
+   [
+    "ear",
+    0.006978224737665141
+   ],
+   [
+    "ill",
+    0.006540570872022843
+   ],
+   [
+    "ail",
+    0.006265073516170316
+   ],
+   [
+    "are",
+    0.005959777282275007
+   ],
+   [
+    "ate",
+    0.0059469298217124135
+   ],
+   [
+    "ent",
+    0.005865685868720119
+   ],
+   [
+    "old",
+    0.005719310847419754
+   ],
+   [
+    "all",
+    0.005700613741903245
+   ],
+   [
+    "ale",
+    0.005631293357051638
+   ],
+   [
+    "ine",
+    0.005585383268042789
+   ]
+  ],
+  "top_starts_2": [
+   [
+    "co",
+    0.018869555392956816
+   ],
+   [
+    "ba",
+    0.017126162024229157
+   ],
+   [
+    "ca",
+    0.01708009125827737
+   ],
+   [
+    "bo",
+    0.016062892396631334
+   ],
+   [
+    "ma",
+    0.016054910434747147
+   ],
+   [
+    "ha",
+    0.016025195242612148
+   ],
+   [
+    "pa",
+    0.015794558554484892
+   ],
+   [
+    "la",
+    0.015549074312599064
+   ],
+   [
+    "wa",
+    0.015264815042201832
+   ],
+   [
+    "lo",
+    0.015197908158930646
+   ]
+  ]
+ },
+ "openers": [
+  {
+   "word": "sale",
+   "expected_guesses": 4.6552,
+   "entropy_bits": 4.5643,
+   "p_win": 0.0007,
+   "groups": 69,
+   "worst_case_left": 2080,
+   "avg_left": 752.67
+  },
+  {
+   "word": "tale",
+   "expected_guesses": 4.6743,
+   "entropy_bits": 4.5094,
+   "p_win": 0.0007,
+   "groups": 71,
+   "worst_case_left": 2484,
+   "avg_left": 867.16
+  },
+  {
+   "word": "lare",
+   "expected_guesses": 4.6697,
+   "entropy_bits": 4.5254,
+   "p_win": 0.0,
+   "groups": 68,
+   "worst_case_left": 2434,
+   "avg_left": 826.54
+  },
+  {
+   "word": "seal",
+   "expected_guesses": 4.6902,
+   "entropy_bits": 4.4646,
+   "p_win": 0.0006,
+   "groups": 69,
+   "worst_case_left": 2080,
+   "avg_left": 809.07
+  },
+  {
+   "word": "rase",
+   "expected_guesses": 4.6818,
+   "entropy_bits": 4.4908,
+   "p_win": 0.0002,
+   "groups": 69,
+   "worst_case_left": 2018,
+   "avg_left": 764.71
+  },
+  {
+   "word": "sate",
+   "expected_guesses": 4.6939,
+   "entropy_bits": 4.4548,
+   "p_win": 0.0003,
+   "groups": 71,
+   "worst_case_left": 2124,
+   "avg_left": 819.81
+  },
+  {
+   "word": "late",
+   "expected_guesses": 4.6979,
+   "entropy_bits": 4.4425,
+   "p_win": 0.0006,
+   "groups": 69,
+   "worst_case_left": 2484,
+   "avg_left": 880.37
+  },
+  {
+   "word": "rate",
+   "expected_guesses": 4.7,
+   "entropy_bits": 4.4369,
+   "p_win": 0.0007,
+   "groups": 68,
+   "worst_case_left": 2444,
+   "avg_left": 882.89
+  },
+  {
+   "word": "rale",
+   "expected_guesses": 4.6705,
+   "entropy_bits": 4.5224,
+   "p_win": 0.0001,
+   "groups": 67,
+   "worst_case_left": 2434,
+   "avg_left": 826.26
+  },
+  {
+   "word": "seat",
+   "expected_guesses": 4.7016,
+   "entropy_bits": 4.4318,
+   "p_win": 0.0007,
+   "groups": 71,
+   "worst_case_left": 2124,
+   "avg_left": 872.59
+  },
+  {
+   "word": "real",
+   "expected_guesses": 4.7019,
+   "entropy_bits": 4.4313,
+   "p_win": 0.0006,
+   "groups": 68,
+   "worst_case_left": 2434,
+   "avg_left": 883.09
+  },
+  {
+   "word": "leas",
+   "expected_guesses": 4.6909,
+   "entropy_bits": 4.4648,
+   "p_win": 0.0,
+   "groups": 71,
+   "worst_case_left": 2080,
+   "avg_left": 805.79
+  },
+  {
+   "word": "sane",
+   "expected_guesses": 4.7098,
+   "entropy_bits": 4.4104,
+   "p_win": 0.0003,
+   "groups": 68,
+   "worst_case_left": 2096,
+   "avg_left": 816.45
+  },
+  {
+   "word": "teal",
+   "expected_guesses": 4.7125,
+   "entropy_bits": 4.4013,
+   "p_win": 0.0005,
+   "groups": 70,
+   "worst_case_left": 2484,
+   "avg_left": 931.6
+  },
+  {
+   "word": "tael",
+   "expected_guesses": 4.6942,
+   "entropy_bits": 4.4543,
+   "p_win": 0.0001,
+   "groups": 70,
+   "worst_case_left": 2484,
+   "avg_left": 891.51
+  },
+  {
+   "word": "earl",
+   "expected_guesses": 4.7279,
+   "entropy_bits": 4.3573,
+   "p_win": 0.0006,
+   "groups": 66,
+   "worst_case_left": 2434,
+   "avg_left": 898.92
+  },
+  {
+   "word": "lane",
+   "expected_guesses": 4.718,
+   "entropy_bits": 4.387,
+   "p_win": 0.0001,
+   "groups": 70,
+   "worst_case_left": 2541,
+   "avg_left": 904.45
+  },
+  {
+   "word": "tear",
+   "expected_guesses": 4.7313,
+   "entropy_bits": 4.3476,
+   "p_win": 0.0007,
+   "groups": 70,
+   "worst_case_left": 2444,
+   "avg_left": 946.8
+  },
+  {
+   "word": "lear",
+   "expected_guesses": 4.7236,
+   "entropy_bits": 4.3714,
+   "p_win": 0.0,
+   "groups": 67,
+   "worst_case_left": 2434,
+   "avg_left": 895.05
+  },
+  {
+   "word": "dale",
+   "expected_guesses": 4.7353,
+   "entropy_bits": 4.3359,
+   "p_win": 0.0005,
+   "groups": 69,
+   "worst_case_left": 2679,
+   "avg_left": 1004.35
+  },
+  {
+   "word": "leat",
+   "expected_guesses": 4.7053,
+   "entropy_bits": 4.4235,
+   "p_win": 0.0,
+   "groups": 69,
+   "worst_case_left": 2484,
+   "avg_left": 928.4
+  },
+  {
+   "word": "ears",
+   "expected_guesses": 4.7222,
+   "entropy_bits": 4.3756,
+   "p_win": 0.0001,
+   "groups": 72,
+   "worst_case_left": 2018,
+   "avg_left": 814.01
+  },
+  {
+   "word": "sole",
+   "expected_guesses": 4.7381,
+   "entropy_bits": 4.3274,
+   "p_win": 0.0007,
+   "groups": 68,
+   "worst_case_left": 2666,
+   "avg_left": 942.3
+  },
+  {
+   "word": "dare",
+   "expected_guesses": 4.7381,
+   "entropy_bits": 4.3285,
+   "p_win": 0.0005,
+   "groups": 71,
+   "worst_case_left": 2602,
+   "avg_left": 995.5
+  },
+  {
+   "word": "sore",
+   "expected_guesses": 4.7404,
+   "entropy_bits": 4.3211,
+   "p_win": 0.0007,
+   "groups": 67,
+   "worst_case_left": 2533,
+   "avg_left": 923.29
+  }
+ ],
+ "common_openers": [
+  {
+   "word": "sale",
+   "expected_guesses": 4.6552,
+   "entropy_bits": 4.5643,
+   "p_win": 0.0007,
+   "groups": 69,
+   "worst_case_left": 2080,
+   "avg_left": 752.67
+  },
+  {
+   "word": "tale",
+   "expected_guesses": 4.6743,
+   "entropy_bits": 4.5094,
+   "p_win": 0.0007,
+   "groups": 71,
+   "worst_case_left": 2484,
+   "avg_left": 867.16
+  },
+  {
+   "word": "seal",
+   "expected_guesses": 4.6902,
+   "entropy_bits": 4.4646,
+   "p_win": 0.0006,
+   "groups": 69,
+   "worst_case_left": 2080,
+   "avg_left": 809.07
+  },
+  {
+   "word": "sate",
+   "expected_guesses": 4.6939,
+   "entropy_bits": 4.4548,
+   "p_win": 0.0003,
+   "groups": 71,
+   "worst_case_left": 2124,
+   "avg_left": 819.81
+  },
+  {
+   "word": "late",
+   "expected_guesses": 4.6979,
+   "entropy_bits": 4.4425,
+   "p_win": 0.0006,
+   "groups": 69,
+   "worst_case_left": 2484,
+   "avg_left": 880.37
+  },
+  {
+   "word": "rate",
+   "expected_guesses": 4.7,
+   "entropy_bits": 4.4369,
+   "p_win": 0.0007,
+   "groups": 68,
+   "worst_case_left": 2444,
+   "avg_left": 882.89
+  },
+  {
+   "word": "seat",
+   "expected_guesses": 4.7016,
+   "entropy_bits": 4.4318,
+   "p_win": 0.0007,
+   "groups": 71,
+   "worst_case_left": 2124,
+   "avg_left": 872.59
+  },
+  {
+   "word": "real",
+   "expected_guesses": 4.7019,
+   "entropy_bits": 4.4313,
+   "p_win": 0.0006,
+   "groups": 68,
+   "worst_case_left": 2434,
+   "avg_left": 883.09
+  },
+  {
+   "word": "sane",
+   "expected_guesses": 4.7098,
+   "entropy_bits": 4.4104,
+   "p_win": 0.0003,
+   "groups": 68,
+   "worst_case_left": 2096,
+   "avg_left": 816.45
+  },
+  {
+   "word": "teal",
+   "expected_guesses": 4.7125,
+   "entropy_bits": 4.4013,
+   "p_win": 0.0005,
+   "groups": 70,
+   "worst_case_left": 2484,
+   "avg_left": 931.6
+  }
+ ],
+ "pairs": [
+  {
+   "first": "sale",
+   "second": "torn",
+   "joint_bits": 7.771
+  },
+  {
+   "first": "lare",
+   "second": "tons",
+   "joint_bits": 7.75
+  },
+  {
+   "first": "sale",
+   "second": "dirt",
+   "joint_bits": 7.721
+  },
+  {
+   "first": "sale",
+   "second": "riot",
+   "joint_bits": 7.718
+  },
+  {
+   "first": "sale",
+   "second": "port",
+   "joint_bits": 7.686
+  },
+  {
+   "first": "seal",
+   "second": "torn",
+   "joint_bits": 7.682
+  },
+  {
+   "first": "sate",
+   "second": "roil",
+   "joint_bits": 7.666
+  },
+  {
+   "first": "sate",
+   "second": "lord",
+   "joint_bits": 7.651
+  },
+  {
+   "first": "lare",
+   "second": "dots",
+   "joint_bits": 7.65
+  },
+  {
+   "first": "seal",
+   "second": "riot",
+   "joint_bits": 7.644
+  }
+ ],
+ "traps": [
+  {
+   "pattern": "_ear",
+   "size": 11,
+   "words": [
+    "bear",
+    "dear",
+    "fear",
+    "gear",
+    "hear",
+    "near",
+    "pear",
+    "rear",
+    "tear",
+    "wear",
+    "year"
+   ]
+  },
+  {
+   "pattern": "_ale",
+   "size": 10,
+   "words": [
+    "bale",
+    "dale",
+    "gale",
+    "hale",
+    "kale",
+    "male",
+    "pale",
+    "sale",
+    "tale",
+    "wale"
+   ]
+  },
+  {
+   "pattern": "_ail",
+   "size": 10,
+   "words": [
+    "bail",
+    "fail",
+    "hail",
+    "jail",
+    "mail",
+    "nail",
+    "rail",
+    "sail",
+    "tail",
+    "wail"
+   ]
+  },
+  {
+   "pattern": "_ake",
+   "size": 9,
+   "words": [
+    "bake",
+    "cake",
+    "hake",
+    "lake",
+    "make",
+    "rake",
+    "sake",
+    "take",
+    "wake"
+   ]
+  },
+  {
+   "pattern": "_are",
+   "size": 9,
+   "words": [
+    "bare",
+    "care",
+    "dare",
+    "fare",
+    "hare",
+    "mare",
+    "pare",
+    "rare",
+    "ware"
+   ]
+  },
+  {
+   "pattern": "_ill",
+   "size": 9,
+   "words": [
+    "bill",
+    "fill",
+    "gill",
+    "hill",
+    "kill",
+    "mill",
+    "pill",
+    "till",
+    "will"
+   ]
+  },
+  {
+   "pattern": "_ate",
+   "size": 9,
+   "words": [
+    "date",
+    "fate",
+    "gate",
+    "hate",
+    "late",
+    "mate",
+    "pate",
+    "rate",
+    "sate"
+   ]
+  },
+  {
+   "pattern": "_ore",
+   "size": 8,
+   "words": [
+    "bore",
+    "core",
+    "fore",
+    "gore",
+    "lore",
+    "more",
+    "sore",
+    "wore"
+   ]
+  },
+  {
+   "pattern": "_eal",
+   "size": 8,
+   "words": [
+    "deal",
+    "heal",
+    "meal",
+    "real",
+    "seal",
+    "teal",
+    "weal",
+    "zeal"
+   ]
+  },
+  {
+   "pattern": "_ell",
+   "size": 8,
+   "words": [
+    "bell",
+    "cell",
+    "fell",
+    "hell",
+    "sell",
+    "tell",
+    "well",
+    "yell"
+   ]
+  },
+  {
+   "pattern": "_ick",
+   "size": 8,
+   "words": [
+    "kick",
+    "lick",
+    "nick",
+    "pick",
+    "rick",
+    "sick",
+    "tick",
+    "wick"
+   ]
+  },
+  {
+   "pattern": "_ack",
+   "size": 8,
+   "words": [
+    "back",
+    "hack",
+    "jack",
+    "lack",
+    "pack",
+    "rack",
+    "sack",
+    "tack"
+   ]
+  }
+ ],
+ "trap_share": 0.5636942675159236,
+ "first_feedback": [
+  {
+   "greens": 0,
+   "yellows": 0,
+   "probability": 0.1759,
+   "avg_candidates_left": 2080.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 0,
+   "yellows": 1,
+   "probability": 0.2374,
+   "avg_candidates_left": 868.2,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 0,
+   "yellows": 2,
+   "probability": 0.1172,
+   "avg_candidates_left": 245.8,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 0,
+   "yellows": 3,
+   "probability": 0.0172,
+   "avg_candidates_left": 49.1,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 0,
+   "yellows": 4,
+   "probability": 0.0001,
+   "avg_candidates_left": 5.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 1,
+   "yellows": 0,
+   "probability": 0.2274,
+   "avg_candidates_left": 643.8,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 1,
+   "yellows": 1,
+   "probability": 0.1116,
+   "avg_candidates_left": 124.4,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 1,
+   "yellows": 2,
+   "probability": 0.0122,
+   "avg_candidates_left": 14.5,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 1,
+   "yellows": 3,
+   "probability": 0.0006,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 2,
+   "yellows": 0,
+   "probability": 0.0773,
+   "avg_candidates_left": 100.0,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 2,
+   "yellows": 1,
+   "probability": 0.0119,
+   "avg_candidates_left": 8.7,
+   "distinct_patterns": 10
+  },
+  {
+   "greens": 2,
+   "yellows": 2,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 3
+  },
+  {
+   "greens": 3,
+   "yellows": 0,
+   "probability": 0.0104,
+   "avg_candidates_left": 12.0,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 4,
+   "yellows": 0,
+   "probability": 0.0007,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  }
+ ],
+ "book_patterns": 52,
+ "book_coverage": 0.9957,
+ "benchmark": {
+  "length": 4,
+  "games": 652,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "sale",
+  "avg_guesses": 4.419,
+  "distribution": {
+   "2": 9,
+   "3": 114,
+   "4": 258,
+   "5": 165,
+   "6": 89,
+   "7": 7,
+   "8": 9,
+   "9": 1
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 0.9739,
+  "failed_words": [
+   "jazz",
+   "hast",
+   "bade",
+   "junk",
+   "mart",
+   "cola",
+   "polo",
+   "chez",
+   "lull",
+   "mort",
+   "quiz",
+   "bunk",
+   "gaol",
+   "nana",
+   "morn",
+   "pail",
+   "dill"
+  ],
+  "avg_live_step_seconds": 0.0042,
+  "max_live_step_seconds": 0.067
+ },
+ "benchmark_hard": {
+  "length": 4,
+  "games": 652,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "sale",
+  "avg_guesses": 4.828,
+  "distribution": {
+   "2": 26,
+   "3": 129,
+   "4": 201,
+   "5": 117,
+   "6": 84,
+   "7": 31,
+   "8": 23,
+   "9": 20,
+   "10": 7,
+   "11": 8,
+   "12": 2,
+   "13": 3,
+   "14": 1
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 0.8543,
+  "failed_words": [
+   "more",
+   "will",
+   "your",
+   "year",
+   "near",
+   "wall",
+   "cold",
+   "hall",
+   "zone",
+   "zero",
+   "wine",
+   "fill",
+   "rear",
+   "ward",
+   "lane",
+   "dare",
+   "fold",
+   "cave",
+   "cult",
+   "mama"
+  ],
+  "avg_live_step_seconds": 0.002,
+  "max_live_step_seconds": 0.039
+ },
+ "seconds": 16.5
+}

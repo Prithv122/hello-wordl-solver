@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hello Wordl Solver</title>
+<style>
+  :root { --bg:#121213; --fg:#e8e8e8; --muted:#8a8a8e; --grey:#3a3a3c; --yellow:#b59f3b; --green:#538d4e; --line:#2c2c2e; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--fg); }
+  main { max-width: 640px; margin: 0 auto; padding: 16px; }
+  h1 { font-size: 1.4rem; margin: 4px 0 2px; letter-spacing: .04em; }
+  .sub { color: var(--muted); margin: 0 0 14px; font-size: .9rem; }
+  .bar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:12px; }
+  select, input[type=text] { background:#1e1e20; color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:8px 10px; font-size:1rem; }
+  input[type=text] { text-transform: uppercase; letter-spacing:.15em; width: 12.5em; font-weight:700; }
+  button { background:#2b2b2e; color:var(--fg); border:1px solid #3c3c40; border-radius:6px; padding:8px 12px; font-size:.95rem; cursor:pointer; }
+  button.primary { background: var(--green); border-color: var(--green); font-weight: 700; }
+  .row { display:flex; gap:5px; margin: 5px 0; }
+  .tile { width: 2.6em; height: 2.6em; display:inline-flex; align-items:center; justify-content:center; font-weight: 800; font-size: 1.15rem; border-radius:4px; border:2px solid var(--grey); padding:0; color:#fff; }
+  .tile.small { width: 2em; height: 2em; font-size: .95rem; }
+  .c0 { background: var(--grey); } .c1 { background: var(--yellow); border-color: var(--yellow);} .c2 { background: var(--green); border-color: var(--green);}
+  #current .tile { cursor:pointer; }
+  #status { margin: 10px 0; color: var(--muted); font-size:.92rem; }
+  table { width:100%; border-collapse: collapse; margin: 6px 0 12px; font-size:.93rem; }
+  th, td { text-align:right; padding: 5px 6px; border-bottom:1px solid var(--line); }
+  th:first-child, td:first-child { text-align:left; letter-spacing:.08em; }
+  th { color: var(--muted); font-weight: 500; }
+  tr { cursor: pointer; } tr.best td { color: #9fdc96; }
+  .cand { display:inline-block; margin: 2px 6px 2px 0; letter-spacing:.06em; }
+  .card { background:#19191b; border:1px solid var(--line); border-radius:10px; padding:12px; margin: 12px 0; }
+  .help { color: var(--muted); font-size: .85rem; }
+  a { color:#9cc3ff; }
+</style>
+</head>
+<body>
+<main>
+  <h1>HELLO WORDL SOLVER</h1>
+  <p class="sub">Any length 4–11 · information-theory solver · 6 tries · <a href="https://github.com/Prithv122/hello-wordl-solver">source &amp; strategy guide</a></p>
+
+  <div class="bar">
+    <label>Letters <select id="len">
+      <option>4</option><option selected>5</option><option>6</option><option>7</option>
+      <option>8</option><option>9</option><option>10</option><option>11</option></select></label>
+    <label><input type="checkbox" id="hard"> hard mode</label>
+    <button id="new">New game</button>
+  </div>
+
+  <div id="history"></div>
+
+  <div class="card">
+    <div class="help">1. Type the suggested word into the game (or the word you played).
+      2. Tap each tile below until it matches the game's colours. 3. Press <b>Next</b>.</div>
+    <div class="row" id="current"></div>
+    <div class="bar">
+      <input type="text" id="played" autocomplete="off" spellcheck="false" aria-label="word you played">
+      <button class="primary" id="submit">Next ▶</button>
+      <button id="undo">Undo</button>
+      <button id="reject" title="the game said 'not a valid word'">Game rejected it</button>
+    </div>
+  </div>
+
+  <div id="status"></div>
+  <table id="suggest"></table>
+  <div><b>Possible answers</b> <span class="help">(most likely first)</span></div>
+  <div id="cands"></div>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

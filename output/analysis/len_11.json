@@ -1,0 +1,1425 @@
+{
+ "length": 11,
+ "n_words": 39606,
+ "tiers": {
+  "A": 353,
+  "B": 2093,
+  "C": 1327,
+  "D": 35833
+ },
+ "n_common": 649,
+ "n_guess_pool": 4284,
+ "letters": {
+  "presence": {
+   "i": 0.757313341511567,
+   "e": 0.7517227709240165,
+   "n": 0.6756477345943698,
+   "t": 0.6596529067263428,
+   "a": 0.653145351315762,
+   "r": 0.6259011396984749,
+   "o": 0.58550175384928,
+   "s": 0.5247948007839965,
+   "c": 0.4479255402912653,
+   "l": 0.4386741587977109,
+   "u": 0.3407829237481618,
+   "p": 0.30757077087097867,
+   "d": 0.286370295894401,
+   "m": 0.2761744313587855,
+   "g": 0.2246348011058585,
+   "h": 0.21431708102770042,
+   "y": 0.17379353932455327,
+   "b": 0.15799959594713223,
+   "v": 0.11785296297812632,
+   "f": 0.11371405308103086,
+   "k": 0.037795351172714944,
+   "w": 0.03522584930695031,
+   "x": 0.035122239150498065,
+   "z": 0.02734038855515641,
+   "q": 0.019715301491239835,
+   "j": 0.010965917841648068
+  },
+  "positional": {
+   "pos1": {
+    "c": 0.12528896256171967,
+    "p": 0.09817784541962071,
+    "s": 0.08260105754348113,
+    "a": 0.07958908923852602,
+    "i": 0.07253162572465754,
+    "d": 0.06787651279803683
+   },
+   "pos2": {
+    "e": 0.17746947694762377,
+    "o": 0.13448333337920199,
+    "n": 0.12409715968912952,
+    "r": 0.09672030615539497,
+    "a": 0.09254036113996447,
+    "i": 0.07501781692078563
+   },
+   "pos3": {
+    "n": 0.0977177878114251,
+    "r": 0.09419777894821302,
+    "s": 0.09375125354960373,
+    "t": 0.07891957900699005,
+    "e": 0.06783539560948307,
+    "a": 0.06317975039875703
+   },
+   "pos4": {
+    "e": 0.12770886211042412,
+    "t": 0.09110435710583248,
+    "r": 0.08951611512761003,
+    "i": 0.08702613932114052,
+    "o": 0.07602929975918533,
+    "c": 0.059869581061432
+   },
+   "pos5": {
+    "i": 0.12393905958527204,
+    "r": 0.11975308357988439,
+    "e": 0.10625592501679039,
+    "o": 0.10132429635918497,
+    "a": 0.0653683431925366,
+    "t": 0.06269651146600957
+   },
+   "pos6": {
+    "i": 0.09669700055305239,
+    "e": 0.08366967064603299,
+    "r": 0.08298303587340773,
+    "t": 0.08192933141555608,
+    "n": 0.0819116863146803,
+    "a": 0.06764392340255596
+   },
+   "pos7": {
+    "a": 0.18297547532873384,
+    "i": 0.1257347563627935,
+    "e": 0.09283332374637623,
+    "t": 0.075769702221262,
+    "o": 0.06906946699881343,
+    "r": 0.06851111738550049
+   },
+   "pos8": {
+    "t": 0.20265769079028684,
+    "a": 0.10982952808938705,
+    "i": 0.10095928780933068,
+    "n": 0.08908985873258826,
+    "r": 0.07482891937442417,
+    "e": 0.06598546447473483
+   },
+   "pos9": {
+    "i": 0.3146221658770745,
+    "e": 0.10453692639270173,
+    "o": 0.0967745287883059,
+    "t": 0.07932914935047208,
+    "n": 0.06864060780485978,
+    "a": 0.06456407363245024
+   },
+   "pos10": {
+    "n": 0.15542287659028192,
+    "e": 0.13848081280995922,
+    "o": 0.11476831327161507,
+    "l": 0.09855014180648847,
+    "t": 0.07327747300058059,
+    "a": 0.06929428786018059
+   },
+   "pos11": {
+    "s": 0.1828162872080414,
+    "e": 0.17397824425425232,
+    "n": 0.12511562318735336,
+    "y": 0.11355690264706474,
+    "d": 0.0803853862613401,
+    "g": 0.07655176357531596
+   }
+  },
+  "positional_matrix": [
+   [
+    0.07958908923852602,
+    0.026509136646129618,
+    0.12528896256171967,
+    0.06787651279803683,
+    0.052549255959089394,
+    0.028884894131844484,
+    0.021304181272442296,
+    0.03779655408789805,
+    0.07253162572465754,
+    0.0023363379786283146,
+    0.002825185825833261,
+    0.019987493293190457,
+    0.043500662985646754,
+    0.027224209928179716,
+    0.03190770508748855,
+    0.09817784541962071,
+    0.003392373231199685,
+    0.05405077783555679,
+    0.08260105754348113,
+    0.04010528363892259,
+    0.05316261138985681,
+    0.013698045398595668,
+    0.01070775301556938,
+    0.0014742675233139196,
+    0.000765841930430968,
+    0.0017523355542078652
+   ],
+   [
+    0.09254036113996447,
+    0.009368120543018962,
+    0.022776307935012213,
+    0.00819733937531609,
+    0.17746947694762377,
+    0.006923449852035952,
+    0.004105875454434331,
+    0.03063352011135646,
+    0.07501781692078563,
+    0.0003711403689628815,
+    0.0005245624693234645,
+    0.030956975327972047,
+    0.02043480656606792,
+    0.12409715968912952,
+    0.13448333337920199,
+    0.023133857472788868,
+    0.0030597894594067,
+    0.09672030615539497,
+    0.012646516974447294,
+    0.015554811811622231,
+    0.05446745311666698,
+    0.011168774362828131,
+    0.0018489181535407608,
+    0.020620613581803775,
+    0.022348046681353043,
+    0.0005306661500650102
+   ],
+   [
+    0.06317975039875703,
+    0.026609567167128777,
+    0.06300905134115369,
+    0.0300034786290492,
+    0.06783539560948307,
+    0.02231478244201428,
+    0.021999145001653803,
+    0.011523381096405376,
+    0.04396254958768619,
+    0.0024664474420574923,
+    0.002296128252406251,
+    0.05508999103448235,
+    0.04883757792038376,
+    0.0977177878114251,
+    0.054532525434860916,
+    0.0624608878166381,
+    0.004983393873146868,
+    0.09419777894821302,
+    0.09375125354960373,
+    0.07891957900699005,
+    0.0270476416762251,
+    0.013181434362769962,
+    0.0028265481917613606,
+    0.0028948071800004673,
+    0.007884808879628329,
+    0.0004743073461375988
+   ],
+   [
+    0.05928123125933361,
+    0.01331117802743007,
+    0.059869581061432,
+    0.022403554299683284,
+    0.12770886211042412,
+    0.018634441164518952,
+    0.021033858327022734,
+    0.026605458965569304,
+    0.08702613932114052,
+    0.0042228747837774715,
+    0.006857878077830653,
+    0.04350148603287726,
+    0.03605936400964444,
+    0.053563897329166985,
+    0.07602929975918533,
+    0.04952188658801637,
+    0.0031518394368135866,
+    0.08951611512761003,
+    0.0505535235316687,
+    0.09110435710583248,
+    0.036002144640664306,
+    0.01116018747121243,
+    0.002391979254201163,
+    0.0028055686944142193,
+    0.00663057166072578,
+    0.001052721959875329
+   ],
+   [
+    0.0653683431925366,
+    0.01730946878109478,
+    0.03628515798953111,
+    0.023405474783083337,
+    0.10625592501679039,
+    0.014500905695475606,
+    0.02362117881359232,
+    0.027950672214210683,
+    0.12393905958527204,
+    0.0006514922972991129,
+    0.006119485124257335,
+    0.043605063361235104,
+    0.02985372858556204,
+    0.04954641386444984,
+    0.10132429635918497,
+    0.02546883777521656,
+    0.0019503569660183904,
+    0.11975308357988439,
+    0.05003708132604407,
+    0.06269651146600957,
+    0.046631056297196834,
+    0.01093645697156082,
+    0.0028375456034701,
+    0.0019460752445300833,
+    0.006149794835077623,
+    0.0018565342715002467
+   ],
+   [
+    0.06764392340255596,
+    0.02282699216829253,
+    0.05654378789591626,
+    0.023352464444810584,
+    0.08366967064603299,
+    0.017915965484944233,
+    0.028514379841544046,
+    0.025109290413393996,
+    0.09669700055305239,
+    0.0006242660825122946,
+    0.0027600032990359176,
+    0.06624374888887256,
+    0.039097723757834345,
+    0.0819116863146803,
+    0.060725845633720146,
+    0.034000732952868824,
+    0.0018161838534439597,
+    0.08298303587340773,
+    0.06342142848672834,
+    0.08192933141555608,
+    0.03150721640190603,
+    0.01744287981290062,
+    0.005270008932970119,
+    0.0010034258860261102,
+    0.00531466686601765,
+    0.0016743406910402524
+   ],
+   [
+    0.18297547532873384,
+    0.009368467582876787,
+    0.05385889293258253,
+    0.020235661964447302,
+    0.09283332374637623,
+    0.006490733356959807,
+    0.016388713416860348,
+    0.026360826349079363,
+    0.1257347563627935,
+    0.00014955541978324584,
+    0.002017049585169771,
+    0.04718348512915258,
+    0.02212879721662164,
+    0.05465914808566523,
+    0.06906946699881343,
+    0.02612175106004149,
+    0.0007293863313188624,
+    0.06851111738550049,
+    0.04603375380471407,
+    0.075769702221262,
+    0.0340994845513128,
+    0.00804754712427863,
+    0.0028585368251367593,
+    0.0011883324740227796,
+    0.006510249659230976,
+    0.000675785087342299
+   ],
+   [
+    0.10982952808938705,
+    0.0036741391124698896,
+    0.03433554434537038,
+    0.019003876817423528,
+    0.06598546447473483,
+    0.007537494672791749,
+    0.012863902272375324,
+    0.022168183895613452,
+    0.10095928780933068,
+    0.00014380346862726746,
+    0.005014069382736158,
+    0.058147301972742635,
+    0.032419553704726024,
+    0.08908985873258826,
+    0.0375684621413848,
+    0.017073153396871578,
+    0.00013581451730708058,
+    0.07482891937442417,
+    0.044036436249294326,
+    0.20265769079028684,
+    0.03245411934353159,
+    0.010565872335343165,
+    0.00668546492471333,
+    0.0012186046670206118,
+    0.0066770562427543615,
+    0.00492639726623762
+   ],
+   [
+    0.06456407363245024,
+    0.03847251269516895,
+    0.023490548790376542,
+    0.019245146899075298,
+    0.10453692639270173,
+    0.0030641907689541,
+    0.014599936332724045,
+    0.019450983742277217,
+    0.3146221658770745,
+    1.994072263776611e-05,
+    0.0039638751861490636,
+    0.03321901160408115,
+    0.009551456072200211,
+    0.06864060780485978,
+    0.0967745287883059,
+    0.013940652052672689,
+    0.0007714672589361422,
+    0.02803198974952979,
+    0.02991341475136857,
+    0.07932914935047208,
+    0.01511595411798208,
+    0.0051126310472038574,
+    0.0015441233638715003,
+    0.0011258817136733418,
+    0.00365456418860112,
+    0.007244267096759827
+   ],
+   [
+    0.06929428786018059,
+    0.00047059542657791115,
+    0.034616616146925364,
+    0.009591166342410693,
+    0.13848081280995922,
+    0.001862236980514245,
+    0.009237159893992767,
+    0.009905171757493947,
+    0.06902612453441563,
+    9.970361318883055e-06,
+    0.004599755379576816,
+    0.09855014180648847,
+    0.008807139992406008,
+    0.15542287659028192,
+    0.11476831327161507,
+    0.004682866735782481,
+    0.0,
+    0.047871801169196704,
+    0.05876947643665279,
+    0.07327747300058059,
+    0.06049483433164786,
+    0.02057457217905293,
+    0.0006199022907873554,
+    0.0001294599361278301,
+    0.0013596013335550512,
+    0.00757764343255232
+   ],
+   [
+    0.030533715669019832,
+    5.9822167913298335e-05,
+    0.032875772770709376,
+    0.0803853862613401,
+    0.17397824425425232,
+    0.001413746585957291,
+    0.07655176357531596,
+    0.007421222251258794,
+    0.0028331442939227,
+    9.970361318883055e-06,
+    0.00319588301551833,
+    0.04600201372691231,
+    0.020774077889714165,
+    0.12511562318735336,
+    0.002256453155154249,
+    0.003717615234109926,
+    0.0,
+    0.035760642417485694,
+    0.1828162872080414,
+    0.05878863631961095,
+    0.00030521452030803743,
+    9.970361318883057e-05,
+    0.0004162461710160411,
+    0.0010521498130828062,
+    0.11355690264706474,
+    7.976289055106445e-05
+   ]
+  ],
+  "p_double_letter": 0.9786308613076917,
+  "vowel_count": {
+   "1": 1.994072263776611e-05,
+   "2": 0.00840998804815845,
+   "3": 0.12740976299518425,
+   "4": 0.42566504613835643,
+   "5": 0.3755581230409139,
+   "6": 0.06093909224685828,
+   "7": 0.001958165362817983,
+   "8": 3.988144527553222e-05
+  },
+  "top_endings_2": [
+   [
+    "on",
+    0.10343035932298839
+   ],
+   [
+    "ng",
+    0.07579401611508035
+   ],
+   [
+    "ed",
+    0.06894485858610323
+   ],
+   [
+    "ly",
+    0.05378056744360426
+   ],
+   [
+    "us",
+    0.04687036372776134
+   ],
+   [
+    "nt",
+    0.042132941388393644
+   ],
+   [
+    "al",
+    0.040246113820120034
+   ],
+   [
+    "le",
+    0.03927117568566107
+   ],
+   [
+    "es",
+    0.03819079371117633
+   ],
+   [
+    "te",
+    0.0324697220679474
+   ]
+  ],
+  "top_endings_3": [
+   [
+    "ion",
+    0.09918314485188838
+   ],
+   [
+    "ing",
+    0.07564461545631466
+   ],
+   [
+    "ous",
+    0.03758697015217786
+   ],
+   [
+    "ent",
+    0.03388549696118171
+   ],
+   [
+    "ble",
+    0.030564965670265794
+   ],
+   [
+    "ess",
+    0.029889921559916904
+   ],
+   [
+    "ted",
+    0.029284716876078684
+   ],
+   [
+    "ate",
+    0.025516853553374626
+   ],
+   [
+    "ive",
+    0.020100016277341544
+   ],
+   [
+    "nce",
+    0.019868013097837495
+   ]
+  ],
+  "top_starts_2": [
+   [
+    "co",
+    0.07080267549816101
+   ],
+   [
+    "in",
+    0.051808708075588725
+   ],
+   [
+    "un",
+    0.04946938039548234
+   ],
+   [
+    "re",
+    0.045493307227306407
+   ],
+   [
+    "pr",
+    0.040241288090206065
+   ],
+   [
+    "di",
+    0.032724599394832986
+   ],
+   [
+    "de",
+    0.029882497720797804
+   ],
+   [
+    "su",
+    0.021674350867749225
+   ],
+   [
+    "ex",
+    0.019479518391122712
+   ],
+   [
+    "pe",
+    0.01851324218392409
+   ]
+  ]
+ },
+ "openers": [
+  {
+   "word": "unrealities",
+   "expected_guesses": 2.6622,
+   "entropy_bits": 11.7961,
+   "p_win": 0.0,
+   "groups": 13151,
+   "worst_case_left": 71,
+   "avg_left": 10.65
+  },
+  {
+   "word": "persecution",
+   "expected_guesses": 2.7071,
+   "entropy_bits": 11.6689,
+   "p_win": 0.0005,
+   "groups": 12109,
+   "worst_case_left": 101,
+   "avg_left": 12.72
+  },
+  {
+   "word": "ulcerations",
+   "expected_guesses": 2.6942,
+   "entropy_bits": 11.7051,
+   "p_win": 0.0,
+   "groups": 13003,
+   "worst_case_left": 126,
+   "avg_left": 13.13
+  },
+  {
+   "word": "aeronautics",
+   "expected_guesses": 2.6812,
+   "entropy_bits": 11.7418,
+   "p_win": 0.0001,
+   "groups": 12451,
+   "worst_case_left": 92,
+   "avg_left": 11.43
+  },
+  {
+   "word": "customarily",
+   "expected_guesses": 2.7114,
+   "entropy_bits": 11.6602,
+   "p_win": 0.0005,
+   "groups": 12387,
+   "worst_case_left": 112,
+   "avg_left": 13.45
+  },
+  {
+   "word": "personality",
+   "expected_guesses": 2.7174,
+   "entropy_bits": 11.6361,
+   "p_win": 0.0008,
+   "groups": 13276,
+   "worst_case_left": 104,
+   "avg_left": 14.88
+  },
+  {
+   "word": "decorations",
+   "expected_guesses": 2.73,
+   "entropy_bits": 11.6027,
+   "p_win": 0.0005,
+   "groups": 12441,
+   "worst_case_left": 125,
+   "avg_left": 15.49
+  },
+  {
+   "word": "lacerations",
+   "expected_guesses": 2.7209,
+   "entropy_bits": 11.636,
+   "p_win": 0.0,
+   "groups": 12406,
+   "worst_case_left": 116,
+   "avg_left": 13.93
+  },
+  {
+   "word": "percolation",
+   "expected_guesses": 2.7391,
+   "entropy_bits": 11.581,
+   "p_win": 0.0005,
+   "groups": 12506,
+   "worst_case_left": 146,
+   "avg_left": 16.38
+  },
+  {
+   "word": "hectoliters",
+   "expected_guesses": 2.7287,
+   "entropy_bits": 11.6082,
+   "p_win": 0.0,
+   "groups": 11583,
+   "worst_case_left": 113,
+   "avg_left": 14.62
+  },
+  {
+   "word": "legionaries",
+   "expected_guesses": 2.7143,
+   "entropy_bits": 11.6587,
+   "p_win": 0.0,
+   "groups": 11682,
+   "worst_case_left": 83,
+   "avg_left": 12.67
+  },
+  {
+   "word": "description",
+   "expected_guesses": 2.7474,
+   "entropy_bits": 11.5588,
+   "p_win": 0.0008,
+   "groups": 11507,
+   "worst_case_left": 100,
+   "avg_left": 14.89
+  },
+  {
+   "word": "replication",
+   "expected_guesses": 2.7377,
+   "entropy_bits": 11.5867,
+   "p_win": 0.0002,
+   "groups": 11628,
+   "worst_case_left": 106,
+   "avg_left": 15.0
+  },
+  {
+   "word": "sanctuaried",
+   "expected_guesses": 2.7372,
+   "entropy_bits": 11.593,
+   "p_win": 0.0,
+   "groups": 12310,
+   "worst_case_left": 109,
+   "avg_left": 14.48
+  },
+  {
+   "word": "abnormities",
+   "expected_guesses": 2.7245,
+   "entropy_bits": 11.6261,
+   "p_win": 0.0,
+   "groups": 11948,
+   "worst_case_left": 115,
+   "avg_left": 13.37
+  },
+  {
+   "word": "pageantries",
+   "expected_guesses": 2.7456,
+   "entropy_bits": 11.5737,
+   "p_win": 0.0,
+   "groups": 11805,
+   "worst_case_left": 105,
+   "avg_left": 14.57
+  },
+  {
+   "word": "celebration",
+   "expected_guesses": 2.761,
+   "entropy_bits": 11.5302,
+   "p_win": 0.0005,
+   "groups": 11504,
+   "worst_case_left": 81,
+   "avg_left": 14.12
+  },
+  {
+   "word": "sarculation",
+   "expected_guesses": 2.7317,
+   "entropy_bits": 11.6052,
+   "p_win": 0.0,
+   "groups": 12267,
+   "worst_case_left": 80,
+   "avg_left": 13.56
+  },
+  {
+   "word": "rationalism",
+   "expected_guesses": 2.7617,
+   "entropy_bits": 11.5278,
+   "p_win": 0.0004,
+   "groups": 11710,
+   "worst_case_left": 93,
+   "avg_left": 15.8
+  },
+  {
+   "word": "clandestine",
+   "expected_guesses": 2.7622,
+   "entropy_bits": 11.5206,
+   "p_win": 0.0005,
+   "groups": 10935,
+   "worst_case_left": 111,
+   "avg_left": 14.53
+  },
+  {
+   "word": "recitations",
+   "expected_guesses": 2.7473,
+   "entropy_bits": 11.5584,
+   "p_win": 0.0,
+   "groups": 11455,
+   "worst_case_left": 122,
+   "avg_left": 15.95
+  },
+  {
+   "word": "neapolitans",
+   "expected_guesses": 2.75,
+   "entropy_bits": 11.5568,
+   "p_win": 0.0,
+   "groups": 10984,
+   "worst_case_left": 111,
+   "avg_left": 14.11
+  },
+  {
+   "word": "declaration",
+   "expected_guesses": 2.7655,
+   "entropy_bits": 11.5136,
+   "p_win": 0.0008,
+   "groups": 11645,
+   "worst_case_left": 93,
+   "avg_left": 15.76
+  },
+  {
+   "word": "relocations",
+   "expected_guesses": 2.7528,
+   "entropy_bits": 11.5498,
+   "p_win": 0.0,
+   "groups": 12138,
+   "worst_case_left": 145,
+   "avg_left": 15.94
+  },
+  {
+   "word": "machineries",
+   "expected_guesses": 2.7557,
+   "entropy_bits": 11.5417,
+   "p_win": 0.0,
+   "groups": 11883,
+   "worst_case_left": 132,
+   "avg_left": 15.63
+  }
+ ],
+ "common_openers": [
+  {
+   "word": "persecution",
+   "expected_guesses": 2.7071,
+   "entropy_bits": 11.6689,
+   "p_win": 0.0005,
+   "groups": 12109,
+   "worst_case_left": 101,
+   "avg_left": 12.72
+  },
+  {
+   "word": "customarily",
+   "expected_guesses": 2.7114,
+   "entropy_bits": 11.6602,
+   "p_win": 0.0005,
+   "groups": 12387,
+   "worst_case_left": 112,
+   "avg_left": 13.45
+  },
+  {
+   "word": "personality",
+   "expected_guesses": 2.7174,
+   "entropy_bits": 11.6361,
+   "p_win": 0.0008,
+   "groups": 13276,
+   "worst_case_left": 104,
+   "avg_left": 14.88
+  },
+  {
+   "word": "decorations",
+   "expected_guesses": 2.73,
+   "entropy_bits": 11.6027,
+   "p_win": 0.0005,
+   "groups": 12441,
+   "worst_case_left": 125,
+   "avg_left": 15.49
+  },
+  {
+   "word": "percolation",
+   "expected_guesses": 2.7391,
+   "entropy_bits": 11.581,
+   "p_win": 0.0005,
+   "groups": 12506,
+   "worst_case_left": 146,
+   "avg_left": 16.38
+  },
+  {
+   "word": "description",
+   "expected_guesses": 2.7474,
+   "entropy_bits": 11.5588,
+   "p_win": 0.0008,
+   "groups": 11507,
+   "worst_case_left": 100,
+   "avg_left": 14.89
+  },
+  {
+   "word": "celebration",
+   "expected_guesses": 2.761,
+   "entropy_bits": 11.5302,
+   "p_win": 0.0005,
+   "groups": 11504,
+   "worst_case_left": 81,
+   "avg_left": 14.12
+  },
+  {
+   "word": "rationalism",
+   "expected_guesses": 2.7617,
+   "entropy_bits": 11.5278,
+   "p_win": 0.0004,
+   "groups": 11710,
+   "worst_case_left": 93,
+   "avg_left": 15.8
+  },
+  {
+   "word": "clandestine",
+   "expected_guesses": 2.7622,
+   "entropy_bits": 11.5206,
+   "p_win": 0.0005,
+   "groups": 10935,
+   "worst_case_left": 111,
+   "avg_left": 14.53
+  },
+  {
+   "word": "declaration",
+   "expected_guesses": 2.7655,
+   "entropy_bits": 11.5136,
+   "p_win": 0.0008,
+   "groups": 11645,
+   "worst_case_left": 93,
+   "avg_left": 15.76
+  }
+ ],
+ "pairs": [
+  {
+   "first": "unrealities",
+   "second": "brachiopoda",
+   "joint_bits": 13.27
+  },
+  {
+   "first": "persecution",
+   "second": "annihilated",
+   "joint_bits": 13.264
+  },
+  {
+   "first": "unrealities",
+   "second": "chenopodium",
+   "joint_bits": 13.261
+  },
+  {
+   "first": "customarily",
+   "second": "ingredients",
+   "joint_bits": 13.255
+  },
+  {
+   "first": "customarily",
+   "second": "determining",
+   "joint_bits": 13.255
+  },
+  {
+   "first": "customarily",
+   "second": "personified",
+   "joint_bits": 13.247
+  },
+  {
+   "first": "persecution",
+   "second": "fundamental",
+   "joint_bits": 13.245
+  },
+  {
+   "first": "customarily",
+   "second": "superintend",
+   "joint_bits": 13.245
+  },
+  {
+   "first": "unrealities",
+   "second": "hydrocarbon",
+   "joint_bits": 13.244
+  },
+  {
+   "first": "customarily",
+   "second": "interrupted",
+   "joint_bits": 13.243
+  }
+ ],
+ "traps": [],
+ "trap_share": 0.0,
+ "first_feedback": [
+  {
+   "greens": 0,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 0,
+   "yellows": 1,
+   "probability": 0.0,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 3
+  },
+  {
+   "greens": 0,
+   "yellows": 2,
+   "probability": 0.0019,
+   "avg_candidates_left": 7.6,
+   "distinct_patterns": 27
+  },
+  {
+   "greens": 0,
+   "yellows": 3,
+   "probability": 0.0124,
+   "avg_candidates_left": 15.3,
+   "distinct_patterns": 73
+  },
+  {
+   "greens": 0,
+   "yellows": 4,
+   "probability": 0.0246,
+   "avg_candidates_left": 20.8,
+   "distinct_patterns": 157
+  },
+  {
+   "greens": 0,
+   "yellows": 5,
+   "probability": 0.0536,
+   "avg_candidates_left": 22.9,
+   "distinct_patterns": 227
+  },
+  {
+   "greens": 0,
+   "yellows": 6,
+   "probability": 0.0641,
+   "avg_candidates_left": 21.5,
+   "distinct_patterns": 228
+  },
+  {
+   "greens": 0,
+   "yellows": 7,
+   "probability": 0.0368,
+   "avg_candidates_left": 15.5,
+   "distinct_patterns": 164
+  },
+  {
+   "greens": 0,
+   "yellows": 8,
+   "probability": 0.0152,
+   "avg_candidates_left": 7.9,
+   "distinct_patterns": 79
+  },
+  {
+   "greens": 0,
+   "yellows": 9,
+   "probability": 0.0007,
+   "avg_candidates_left": 2.8,
+   "distinct_patterns": 23
+  },
+  {
+   "greens": 0,
+   "yellows": 10,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 1,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 1,
+   "yellows": 1,
+   "probability": 0.0006,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 30
+  },
+  {
+   "greens": 1,
+   "yellows": 2,
+   "probability": 0.0054,
+   "avg_candidates_left": 4.4,
+   "distinct_patterns": 149
+  },
+  {
+   "greens": 1,
+   "yellows": 3,
+   "probability": 0.0338,
+   "avg_candidates_left": 7.7,
+   "distinct_patterns": 452
+  },
+  {
+   "greens": 1,
+   "yellows": 4,
+   "probability": 0.082,
+   "avg_candidates_left": 10.3,
+   "distinct_patterns": 868
+  },
+  {
+   "greens": 1,
+   "yellows": 5,
+   "probability": 0.1115,
+   "avg_candidates_left": 9.0,
+   "distinct_patterns": 1067
+  },
+  {
+   "greens": 1,
+   "yellows": 6,
+   "probability": 0.0763,
+   "avg_candidates_left": 7.7,
+   "distinct_patterns": 829
+  },
+  {
+   "greens": 1,
+   "yellows": 7,
+   "probability": 0.0235,
+   "avg_candidates_left": 4.3,
+   "distinct_patterns": 373
+  },
+  {
+   "greens": 1,
+   "yellows": 8,
+   "probability": 0.0025,
+   "avg_candidates_left": 2.7,
+   "distinct_patterns": 83
+  },
+  {
+   "greens": 1,
+   "yellows": 9,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 2,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 5
+  },
+  {
+   "greens": 2,
+   "yellows": 1,
+   "probability": 0.0011,
+   "avg_candidates_left": 1.8,
+   "distinct_patterns": 54
+  },
+  {
+   "greens": 2,
+   "yellows": 2,
+   "probability": 0.0108,
+   "avg_candidates_left": 3.1,
+   "distinct_patterns": 306
+  },
+  {
+   "greens": 2,
+   "yellows": 3,
+   "probability": 0.0497,
+   "avg_candidates_left": 5.8,
+   "distinct_patterns": 877
+  },
+  {
+   "greens": 2,
+   "yellows": 4,
+   "probability": 0.0873,
+   "avg_candidates_left": 7.9,
+   "distinct_patterns": 1341
+  },
+  {
+   "greens": 2,
+   "yellows": 5,
+   "probability": 0.0875,
+   "avg_candidates_left": 6.2,
+   "distinct_patterns": 1177
+  },
+  {
+   "greens": 2,
+   "yellows": 6,
+   "probability": 0.0292,
+   "avg_candidates_left": 3.3,
+   "distinct_patterns": 524
+  },
+  {
+   "greens": 2,
+   "yellows": 7,
+   "probability": 0.0033,
+   "avg_candidates_left": 1.9,
+   "distinct_patterns": 98
+  },
+  {
+   "greens": 2,
+   "yellows": 8,
+   "probability": 0.0003,
+   "avg_candidates_left": 1.7,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 3,
+   "yellows": 0,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.3,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 3,
+   "yellows": 1,
+   "probability": 0.0036,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 106
+  },
+  {
+   "greens": 3,
+   "yellows": 2,
+   "probability": 0.0222,
+   "avg_candidates_left": 3.7,
+   "distinct_patterns": 413
+  },
+  {
+   "greens": 3,
+   "yellows": 3,
+   "probability": 0.0457,
+   "avg_candidates_left": 4.0,
+   "distinct_patterns": 767
+  },
+  {
+   "greens": 3,
+   "yellows": 4,
+   "probability": 0.0431,
+   "avg_candidates_left": 3.6,
+   "distinct_patterns": 767
+  },
+  {
+   "greens": 3,
+   "yellows": 5,
+   "probability": 0.0224,
+   "avg_candidates_left": 2.4,
+   "distinct_patterns": 402
+  },
+  {
+   "greens": 3,
+   "yellows": 6,
+   "probability": 0.0012,
+   "avg_candidates_left": 1.6,
+   "distinct_patterns": 71
+  },
+  {
+   "greens": 3,
+   "yellows": 7,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 4,
+   "yellows": 0,
+   "probability": 0.0001,
+   "avg_candidates_left": 2.3,
+   "distinct_patterns": 11
+  },
+  {
+   "greens": 4,
+   "yellows": 1,
+   "probability": 0.0024,
+   "avg_candidates_left": 3.7,
+   "distinct_patterns": 94
+  },
+  {
+   "greens": 4,
+   "yellows": 2,
+   "probability": 0.0095,
+   "avg_candidates_left": 3.3,
+   "distinct_patterns": 297
+  },
+  {
+   "greens": 4,
+   "yellows": 3,
+   "probability": 0.0166,
+   "avg_candidates_left": 2.8,
+   "distinct_patterns": 351
+  },
+  {
+   "greens": 4,
+   "yellows": 4,
+   "probability": 0.0065,
+   "avg_candidates_left": 1.7,
+   "distinct_patterns": 174
+  },
+  {
+   "greens": 4,
+   "yellows": 5,
+   "probability": 0.0012,
+   "avg_candidates_left": 1.1,
+   "distinct_patterns": 39
+  },
+  {
+   "greens": 4,
+   "yellows": 6,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 2
+  },
+  {
+   "greens": 5,
+   "yellows": 0,
+   "probability": 0.0011,
+   "avg_candidates_left": 2.8,
+   "distinct_patterns": 21
+  },
+  {
+   "greens": 5,
+   "yellows": 1,
+   "probability": 0.0014,
+   "avg_candidates_left": 2.6,
+   "distinct_patterns": 72
+  },
+  {
+   "greens": 5,
+   "yellows": 2,
+   "probability": 0.003,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 116
+  },
+  {
+   "greens": 5,
+   "yellows": 3,
+   "probability": 0.0017,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 76
+  },
+  {
+   "greens": 5,
+   "yellows": 4,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.2,
+   "distinct_patterns": 11
+  },
+  {
+   "greens": 5,
+   "yellows": 5,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 6,
+   "yellows": 0,
+   "probability": 0.0004,
+   "avg_candidates_left": 1.7,
+   "distinct_patterns": 9
+  },
+  {
+   "greens": 6,
+   "yellows": 1,
+   "probability": 0.0014,
+   "avg_candidates_left": 2.3,
+   "distinct_patterns": 40
+  },
+  {
+   "greens": 6,
+   "yellows": 2,
+   "probability": 0.0012,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 31
+  },
+  {
+   "greens": 6,
+   "yellows": 3,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.4,
+   "distinct_patterns": 8
+  },
+  {
+   "greens": 7,
+   "yellows": 0,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 7,
+   "yellows": 1,
+   "probability": 0.0002,
+   "avg_candidates_left": 1.9,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 7,
+   "yellows": 2,
+   "probability": 0.0001,
+   "avg_candidates_left": 2.8,
+   "distinct_patterns": 5
+  },
+  {
+   "greens": 7,
+   "yellows": 3,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 2
+  },
+  {
+   "greens": 8,
+   "yellows": 0,
+   "probability": 0.0003,
+   "avg_candidates_left": 1.4,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 8,
+   "yellows": 1,
+   "probability": 0.0,
+   "avg_candidates_left": 1.4,
+   "distinct_patterns": 4
+  },
+  {
+   "greens": 11,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  }
+ ],
+ "book_patterns": 600,
+ "book_coverage": 0.4969,
+ "benchmark": {
+  "length": 11,
+  "games": 472,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "unrealities",
+  "avg_guesses": 2.445,
+  "distribution": {
+   "2": 271,
+   "3": 192,
+   "4": 9
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 1.0,
+  "failed_words": [],
+  "avg_live_step_seconds": 0.0043,
+  "max_live_step_seconds": 0.065
+ },
+ "benchmark_hard": {
+  "length": 11,
+  "games": 472,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "unrealities",
+  "avg_guesses": 2.458,
+  "distribution": {
+   "2": 263,
+   "3": 202,
+   "4": 7
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 1.0,
+  "failed_words": [],
+  "avg_live_step_seconds": 0.0023,
+  "max_live_step_seconds": 0.025
+ },
+ "seconds": 74.8
+}

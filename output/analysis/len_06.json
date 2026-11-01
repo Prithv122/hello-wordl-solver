@@ -1,0 +1,1133 @@
+{
+ "length": 6,
+ "n_words": 38539,
+ "tiers": {
+  "A": 1286,
+  "B": 2724,
+  "C": 1514,
+  "D": 33015
+ },
+ "n_common": 2220,
+ "n_guess_pool": 6932,
+ "letters": {
+  "presence": {
+   "e": 0.621588393943432,
+   "a": 0.45013730069594926,
+   "r": 0.43709221071717136,
+   "i": 0.36304238363374836,
+   "s": 0.3567929012444688,
+   "n": 0.3308807111299735,
+   "t": 0.3258449536292093,
+   "l": 0.32330168041086493,
+   "o": 0.3019937341909466,
+   "d": 0.23075074049577654,
+   "u": 0.21042749958198387,
+   "c": 0.20761615847377604,
+   "m": 0.15795688753002168,
+   "h": 0.15481125762973302,
+   "g": 0.14636920459241534,
+   "p": 0.14594526552191386,
+   "y": 0.12074687702250574,
+   "b": 0.11777998091027252,
+   "f": 0.08999187156778934,
+   "v": 0.07510094808803619,
+   "w": 0.07017080827672117,
+   "k": 0.06713466066484035,
+   "x": 0.019091891378749584,
+   "j": 0.01764939358465688,
+   "z": 0.015372673936357698,
+   "q": 0.008800499488652724
+  },
+  "positional": {
+   "pos1": {
+    "s": 0.12112718567093365,
+    "c": 0.07850513806415324,
+    "r": 0.07027313107251197,
+    "p": 0.06570006532964255,
+    "a": 0.0652522730300292,
+    "b": 0.061766265734268994
+   },
+   "pos2": {
+    "a": 0.17780511460583506,
+    "e": 0.16787476220732886,
+    "o": 0.1281576772836032,
+    "i": 0.09949459355767055,
+    "u": 0.07787522017410699,
+    "r": 0.07287358038696634
+   },
+   "pos3": {
+    "r": 0.11998005072071787,
+    "a": 0.0844171601057965,
+    "n": 0.07703435665217047,
+    "l": 0.07318723155482122,
+    "t": 0.0637786000209243,
+    "s": 0.06219041036858693
+   },
+   "pos4": {
+    "i": 0.13237971057529838,
+    "e": 0.08790828104521582,
+    "t": 0.08441085125560852,
+    "a": 0.08041512899864393,
+    "l": 0.0571977400142279,
+    "r": 0.056076933868273685
+   },
+   "pos5": {
+    "e": 0.2594324091448028,
+    "l": 0.09201375086580225,
+    "n": 0.08257473309024817,
+    "i": 0.07489499863479808,
+    "a": 0.06734708439817749,
+    "o": 0.06532100964137315
+   },
+   "pos6": {
+    "e": 0.16442279333631696,
+    "s": 0.14009503888807162,
+    "r": 0.09995120160666413,
+    "d": 0.09818581010577619,
+    "y": 0.0861924225834527,
+    "t": 0.08461533435391681
+   }
+  },
+  "positional_matrix": [
+   [
+    0.0652522730300292,
+    0.061766265734268994,
+    0.07850513806415324,
+    0.04668439895694951,
+    0.034264242436085564,
+    0.05340804454163907,
+    0.04063010328899724,
+    0.04062878865970266,
+    0.022072415390475636,
+    0.011871933591075343,
+    0.011677942076366169,
+    0.04393971630818966,
+    0.0552027327961741,
+    0.020431864728776377,
+    0.02030361936190121,
+    0.06570006532964255,
+    0.00376785676852478,
+    0.07027313107251197,
+    0.12112718567093365,
+    0.05328764094340213,
+    0.021995493425328784,
+    0.020608568329886185,
+    0.02937821171681891,
+    0.0003610629845795888,
+    0.0035718898838115504,
+    0.0032894149098431393
+   ],
+   [
+    0.17780511460583506,
+    0.006766763076240949,
+    0.019435011582270623,
+    0.007213764444752411,
+    0.16787476220732886,
+    0.005595400966657777,
+    0.0031337610394416276,
+    0.04011221374161693,
+    0.09949459355767055,
+    0.00030666689383095417,
+    0.0021000463923182807,
+    0.04571394900921397,
+    0.011750374920185509,
+    0.04422437417368942,
+    0.1281576772836032,
+    0.020476357539875863,
+    0.002173879027567627,
+    0.07287358038696634,
+    0.012146045055967681,
+    0.026576253126692234,
+    0.07787522017410699,
+    0.0036311548994366278,
+    0.00547674955489198,
+    0.0086324383760299,
+    0.009874735650489581,
+    0.0005791123132589521
+   ],
+   [
+    0.0844171601057965,
+    0.027779118374453515,
+    0.04798431673682025,
+    0.03563223119221772,
+    0.0558188397370674,
+    0.020643994799569194,
+    0.02792582238957856,
+    0.012144887046693682,
+    0.05971364877842569,
+    0.004436243472144845,
+    0.00593545631215944,
+    0.07318723155482122,
+    0.04128880793874777,
+    0.07703435665217047,
+    0.05606799478062331,
+    0.03046635769419545,
+    0.0014308775674726037,
+    0.11998005072071787,
+    0.06219041036858693,
+    0.0637786000209243,
+    0.03513487844497763,
+    0.023379162782102614,
+    0.01307646977867671,
+    0.004068434080197237,
+    0.01229561130196096,
+    0.00418903736896412
+   ],
+   [
+    0.08041512899864393,
+    0.027779057684195776,
+    0.027536169399195575,
+    0.04957203359247247,
+    0.08790828104521582,
+    0.012441797492144396,
+    0.03518497140067271,
+    0.023511699537529792,
+    0.13237971057529838,
+    0.000852750981465476,
+    0.02929887976111202,
+    0.0571977400142279,
+    0.028551358834560427,
+    0.055479916950086194,
+    0.055590136331517756,
+    0.027306040751462084,
+    0.0011785529262583578,
+    0.056076933868273685,
+    0.03794531311482168,
+    0.08441085125560852,
+    0.049222664250147055,
+    0.020326853941890634,
+    0.00816201644125509,
+    0.0007870332210101878,
+    0.005082057315360612,
+    0.005802050315620374
+   ],
+   [
+    0.06734708439817749,
+    0.0033393346046408324,
+    0.03608132050137276,
+    0.01981813449668845,
+    0.2594324091448028,
+    0.00569446312940315,
+    0.021727681021871927,
+    0.01697420272003645,
+    0.07489499863479808,
+    0.0002710583533745373,
+    0.01368002754045581,
+    0.09201375086580225,
+    0.012764130303490903,
+    0.08257473309024817,
+    0.06532100964137315,
+    0.009706598185606938,
+    2.16801262893786e-05,
+    0.06137623685583517,
+    0.04501018575854176,
+    0.053634839140696305,
+    0.03783274443308847,
+    0.008333363637675745,
+    0.0036861226532588186,
+    0.0002733440267936134,
+    0.005516708216408054,
+    0.0026738385192677113
+   ],
+   [
+    0.04179031209539887,
+    0.002407769492410114,
+    0.015079014335200362,
+    0.09818581010577619,
+    0.16442279333631696,
+    0.0027569068413303374,
+    0.031653563876567425,
+    0.027796765535224064,
+    0.006932039289130349,
+    7.046041044048046e-05,
+    0.006508507430638539,
+    0.050779074721521864,
+    0.01929108169925254,
+    0.08194889515173091,
+    0.013020417431214891,
+    0.006277128759369273,
+    0.00023849313568467592,
+    0.09995120160666413,
+    0.14009503888807162,
+    0.08461533435391681,
+    0.0018438414901048065,
+    0.0002678760303400976,
+    0.011910424918777697,
+    0.005074853773308836,
+    0.0861924225834527,
+    0.0008899727081294472
+   ]
+  ],
+  "p_double_letter": 0.5198045041499979,
+  "vowel_count": {
+   "0": 0.000636203247229308,
+   "1": 0.07962351659979251,
+   "2": 0.6107936938298243,
+   "3": 0.2925389604412555,
+   "4": 0.01627525064060874,
+   "5": 0.00012153517788679192,
+   "6": 1.08400631446893e-05
+  },
+  "top_endings_2": [
+   [
+    "er",
+    0.07667642019473894
+   ],
+   [
+    "ed",
+    0.06309571813443499
+   ],
+   [
+    "le",
+    0.043280103262321824
+   ],
+   [
+    "es",
+    0.0381792760164223
+   ],
+   [
+    "ng",
+    0.029237938911271414
+   ],
+   [
+    "on",
+    0.024928817057357028
+   ],
+   [
+    "en",
+    0.024304474840028824
+   ],
+   [
+    "al",
+    0.022428658393935125
+   ],
+   [
+    "ly",
+    0.022355571661531737
+   ],
+   [
+    "et",
+    0.021425876200791533
+   ]
+  ],
+  "top_endings_3": [
+   [
+    "ing",
+    0.02625541897316356
+   ],
+   [
+    "ter",
+    0.01622616592629364
+   ],
+   [
+    "ted",
+    0.010030973909341377
+   ],
+   [
+    "der",
+    0.009908185771293373
+   ],
+   [
+    "ble",
+    0.008568421900543518
+   ],
+   [
+    "ent",
+    0.008204164846427973
+   ],
+   [
+    "dle",
+    0.008113357537619648
+   ],
+   [
+    "ers",
+    0.006889978003843841
+   ],
+   [
+    "tle",
+    0.006619123256495529
+   ],
+   [
+    "led",
+    0.006410978186340462
+   ]
+  ],
+  "top_starts_2": [
+   [
+    "re",
+    0.03668356754935707
+   ],
+   [
+    "co",
+    0.021444632427079686
+   ],
+   [
+    "st",
+    0.02022095335751543
+   ],
+   [
+    "ca",
+    0.019513939262550524
+   ],
+   [
+    "de",
+    0.018420005196554297
+   ],
+   [
+    "ma",
+    0.0169553055357301
+   ],
+   [
+    "un",
+    0.014229131457853964
+   ],
+   [
+    "sa",
+    0.013852149027101138
+   ],
+   [
+    "be",
+    0.013577357243996183
+   ],
+   [
+    "pa",
+    0.013443220027738036
+   ]
+  ]
+ },
+ "openers": [
+  {
+   "word": "satire",
+   "expected_guesses": 4.0989,
+   "entropy_bits": 7.5647,
+   "p_win": 0.0004,
+   "groups": 561,
+   "worst_case_left": 1305,
+   "avg_left": 341.55
+  },
+  {
+   "word": "santer",
+   "expected_guesses": 4.0996,
+   "entropy_bits": 7.5647,
+   "p_win": 0.0,
+   "groups": 554,
+   "worst_case_left": 1042,
+   "avg_left": 322.31
+  },
+  {
+   "word": "raines",
+   "expected_guesses": 4.1235,
+   "entropy_bits": 7.4963,
+   "p_win": 0.0,
+   "groups": 556,
+   "worst_case_left": 941,
+   "avg_left": 312.91
+  },
+  {
+   "word": "salter",
+   "expected_guesses": 4.111,
+   "entropy_bits": 7.5309,
+   "p_win": 0.0,
+   "groups": 545,
+   "worst_case_left": 990,
+   "avg_left": 334.74
+  },
+  {
+   "word": "saline",
+   "expected_guesses": 4.1425,
+   "entropy_bits": 7.4403,
+   "p_win": 0.0005,
+   "groups": 583,
+   "worst_case_left": 1495,
+   "avg_left": 366.78
+  },
+  {
+   "word": "sailer",
+   "expected_guesses": 4.1412,
+   "entropy_bits": 7.4446,
+   "p_win": 0.0001,
+   "groups": 547,
+   "worst_case_left": 801,
+   "avg_left": 324.49
+  },
+  {
+   "word": "salite",
+   "expected_guesses": 4.145,
+   "entropy_bits": 7.434,
+   "p_win": 0.0001,
+   "groups": 585,
+   "worst_case_left": 1601,
+   "avg_left": 379.5
+  },
+  {
+   "word": "serial",
+   "expected_guesses": 4.1623,
+   "entropy_bits": 7.3838,
+   "p_win": 0.0002,
+   "groups": 561,
+   "worst_case_left": 1048,
+   "avg_left": 349.47
+  },
+  {
+   "word": "lanier",
+   "expected_guesses": 4.1584,
+   "entropy_bits": 7.3963,
+   "p_win": 0.0001,
+   "groups": 531,
+   "worst_case_left": 959,
+   "avg_left": 334.98
+  },
+  {
+   "word": "larine",
+   "expected_guesses": 4.1485,
+   "entropy_bits": 7.4246,
+   "p_win": 0.0,
+   "groups": 554,
+   "worst_case_left": 1391,
+   "avg_left": 359.76
+  },
+  {
+   "word": "sardel",
+   "expected_guesses": 4.1718,
+   "entropy_bits": 7.357,
+   "p_win": 0.0001,
+   "groups": 527,
+   "worst_case_left": 1136,
+   "avg_left": 382.78
+  },
+  {
+   "word": "ratels",
+   "expected_guesses": 4.1691,
+   "entropy_bits": 7.3653,
+   "p_win": 0.0,
+   "groups": 547,
+   "worst_case_left": 1549,
+   "avg_left": 407.39
+  },
+  {
+   "word": "salted",
+   "expected_guesses": 4.1915,
+   "entropy_bits": 7.3001,
+   "p_win": 0.0003,
+   "groups": 517,
+   "worst_case_left": 1502,
+   "avg_left": 415.95
+  },
+  {
+   "word": "tailer",
+   "expected_guesses": 4.1833,
+   "entropy_bits": 7.3251,
+   "p_win": 0.0,
+   "groups": 535,
+   "worst_case_left": 917,
+   "avg_left": 362.13
+  },
+  {
+   "word": "laster",
+   "expected_guesses": 4.1684,
+   "entropy_bits": 7.3668,
+   "p_win": 0.0,
+   "groups": 532,
+   "worst_case_left": 990,
+   "avg_left": 369.74
+  },
+  {
+   "word": "sauter",
+   "expected_guesses": 4.1903,
+   "entropy_bits": 7.305,
+   "p_win": 0.0001,
+   "groups": 533,
+   "worst_case_left": 1427,
+   "avg_left": 419.3
+  },
+  {
+   "word": "rances",
+   "expected_guesses": 4.1864,
+   "entropy_bits": 7.3159,
+   "p_win": 0.0,
+   "groups": 506,
+   "worst_case_left": 1167,
+   "avg_left": 381.28
+  },
+  {
+   "word": "relais",
+   "expected_guesses": 4.1751,
+   "entropy_bits": 7.3479,
+   "p_win": 0.0,
+   "groups": 533,
+   "worst_case_left": 1117,
+   "avg_left": 362.88
+  },
+  {
+   "word": "sander",
+   "expected_guesses": 4.1902,
+   "entropy_bits": 7.3058,
+   "p_win": 0.0,
+   "groups": 534,
+   "worst_case_left": 1189,
+   "avg_left": 390.52
+  },
+  {
+   "word": "ladies",
+   "expected_guesses": 4.2055,
+   "entropy_bits": 7.2613,
+   "p_win": 0.0003,
+   "groups": 538,
+   "worst_case_left": 1265,
+   "avg_left": 396.98
+  },
+  {
+   "word": "lianes",
+   "expected_guesses": 4.1911,
+   "entropy_bits": 7.3031,
+   "p_win": 0.0,
+   "groups": 551,
+   "worst_case_left": 1296,
+   "avg_left": 386.04
+  },
+  {
+   "word": "retain",
+   "expected_guesses": 4.2109,
+   "entropy_bits": 7.2449,
+   "p_win": 0.0005,
+   "groups": 543,
+   "worst_case_left": 1341,
+   "avg_left": 428.1
+  },
+  {
+   "word": "ramies",
+   "expected_guesses": 4.196,
+   "entropy_bits": 7.2885,
+   "p_win": 0.0,
+   "groups": 550,
+   "worst_case_left": 1085,
+   "avg_left": 391.39
+  },
+  {
+   "word": "sorted",
+   "expected_guesses": 4.2117,
+   "entropy_bits": 7.242,
+   "p_win": 0.0002,
+   "groups": 519,
+   "worst_case_left": 2070,
+   "avg_left": 489.14
+  },
+  {
+   "word": "aeries",
+   "expected_guesses": 4.2003,
+   "entropy_bits": 7.2773,
+   "p_win": 0.0,
+   "groups": 467,
+   "worst_case_left": 2190,
+   "avg_left": 399.62
+  }
+ ],
+ "common_openers": [
+  {
+   "word": "satire",
+   "expected_guesses": 4.0989,
+   "entropy_bits": 7.5647,
+   "p_win": 0.0004,
+   "groups": 561,
+   "worst_case_left": 1305,
+   "avg_left": 341.55
+  },
+  {
+   "word": "saline",
+   "expected_guesses": 4.1425,
+   "entropy_bits": 7.4403,
+   "p_win": 0.0005,
+   "groups": 583,
+   "worst_case_left": 1495,
+   "avg_left": 366.78
+  },
+  {
+   "word": "serial",
+   "expected_guesses": 4.1623,
+   "entropy_bits": 7.3838,
+   "p_win": 0.0002,
+   "groups": 561,
+   "worst_case_left": 1048,
+   "avg_left": 349.47
+  },
+  {
+   "word": "salted",
+   "expected_guesses": 4.1915,
+   "entropy_bits": 7.3001,
+   "p_win": 0.0003,
+   "groups": 517,
+   "worst_case_left": 1502,
+   "avg_left": 415.95
+  },
+  {
+   "word": "ladies",
+   "expected_guesses": 4.2055,
+   "entropy_bits": 7.2613,
+   "p_win": 0.0003,
+   "groups": 538,
+   "worst_case_left": 1265,
+   "avg_left": 396.98
+  },
+  {
+   "word": "retain",
+   "expected_guesses": 4.2109,
+   "entropy_bits": 7.2449,
+   "p_win": 0.0005,
+   "groups": 543,
+   "worst_case_left": 1341,
+   "avg_left": 428.1
+  },
+  {
+   "word": "sorted",
+   "expected_guesses": 4.2117,
+   "entropy_bits": 7.242,
+   "p_win": 0.0002,
+   "groups": 519,
+   "worst_case_left": 2070,
+   "avg_left": 489.14
+  },
+  {
+   "word": "trades",
+   "expected_guesses": 4.2213,
+   "entropy_bits": 7.2162,
+   "p_win": 0.0002,
+   "groups": 504,
+   "worst_case_left": 2145,
+   "avg_left": 467.97
+  },
+  {
+   "word": "raised",
+   "expected_guesses": 4.2301,
+   "entropy_bits": 7.1901,
+   "p_win": 0.0002,
+   "groups": 503,
+   "worst_case_left": 1075,
+   "avg_left": 415.53
+  },
+  {
+   "word": "marine",
+   "expected_guesses": 4.2328,
+   "entropy_bits": 7.1825,
+   "p_win": 0.0004,
+   "groups": 558,
+   "worst_case_left": 1709,
+   "avg_left": 471.69
+  }
+ ],
+ "pairs": [
+  {
+   "first": "salter",
+   "second": "conium",
+   "joint_bits": 11.584
+  },
+  {
+   "first": "salted",
+   "second": "curing",
+   "joint_bits": 11.568
+  },
+  {
+   "first": "satire",
+   "second": "column",
+   "joint_bits": 11.517
+  },
+  {
+   "first": "salter",
+   "second": "coming",
+   "joint_bits": 11.512
+  },
+  {
+   "first": "salted",
+   "second": "boring",
+   "joint_bits": 11.502
+  },
+  {
+   "first": "salted",
+   "second": "conium",
+   "joint_bits": 11.492
+  },
+  {
+   "first": "salted",
+   "second": "urchin",
+   "joint_bits": 11.489
+  },
+  {
+   "first": "santer",
+   "second": "policy",
+   "joint_bits": 11.48
+  },
+  {
+   "first": "santer",
+   "second": "docile",
+   "joint_bits": 11.467
+  },
+  {
+   "first": "santer",
+   "second": "bodily",
+   "joint_bits": 11.422
+  }
+ ],
+ "traps": [
+  {
+   "pattern": "_allow",
+   "size": 5,
+   "words": [
+    "fallow",
+    "mallow",
+    "sallow",
+    "tallow",
+    "wallow"
+   ]
+  },
+  {
+   "pattern": "_umble",
+   "size": 5,
+   "words": [
+    "fumble",
+    "humble",
+    "jumble",
+    "rumble",
+    "tumble"
+   ]
+  },
+  {
+   "pattern": "_ather",
+   "size": 4,
+   "words": [
+    "father",
+    "gather",
+    "lather",
+    "rather"
+   ]
+  },
+  {
+   "pattern": "_aking",
+   "size": 4,
+   "words": [
+    "baking",
+    "making",
+    "taking",
+    "waking"
+   ]
+  },
+  {
+   "pattern": "_ellow",
+   "size": 4,
+   "words": [
+    "bellow",
+    "fellow",
+    "mellow",
+    "yellow"
+   ]
+  },
+  {
+   "pattern": "_addle",
+   "size": 4,
+   "words": [
+    "paddle",
+    "raddle",
+    "saddle",
+    "waddle"
+   ]
+  },
+  {
+   "pattern": "_inger",
+   "size": 4,
+   "words": [
+    "finger",
+    "ginger",
+    "linger",
+    "singer"
+   ]
+  },
+  {
+   "pattern": "_aving",
+   "size": 4,
+   "words": [
+    "having",
+    "raving",
+    "saving",
+    "waving"
+   ]
+  },
+  {
+   "pattern": "b_tter",
+   "size": 4,
+   "words": [
+    "batter",
+    "better",
+    "bitter",
+    "butter"
+   ]
+  },
+  {
+   "pattern": "_ounds",
+   "size": 4,
+   "words": [
+    "bounds",
+    "pounds",
+    "sounds",
+    "wounds"
+   ]
+  },
+  {
+   "pattern": "sta_es",
+   "size": 4,
+   "words": [
+    "stages",
+    "stakes",
+    "states",
+    "staves"
+   ]
+  },
+  {
+   "pattern": "_arrow",
+   "size": 4,
+   "words": [
+    "barrow",
+    "harrow",
+    "marrow",
+    "narrow"
+   ]
+  }
+ ],
+ "trap_share": 0.02927927927927928,
+ "first_feedback": [
+  {
+   "greens": 0,
+   "yellows": 0,
+   "probability": 0.0138,
+   "avg_candidates_left": 521.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 0,
+   "yellows": 1,
+   "probability": 0.072,
+   "avg_candidates_left": 826.2,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 0,
+   "yellows": 2,
+   "probability": 0.1741,
+   "avg_candidates_left": 676.5,
+   "distinct_patterns": 15
+  },
+  {
+   "greens": 0,
+   "yellows": 3,
+   "probability": 0.145,
+   "avg_candidates_left": 343.3,
+   "distinct_patterns": 20
+  },
+  {
+   "greens": 0,
+   "yellows": 4,
+   "probability": 0.0452,
+   "avg_candidates_left": 128.1,
+   "distinct_patterns": 15
+  },
+  {
+   "greens": 0,
+   "yellows": 5,
+   "probability": 0.0048,
+   "avg_candidates_left": 35.1,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 0,
+   "yellows": 6,
+   "probability": 0.0,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 1,
+   "yellows": 0,
+   "probability": 0.0501,
+   "avg_candidates_left": 556.7,
+   "distinct_patterns": 6
+  },
+  {
+   "greens": 1,
+   "yellows": 1,
+   "probability": 0.129,
+   "avg_candidates_left": 270.0,
+   "distinct_patterns": 30
+  },
+  {
+   "greens": 1,
+   "yellows": 2,
+   "probability": 0.1539,
+   "avg_candidates_left": 149.5,
+   "distinct_patterns": 60
+  },
+  {
+   "greens": 1,
+   "yellows": 3,
+   "probability": 0.06,
+   "avg_candidates_left": 48.8,
+   "distinct_patterns": 60
+  },
+  {
+   "greens": 1,
+   "yellows": 4,
+   "probability": 0.0081,
+   "avg_candidates_left": 13.1,
+   "distinct_patterns": 28
+  },
+  {
+   "greens": 1,
+   "yellows": 5,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 2,
+   "yellows": 0,
+   "probability": 0.0382,
+   "avg_candidates_left": 142.4,
+   "distinct_patterns": 15
+  },
+  {
+   "greens": 2,
+   "yellows": 1,
+   "probability": 0.0482,
+   "avg_candidates_left": 53.6,
+   "distinct_patterns": 59
+  },
+  {
+   "greens": 2,
+   "yellows": 2,
+   "probability": 0.028,
+   "avg_candidates_left": 22.0,
+   "distinct_patterns": 85
+  },
+  {
+   "greens": 2,
+   "yellows": 3,
+   "probability": 0.0029,
+   "avg_candidates_left": 4.8,
+   "distinct_patterns": 40
+  },
+  {
+   "greens": 3,
+   "yellows": 0,
+   "probability": 0.0133,
+   "avg_candidates_left": 29.1,
+   "distinct_patterns": 18
+  },
+  {
+   "greens": 3,
+   "yellows": 1,
+   "probability": 0.0064,
+   "avg_candidates_left": 8.5,
+   "distinct_patterns": 47
+  },
+  {
+   "greens": 3,
+   "yellows": 2,
+   "probability": 0.0022,
+   "avg_candidates_left": 5.0,
+   "distinct_patterns": 23
+  },
+  {
+   "greens": 3,
+   "yellows": 3,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 4,
+   "yellows": 0,
+   "probability": 0.004,
+   "avg_candidates_left": 4.5,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 4,
+   "yellows": 1,
+   "probability": 0.0004,
+   "avg_candidates_left": 1.7,
+   "distinct_patterns": 9
+  },
+  {
+   "greens": 5,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.7,
+   "distinct_patterns": 2
+  },
+  {
+   "greens": 6,
+   "yellows": 0,
+   "probability": 0.0004,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  }
+ ],
+ "book_patterns": 385,
+ "book_coverage": 0.995,
+ "benchmark": {
+  "length": 6,
+  "games": 1012,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "satire",
+  "avg_guesses": 3.311,
+  "distribution": {
+   "2": 83,
+   "3": 617,
+   "4": 243,
+   "5": 53,
+   "6": 15,
+   "7": 1
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 0.999,
+  "failed_words": [
+   "hiking"
+  ],
+  "avg_live_step_seconds": 0.0065,
+  "max_live_step_seconds": 0.097
+ },
+ "benchmark_hard": {
+  "length": 6,
+  "games": 1012,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "satire",
+  "avg_guesses": 3.396,
+  "distribution": {
+   "2": 106,
+   "3": 574,
+   "4": 225,
+   "5": 69,
+   "6": 26,
+   "7": 7,
+   "8": 2,
+   "9": 1,
+   "13": 1,
+   "15": 1
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 0.9881,
+  "failed_words": [
+   "coding",
+   "vastly",
+   "sinner",
+   "zoning",
+   "wilder",
+   "bunker",
+   "bender",
+   "sizing",
+   "panzer",
+   "ritter",
+   "tester",
+   "weiner"
+  ],
+  "avg_live_step_seconds": 0.0027,
+  "max_live_step_seconds": 0.093
+ },
+ "seconds": 100.2
+}

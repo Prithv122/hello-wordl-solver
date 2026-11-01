@@ -1,0 +1,3650 @@
+{
+ "4": {
+  "normal": [
+   {
+    "word": "sale",
+    "expected_guesses": 4.6552,
+    "entropy_bits": 4.5643,
+    "p_win": 0.0007,
+    "groups": 69,
+    "worst_case_left": 2080,
+    "avg_left": 752.67
+   },
+   {
+    "word": "tale",
+    "expected_guesses": 4.6743,
+    "entropy_bits": 4.5094,
+    "p_win": 0.0007,
+    "groups": 71,
+    "worst_case_left": 2484,
+    "avg_left": 867.16
+   },
+   {
+    "word": "lare",
+    "expected_guesses": 4.6697,
+    "entropy_bits": 4.5254,
+    "p_win": 0.0,
+    "groups": 68,
+    "worst_case_left": 2434,
+    "avg_left": 826.54
+   },
+   {
+    "word": "seal",
+    "expected_guesses": 4.6902,
+    "entropy_bits": 4.4646,
+    "p_win": 0.0006,
+    "groups": 69,
+    "worst_case_left": 2080,
+    "avg_left": 809.07
+   },
+   {
+    "word": "rase",
+    "expected_guesses": 4.6818,
+    "entropy_bits": 4.4908,
+    "p_win": 0.0002,
+    "groups": 69,
+    "worst_case_left": 2018,
+    "avg_left": 764.71
+   },
+   {
+    "word": "sate",
+    "expected_guesses": 4.6939,
+    "entropy_bits": 4.4548,
+    "p_win": 0.0003,
+    "groups": 71,
+    "worst_case_left": 2124,
+    "avg_left": 819.81
+   },
+   {
+    "word": "late",
+    "expected_guesses": 4.6979,
+    "entropy_bits": 4.4425,
+    "p_win": 0.0006,
+    "groups": 69,
+    "worst_case_left": 2484,
+    "avg_left": 880.37
+   },
+   {
+    "word": "rate",
+    "expected_guesses": 4.7,
+    "entropy_bits": 4.4369,
+    "p_win": 0.0007,
+    "groups": 68,
+    "worst_case_left": 2444,
+    "avg_left": 882.89
+   },
+   {
+    "word": "rale",
+    "expected_guesses": 4.6705,
+    "entropy_bits": 4.5224,
+    "p_win": 0.0001,
+    "groups": 67,
+    "worst_case_left": 2434,
+    "avg_left": 826.26
+   },
+   {
+    "word": "seat",
+    "expected_guesses": 4.7016,
+    "entropy_bits": 4.4318,
+    "p_win": 0.0007,
+    "groups": 71,
+    "worst_case_left": 2124,
+    "avg_left": 872.59
+   },
+   {
+    "word": "real",
+    "expected_guesses": 4.7019,
+    "entropy_bits": 4.4313,
+    "p_win": 0.0006,
+    "groups": 68,
+    "worst_case_left": 2434,
+    "avg_left": 883.09
+   },
+   {
+    "word": "leas",
+    "expected_guesses": 4.6909,
+    "entropy_bits": 4.4648,
+    "p_win": 0.0,
+    "groups": 71,
+    "worst_case_left": 2080,
+    "avg_left": 805.79
+   },
+   {
+    "word": "sane",
+    "expected_guesses": 4.7098,
+    "entropy_bits": 4.4104,
+    "p_win": 0.0003,
+    "groups": 68,
+    "worst_case_left": 2096,
+    "avg_left": 816.45
+   },
+   {
+    "word": "teal",
+    "expected_guesses": 4.7125,
+    "entropy_bits": 4.4013,
+    "p_win": 0.0005,
+    "groups": 70,
+    "worst_case_left": 2484,
+    "avg_left": 931.6
+   },
+   {
+    "word": "tael",
+    "expected_guesses": 4.6942,
+    "entropy_bits": 4.4543,
+    "p_win": 0.0001,
+    "groups": 70,
+    "worst_case_left": 2484,
+    "avg_left": 891.51
+   },
+   {
+    "word": "earl",
+    "expected_guesses": 4.7279,
+    "entropy_bits": 4.3573,
+    "p_win": 0.0006,
+    "groups": 66,
+    "worst_case_left": 2434,
+    "avg_left": 898.92
+   },
+   {
+    "word": "lane",
+    "expected_guesses": 4.718,
+    "entropy_bits": 4.387,
+    "p_win": 0.0001,
+    "groups": 70,
+    "worst_case_left": 2541,
+    "avg_left": 904.45
+   },
+   {
+    "word": "tear",
+    "expected_guesses": 4.7313,
+    "entropy_bits": 4.3476,
+    "p_win": 0.0007,
+    "groups": 70,
+    "worst_case_left": 2444,
+    "avg_left": 946.8
+   },
+   {
+    "word": "lear",
+    "expected_guesses": 4.7236,
+    "entropy_bits": 4.3714,
+    "p_win": 0.0,
+    "groups": 67,
+    "worst_case_left": 2434,
+    "avg_left": 895.05
+   },
+   {
+    "word": "dale",
+    "expected_guesses": 4.7353,
+    "entropy_bits": 4.3359,
+    "p_win": 0.0005,
+    "groups": 69,
+    "worst_case_left": 2679,
+    "avg_left": 1004.35
+   },
+   {
+    "word": "leat",
+    "expected_guesses": 4.7053,
+    "entropy_bits": 4.4235,
+    "p_win": 0.0,
+    "groups": 69,
+    "worst_case_left": 2484,
+    "avg_left": 928.4
+   },
+   {
+    "word": "ears",
+    "expected_guesses": 4.7222,
+    "entropy_bits": 4.3756,
+    "p_win": 0.0001,
+    "groups": 72,
+    "worst_case_left": 2018,
+    "avg_left": 814.01
+   },
+   {
+    "word": "sole",
+    "expected_guesses": 4.7381,
+    "entropy_bits": 4.3274,
+    "p_win": 0.0007,
+    "groups": 68,
+    "worst_case_left": 2666,
+    "avg_left": 942.3
+   },
+   {
+    "word": "dare",
+    "expected_guesses": 4.7381,
+    "entropy_bits": 4.3285,
+    "p_win": 0.0005,
+    "groups": 71,
+    "worst_case_left": 2602,
+    "avg_left": 995.5
+   },
+   {
+    "word": "sore",
+    "expected_guesses": 4.7404,
+    "entropy_bits": 4.3211,
+    "p_win": 0.0007,
+    "groups": 67,
+    "worst_case_left": 2533,
+    "avg_left": 923.29
+   }
+  ],
+  "hard": [
+   {
+    "word": "sale",
+    "expected_guesses": 4.6552,
+    "entropy_bits": 4.5643,
+    "p_win": 0.0007,
+    "groups": 69,
+    "worst_case_left": 2080,
+    "avg_left": 752.67
+   },
+   {
+    "word": "tale",
+    "expected_guesses": 4.6743,
+    "entropy_bits": 4.5094,
+    "p_win": 0.0007,
+    "groups": 71,
+    "worst_case_left": 2484,
+    "avg_left": 867.16
+   },
+   {
+    "word": "lare",
+    "expected_guesses": 4.6697,
+    "entropy_bits": 4.5254,
+    "p_win": 0.0,
+    "groups": 68,
+    "worst_case_left": 2434,
+    "avg_left": 826.54
+   },
+   {
+    "word": "seal",
+    "expected_guesses": 4.6902,
+    "entropy_bits": 4.4646,
+    "p_win": 0.0006,
+    "groups": 69,
+    "worst_case_left": 2080,
+    "avg_left": 809.07
+   },
+   {
+    "word": "rase",
+    "expected_guesses": 4.6818,
+    "entropy_bits": 4.4908,
+    "p_win": 0.0002,
+    "groups": 69,
+    "worst_case_left": 2018,
+    "avg_left": 764.71
+   },
+   {
+    "word": "sate",
+    "expected_guesses": 4.6939,
+    "entropy_bits": 4.4548,
+    "p_win": 0.0003,
+    "groups": 71,
+    "worst_case_left": 2124,
+    "avg_left": 819.81
+   },
+   {
+    "word": "late",
+    "expected_guesses": 4.6979,
+    "entropy_bits": 4.4425,
+    "p_win": 0.0006,
+    "groups": 69,
+    "worst_case_left": 2484,
+    "avg_left": 880.37
+   },
+   {
+    "word": "rate",
+    "expected_guesses": 4.7,
+    "entropy_bits": 4.4369,
+    "p_win": 0.0007,
+    "groups": 68,
+    "worst_case_left": 2444,
+    "avg_left": 882.89
+   },
+   {
+    "word": "rale",
+    "expected_guesses": 4.6705,
+    "entropy_bits": 4.5224,
+    "p_win": 0.0001,
+    "groups": 67,
+    "worst_case_left": 2434,
+    "avg_left": 826.26
+   },
+   {
+    "word": "seat",
+    "expected_guesses": 4.7016,
+    "entropy_bits": 4.4318,
+    "p_win": 0.0007,
+    "groups": 71,
+    "worst_case_left": 2124,
+    "avg_left": 872.59
+   },
+   {
+    "word": "real",
+    "expected_guesses": 4.7019,
+    "entropy_bits": 4.4313,
+    "p_win": 0.0006,
+    "groups": 68,
+    "worst_case_left": 2434,
+    "avg_left": 883.09
+   },
+   {
+    "word": "leas",
+    "expected_guesses": 4.6909,
+    "entropy_bits": 4.4648,
+    "p_win": 0.0,
+    "groups": 71,
+    "worst_case_left": 2080,
+    "avg_left": 805.79
+   },
+   {
+    "word": "sane",
+    "expected_guesses": 4.7098,
+    "entropy_bits": 4.4104,
+    "p_win": 0.0003,
+    "groups": 68,
+    "worst_case_left": 2096,
+    "avg_left": 816.45
+   },
+   {
+    "word": "teal",
+    "expected_guesses": 4.7125,
+    "entropy_bits": 4.4013,
+    "p_win": 0.0005,
+    "groups": 70,
+    "worst_case_left": 2484,
+    "avg_left": 931.6
+   },
+   {
+    "word": "tael",
+    "expected_guesses": 4.6942,
+    "entropy_bits": 4.4543,
+    "p_win": 0.0001,
+    "groups": 70,
+    "worst_case_left": 2484,
+    "avg_left": 891.51
+   },
+   {
+    "word": "earl",
+    "expected_guesses": 4.7279,
+    "entropy_bits": 4.3573,
+    "p_win": 0.0006,
+    "groups": 66,
+    "worst_case_left": 2434,
+    "avg_left": 898.92
+   },
+   {
+    "word": "lane",
+    "expected_guesses": 4.718,
+    "entropy_bits": 4.387,
+    "p_win": 0.0001,
+    "groups": 70,
+    "worst_case_left": 2541,
+    "avg_left": 904.45
+   },
+   {
+    "word": "tear",
+    "expected_guesses": 4.7313,
+    "entropy_bits": 4.3476,
+    "p_win": 0.0007,
+    "groups": 70,
+    "worst_case_left": 2444,
+    "avg_left": 946.8
+   },
+   {
+    "word": "lear",
+    "expected_guesses": 4.7236,
+    "entropy_bits": 4.3714,
+    "p_win": 0.0,
+    "groups": 67,
+    "worst_case_left": 2434,
+    "avg_left": 895.05
+   },
+   {
+    "word": "dale",
+    "expected_guesses": 4.7353,
+    "entropy_bits": 4.3359,
+    "p_win": 0.0005,
+    "groups": 69,
+    "worst_case_left": 2679,
+    "avg_left": 1004.35
+   },
+   {
+    "word": "leat",
+    "expected_guesses": 4.7053,
+    "entropy_bits": 4.4235,
+    "p_win": 0.0,
+    "groups": 69,
+    "worst_case_left": 2484,
+    "avg_left": 928.4
+   },
+   {
+    "word": "ears",
+    "expected_guesses": 4.7222,
+    "entropy_bits": 4.3756,
+    "p_win": 0.0001,
+    "groups": 72,
+    "worst_case_left": 2018,
+    "avg_left": 814.01
+   },
+   {
+    "word": "sole",
+    "expected_guesses": 4.7381,
+    "entropy_bits": 4.3274,
+    "p_win": 0.0007,
+    "groups": 68,
+    "worst_case_left": 2666,
+    "avg_left": 942.3
+   },
+   {
+    "word": "dare",
+    "expected_guesses": 4.7381,
+    "entropy_bits": 4.3285,
+    "p_win": 0.0005,
+    "groups": 71,
+    "worst_case_left": 2602,
+    "avg_left": 995.5
+   },
+   {
+    "word": "sore",
+    "expected_guesses": 4.7404,
+    "entropy_bits": 4.3211,
+    "p_win": 0.0007,
+    "groups": 67,
+    "worst_case_left": 2533,
+    "avg_left": 923.29
+   }
+  ]
+ },
+ "5": {
+  "normal": [
+   {
+    "word": "tears",
+    "expected_guesses": 4.259,
+    "entropy_bits": 6.1457,
+    "p_win": 0.0005,
+    "groups": 214,
+    "worst_case_left": 2156,
+    "avg_left": 560.02
+   },
+   {
+    "word": "slate",
+    "expected_guesses": 4.2698,
+    "entropy_bits": 6.1148,
+    "p_win": 0.0005,
+    "groups": 199,
+    "worst_case_left": 2260,
+    "avg_left": 598.91
+   },
+   {
+    "word": "lares",
+    "expected_guesses": 4.2654,
+    "entropy_bits": 6.1301,
+    "p_win": 0.0001,
+    "groups": 202,
+    "worst_case_left": 1404,
+    "avg_left": 469.93
+   },
+   {
+    "word": "stare",
+    "expected_guesses": 4.2891,
+    "entropy_bits": 6.0611,
+    "p_win": 0.0003,
+    "groups": 191,
+    "worst_case_left": 2156,
+    "avg_left": 575.71
+   },
+   {
+    "word": "rates",
+    "expected_guesses": 4.2743,
+    "entropy_bits": 6.1046,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1545,
+    "avg_left": 516.86
+   },
+   {
+    "word": "tales",
+    "expected_guesses": 4.2818,
+    "entropy_bits": 6.0827,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1602,
+    "avg_left": 544.95
+   },
+   {
+    "word": "raise",
+    "expected_guesses": 4.2987,
+    "entropy_bits": 6.0335,
+    "p_win": 0.0004,
+    "groups": 195,
+    "worst_case_left": 1198,
+    "avg_left": 499.78
+   },
+   {
+    "word": "aires",
+    "expected_guesses": 4.2839,
+    "entropy_bits": 6.0774,
+    "p_win": 0.0,
+    "groups": 194,
+    "worst_case_left": 1891,
+    "avg_left": 481.21
+   },
+   {
+    "word": "rales",
+    "expected_guesses": 4.2869,
+    "entropy_bits": 6.0689,
+    "p_win": 0.0,
+    "groups": 199,
+    "worst_case_left": 1404,
+    "avg_left": 486.48
+   },
+   {
+    "word": "satle",
+    "expected_guesses": 4.275,
+    "entropy_bits": 6.1011,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1602,
+    "avg_left": 559.2
+   },
+   {
+    "word": "saner",
+    "expected_guesses": 4.2905,
+    "entropy_bits": 6.0578,
+    "p_win": 0.0,
+    "groups": 192,
+    "worst_case_left": 1358,
+    "avg_left": 496.67
+   },
+   {
+    "word": "snare",
+    "expected_guesses": 4.3059,
+    "entropy_bits": 6.0127,
+    "p_win": 0.0003,
+    "groups": 184,
+    "worst_case_left": 1758,
+    "avg_left": 551.66
+   },
+   {
+    "word": "lears",
+    "expected_guesses": 4.2945,
+    "entropy_bits": 6.0469,
+    "p_win": 0.0,
+    "groups": 198,
+    "worst_case_left": 1844,
+    "avg_left": 529.91
+   },
+   {
+    "word": "tries",
+    "expected_guesses": 4.3097,
+    "entropy_bits": 6.0019,
+    "p_win": 0.0003,
+    "groups": 198,
+    "worst_case_left": 2472,
+    "avg_left": 647.57
+   },
+   {
+    "word": "reals",
+    "expected_guesses": 4.2949,
+    "entropy_bits": 6.0459,
+    "p_win": 0.0,
+    "groups": 200,
+    "worst_case_left": 1844,
+    "avg_left": 528.83
+   },
+   {
+    "word": "stale",
+    "expected_guesses": 4.3133,
+    "entropy_bits": 5.99,
+    "p_win": 0.0003,
+    "groups": 195,
+    "worst_case_left": 2260,
+    "avg_left": 625.19
+   },
+   {
+    "word": "taels",
+    "expected_guesses": 4.303,
+    "entropy_bits": 6.0225,
+    "p_win": 0.0,
+    "groups": 199,
+    "worst_case_left": 1949,
+    "avg_left": 613.64
+   },
+   {
+    "word": "arise",
+    "expected_guesses": 4.3199,
+    "entropy_bits": 5.9731,
+    "p_win": 0.0005,
+    "groups": 199,
+    "worst_case_left": 1891,
+    "avg_left": 554.38
+   },
+   {
+    "word": "least",
+    "expected_guesses": 4.329,
+    "entropy_bits": 5.9463,
+    "p_win": 0.0006,
+    "groups": 189,
+    "worst_case_left": 2260,
+    "avg_left": 651.85
+   },
+   {
+    "word": "nares",
+    "expected_guesses": 4.2997,
+    "entropy_bits": 6.0322,
+    "p_win": 0.0001,
+    "groups": 192,
+    "worst_case_left": 1358,
+    "avg_left": 491.05
+   },
+   {
+    "word": "aloes",
+    "expected_guesses": 4.3339,
+    "entropy_bits": 5.934,
+    "p_win": 0.0003,
+    "groups": 196,
+    "worst_case_left": 2188,
+    "avg_left": 586.65
+   },
+   {
+    "word": "lates",
+    "expected_guesses": 4.3041,
+    "entropy_bits": 6.0188,
+    "p_win": 0.0,
+    "groups": 203,
+    "worst_case_left": 1602,
+    "avg_left": 561.37
+   },
+   {
+    "word": "altes",
+    "expected_guesses": 4.3205,
+    "entropy_bits": 5.9725,
+    "p_win": 0.0,
+    "groups": 198,
+    "worst_case_left": 2273,
+    "avg_left": 614.99
+   },
+   {
+    "word": "lanes",
+    "expected_guesses": 4.324,
+    "entropy_bits": 5.9626,
+    "p_win": 0.0,
+    "groups": 202,
+    "worst_case_left": 1435,
+    "avg_left": 542.54
+   },
+   {
+    "word": "earls",
+    "expected_guesses": 4.3258,
+    "entropy_bits": 5.9571,
+    "p_win": 0.0,
+    "groups": 190,
+    "worst_case_left": 1487,
+    "avg_left": 533.54
+   }
+  ],
+  "hard": [
+   {
+    "word": "tears",
+    "expected_guesses": 4.259,
+    "entropy_bits": 6.1457,
+    "p_win": 0.0005,
+    "groups": 214,
+    "worst_case_left": 2156,
+    "avg_left": 560.02
+   },
+   {
+    "word": "slate",
+    "expected_guesses": 4.2698,
+    "entropy_bits": 6.1148,
+    "p_win": 0.0005,
+    "groups": 199,
+    "worst_case_left": 2260,
+    "avg_left": 598.91
+   },
+   {
+    "word": "lares",
+    "expected_guesses": 4.2654,
+    "entropy_bits": 6.1301,
+    "p_win": 0.0001,
+    "groups": 202,
+    "worst_case_left": 1404,
+    "avg_left": 469.93
+   },
+   {
+    "word": "stare",
+    "expected_guesses": 4.2891,
+    "entropy_bits": 6.0611,
+    "p_win": 0.0003,
+    "groups": 191,
+    "worst_case_left": 2156,
+    "avg_left": 575.71
+   },
+   {
+    "word": "rates",
+    "expected_guesses": 4.2743,
+    "entropy_bits": 6.1046,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1545,
+    "avg_left": 516.86
+   },
+   {
+    "word": "tales",
+    "expected_guesses": 4.2818,
+    "entropy_bits": 6.0827,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1602,
+    "avg_left": 544.95
+   },
+   {
+    "word": "raise",
+    "expected_guesses": 4.2987,
+    "entropy_bits": 6.0335,
+    "p_win": 0.0004,
+    "groups": 195,
+    "worst_case_left": 1198,
+    "avg_left": 499.78
+   },
+   {
+    "word": "aires",
+    "expected_guesses": 4.2839,
+    "entropy_bits": 6.0774,
+    "p_win": 0.0,
+    "groups": 194,
+    "worst_case_left": 1891,
+    "avg_left": 481.21
+   },
+   {
+    "word": "rales",
+    "expected_guesses": 4.2869,
+    "entropy_bits": 6.0689,
+    "p_win": 0.0,
+    "groups": 199,
+    "worst_case_left": 1404,
+    "avg_left": 486.48
+   },
+   {
+    "word": "satle",
+    "expected_guesses": 4.275,
+    "entropy_bits": 6.1011,
+    "p_win": 0.0,
+    "groups": 204,
+    "worst_case_left": 1602,
+    "avg_left": 559.2
+   },
+   {
+    "word": "saner",
+    "expected_guesses": 4.2905,
+    "entropy_bits": 6.0578,
+    "p_win": 0.0,
+    "groups": 192,
+    "worst_case_left": 1358,
+    "avg_left": 496.67
+   },
+   {
+    "word": "snare",
+    "expected_guesses": 4.3059,
+    "entropy_bits": 6.0127,
+    "p_win": 0.0003,
+    "groups": 184,
+    "worst_case_left": 1758,
+    "avg_left": 551.66
+   },
+   {
+    "word": "lears",
+    "expected_guesses": 4.2945,
+    "entropy_bits": 6.0469,
+    "p_win": 0.0,
+    "groups": 198,
+    "worst_case_left": 1844,
+    "avg_left": 529.91
+   },
+   {
+    "word": "tries",
+    "expected_guesses": 4.3097,
+    "entropy_bits": 6.0019,
+    "p_win": 0.0003,
+    "groups": 198,
+    "worst_case_left": 2472,
+    "avg_left": 647.57
+   },
+   {
+    "word": "reals",
+    "expected_guesses": 4.2949,
+    "entropy_bits": 6.0459,
+    "p_win": 0.0,
+    "groups": 200,
+    "worst_case_left": 1844,
+    "avg_left": 528.83
+   },
+   {
+    "word": "stale",
+    "expected_guesses": 4.3133,
+    "entropy_bits": 5.99,
+    "p_win": 0.0003,
+    "groups": 195,
+    "worst_case_left": 2260,
+    "avg_left": 625.19
+   },
+   {
+    "word": "taels",
+    "expected_guesses": 4.303,
+    "entropy_bits": 6.0225,
+    "p_win": 0.0,
+    "groups": 199,
+    "worst_case_left": 1949,
+    "avg_left": 613.64
+   },
+   {
+    "word": "arise",
+    "expected_guesses": 4.3199,
+    "entropy_bits": 5.9731,
+    "p_win": 0.0005,
+    "groups": 199,
+    "worst_case_left": 1891,
+    "avg_left": 554.38
+   },
+   {
+    "word": "least",
+    "expected_guesses": 4.329,
+    "entropy_bits": 5.9463,
+    "p_win": 0.0006,
+    "groups": 189,
+    "worst_case_left": 2260,
+    "avg_left": 651.85
+   },
+   {
+    "word": "nares",
+    "expected_guesses": 4.2997,
+    "entropy_bits": 6.0322,
+    "p_win": 0.0001,
+    "groups": 192,
+    "worst_case_left": 1358,
+    "avg_left": 491.05
+   },
+   {
+    "word": "aloes",
+    "expected_guesses": 4.3339,
+    "entropy_bits": 5.934,
+    "p_win": 0.0003,
+    "groups": 196,
+    "worst_case_left": 2188,
+    "avg_left": 586.65
+   },
+   {
+    "word": "lates",
+    "expected_guesses": 4.3041,
+    "entropy_bits": 6.0188,
+    "p_win": 0.0,
+    "groups": 203,
+    "worst_case_left": 1602,
+    "avg_left": 561.37
+   },
+   {
+    "word": "altes",
+    "expected_guesses": 4.3205,
+    "entropy_bits": 5.9725,
+    "p_win": 0.0,
+    "groups": 198,
+    "worst_case_left": 2273,
+    "avg_left": 614.99
+   },
+   {
+    "word": "lanes",
+    "expected_guesses": 4.324,
+    "entropy_bits": 5.9626,
+    "p_win": 0.0,
+    "groups": 202,
+    "worst_case_left": 1435,
+    "avg_left": 542.54
+   },
+   {
+    "word": "earls",
+    "expected_guesses": 4.3258,
+    "entropy_bits": 5.9571,
+    "p_win": 0.0,
+    "groups": 190,
+    "worst_case_left": 1487,
+    "avg_left": 533.54
+   }
+  ]
+ },
+ "6": {
+  "normal": [
+   {
+    "word": "satire",
+    "expected_guesses": 4.0989,
+    "entropy_bits": 7.5647,
+    "p_win": 0.0004,
+    "groups": 561,
+    "worst_case_left": 1305,
+    "avg_left": 341.55
+   },
+   {
+    "word": "santer",
+    "expected_guesses": 4.0996,
+    "entropy_bits": 7.5647,
+    "p_win": 0.0,
+    "groups": 554,
+    "worst_case_left": 1042,
+    "avg_left": 322.31
+   },
+   {
+    "word": "raines",
+    "expected_guesses": 4.1235,
+    "entropy_bits": 7.4963,
+    "p_win": 0.0,
+    "groups": 556,
+    "worst_case_left": 941,
+    "avg_left": 312.91
+   },
+   {
+    "word": "salter",
+    "expected_guesses": 4.111,
+    "entropy_bits": 7.5309,
+    "p_win": 0.0,
+    "groups": 545,
+    "worst_case_left": 990,
+    "avg_left": 334.74
+   },
+   {
+    "word": "saline",
+    "expected_guesses": 4.1425,
+    "entropy_bits": 7.4403,
+    "p_win": 0.0005,
+    "groups": 583,
+    "worst_case_left": 1495,
+    "avg_left": 366.78
+   },
+   {
+    "word": "sailer",
+    "expected_guesses": 4.1412,
+    "entropy_bits": 7.4446,
+    "p_win": 0.0001,
+    "groups": 547,
+    "worst_case_left": 801,
+    "avg_left": 324.49
+   },
+   {
+    "word": "salite",
+    "expected_guesses": 4.145,
+    "entropy_bits": 7.434,
+    "p_win": 0.0001,
+    "groups": 585,
+    "worst_case_left": 1601,
+    "avg_left": 379.5
+   },
+   {
+    "word": "serial",
+    "expected_guesses": 4.1623,
+    "entropy_bits": 7.3838,
+    "p_win": 0.0002,
+    "groups": 561,
+    "worst_case_left": 1048,
+    "avg_left": 349.47
+   },
+   {
+    "word": "lanier",
+    "expected_guesses": 4.1584,
+    "entropy_bits": 7.3963,
+    "p_win": 0.0001,
+    "groups": 531,
+    "worst_case_left": 959,
+    "avg_left": 334.98
+   },
+   {
+    "word": "larine",
+    "expected_guesses": 4.1485,
+    "entropy_bits": 7.4246,
+    "p_win": 0.0,
+    "groups": 554,
+    "worst_case_left": 1391,
+    "avg_left": 359.76
+   },
+   {
+    "word": "sardel",
+    "expected_guesses": 4.1718,
+    "entropy_bits": 7.357,
+    "p_win": 0.0001,
+    "groups": 527,
+    "worst_case_left": 1136,
+    "avg_left": 382.78
+   },
+   {
+    "word": "ratels",
+    "expected_guesses": 4.1691,
+    "entropy_bits": 7.3653,
+    "p_win": 0.0,
+    "groups": 547,
+    "worst_case_left": 1549,
+    "avg_left": 407.39
+   },
+   {
+    "word": "salted",
+    "expected_guesses": 4.1915,
+    "entropy_bits": 7.3001,
+    "p_win": 0.0003,
+    "groups": 517,
+    "worst_case_left": 1502,
+    "avg_left": 415.95
+   },
+   {
+    "word": "tailer",
+    "expected_guesses": 4.1833,
+    "entropy_bits": 7.3251,
+    "p_win": 0.0,
+    "groups": 535,
+    "worst_case_left": 917,
+    "avg_left": 362.13
+   },
+   {
+    "word": "laster",
+    "expected_guesses": 4.1684,
+    "entropy_bits": 7.3668,
+    "p_win": 0.0,
+    "groups": 532,
+    "worst_case_left": 990,
+    "avg_left": 369.74
+   },
+   {
+    "word": "sauter",
+    "expected_guesses": 4.1903,
+    "entropy_bits": 7.305,
+    "p_win": 0.0001,
+    "groups": 533,
+    "worst_case_left": 1427,
+    "avg_left": 419.3
+   },
+   {
+    "word": "rances",
+    "expected_guesses": 4.1864,
+    "entropy_bits": 7.3159,
+    "p_win": 0.0,
+    "groups": 506,
+    "worst_case_left": 1167,
+    "avg_left": 381.28
+   },
+   {
+    "word": "relais",
+    "expected_guesses": 4.1751,
+    "entropy_bits": 7.3479,
+    "p_win": 0.0,
+    "groups": 533,
+    "worst_case_left": 1117,
+    "avg_left": 362.88
+   },
+   {
+    "word": "sander",
+    "expected_guesses": 4.1902,
+    "entropy_bits": 7.3058,
+    "p_win": 0.0,
+    "groups": 534,
+    "worst_case_left": 1189,
+    "avg_left": 390.52
+   },
+   {
+    "word": "ladies",
+    "expected_guesses": 4.2055,
+    "entropy_bits": 7.2613,
+    "p_win": 0.0003,
+    "groups": 538,
+    "worst_case_left": 1265,
+    "avg_left": 396.98
+   },
+   {
+    "word": "lianes",
+    "expected_guesses": 4.1911,
+    "entropy_bits": 7.3031,
+    "p_win": 0.0,
+    "groups": 551,
+    "worst_case_left": 1296,
+    "avg_left": 386.04
+   },
+   {
+    "word": "retain",
+    "expected_guesses": 4.2109,
+    "entropy_bits": 7.2449,
+    "p_win": 0.0005,
+    "groups": 543,
+    "worst_case_left": 1341,
+    "avg_left": 428.1
+   },
+   {
+    "word": "ramies",
+    "expected_guesses": 4.196,
+    "entropy_bits": 7.2885,
+    "p_win": 0.0,
+    "groups": 550,
+    "worst_case_left": 1085,
+    "avg_left": 391.39
+   },
+   {
+    "word": "sorted",
+    "expected_guesses": 4.2117,
+    "entropy_bits": 7.242,
+    "p_win": 0.0002,
+    "groups": 519,
+    "worst_case_left": 2070,
+    "avg_left": 489.14
+   },
+   {
+    "word": "aeries",
+    "expected_guesses": 4.2003,
+    "entropy_bits": 7.2773,
+    "p_win": 0.0,
+    "groups": 467,
+    "worst_case_left": 2190,
+    "avg_left": 399.62
+   }
+  ],
+  "hard": [
+   {
+    "word": "satire",
+    "expected_guesses": 4.0989,
+    "entropy_bits": 7.5647,
+    "p_win": 0.0004,
+    "groups": 561,
+    "worst_case_left": 1305,
+    "avg_left": 341.55
+   },
+   {
+    "word": "santer",
+    "expected_guesses": 4.0996,
+    "entropy_bits": 7.5647,
+    "p_win": 0.0,
+    "groups": 554,
+    "worst_case_left": 1042,
+    "avg_left": 322.31
+   },
+   {
+    "word": "raines",
+    "expected_guesses": 4.1235,
+    "entropy_bits": 7.4963,
+    "p_win": 0.0,
+    "groups": 556,
+    "worst_case_left": 941,
+    "avg_left": 312.91
+   },
+   {
+    "word": "salter",
+    "expected_guesses": 4.111,
+    "entropy_bits": 7.5309,
+    "p_win": 0.0,
+    "groups": 545,
+    "worst_case_left": 990,
+    "avg_left": 334.74
+   },
+   {
+    "word": "saline",
+    "expected_guesses": 4.1425,
+    "entropy_bits": 7.4403,
+    "p_win": 0.0005,
+    "groups": 583,
+    "worst_case_left": 1495,
+    "avg_left": 366.78
+   },
+   {
+    "word": "sailer",
+    "expected_guesses": 4.1412,
+    "entropy_bits": 7.4446,
+    "p_win": 0.0001,
+    "groups": 547,
+    "worst_case_left": 801,
+    "avg_left": 324.49
+   },
+   {
+    "word": "salite",
+    "expected_guesses": 4.145,
+    "entropy_bits": 7.434,
+    "p_win": 0.0001,
+    "groups": 585,
+    "worst_case_left": 1601,
+    "avg_left": 379.5
+   },
+   {
+    "word": "serial",
+    "expected_guesses": 4.1623,
+    "entropy_bits": 7.3838,
+    "p_win": 0.0002,
+    "groups": 561,
+    "worst_case_left": 1048,
+    "avg_left": 349.47
+   },
+   {
+    "word": "lanier",
+    "expected_guesses": 4.1584,
+    "entropy_bits": 7.3963,
+    "p_win": 0.0001,
+    "groups": 531,
+    "worst_case_left": 959,
+    "avg_left": 334.98
+   },
+   {
+    "word": "larine",
+    "expected_guesses": 4.1485,
+    "entropy_bits": 7.4246,
+    "p_win": 0.0,
+    "groups": 554,
+    "worst_case_left": 1391,
+    "avg_left": 359.76
+   },
+   {
+    "word": "sardel",
+    "expected_guesses": 4.1718,
+    "entropy_bits": 7.357,
+    "p_win": 0.0001,
+    "groups": 527,
+    "worst_case_left": 1136,
+    "avg_left": 382.78
+   },
+   {
+    "word": "ratels",
+    "expected_guesses": 4.1691,
+    "entropy_bits": 7.3653,
+    "p_win": 0.0,
+    "groups": 547,
+    "worst_case_left": 1549,
+    "avg_left": 407.39
+   },
+   {
+    "word": "salted",
+    "expected_guesses": 4.1915,
+    "entropy_bits": 7.3001,
+    "p_win": 0.0003,
+    "groups": 517,
+    "worst_case_left": 1502,
+    "avg_left": 415.95
+   },
+   {
+    "word": "tailer",
+    "expected_guesses": 4.1833,
+    "entropy_bits": 7.3251,
+    "p_win": 0.0,
+    "groups": 535,
+    "worst_case_left": 917,
+    "avg_left": 362.13
+   },
+   {
+    "word": "laster",
+    "expected_guesses": 4.1684,
+    "entropy_bits": 7.3668,
+    "p_win": 0.0,
+    "groups": 532,
+    "worst_case_left": 990,
+    "avg_left": 369.74
+   },
+   {
+    "word": "sauter",
+    "expected_guesses": 4.1903,
+    "entropy_bits": 7.305,
+    "p_win": 0.0001,
+    "groups": 533,
+    "worst_case_left": 1427,
+    "avg_left": 419.3
+   },
+   {
+    "word": "rances",
+    "expected_guesses": 4.1864,
+    "entropy_bits": 7.3159,
+    "p_win": 0.0,
+    "groups": 506,
+    "worst_case_left": 1167,
+    "avg_left": 381.28
+   },
+   {
+    "word": "relais",
+    "expected_guesses": 4.1751,
+    "entropy_bits": 7.3479,
+    "p_win": 0.0,
+    "groups": 533,
+    "worst_case_left": 1117,
+    "avg_left": 362.88
+   },
+   {
+    "word": "sander",
+    "expected_guesses": 4.1902,
+    "entropy_bits": 7.3058,
+    "p_win": 0.0,
+    "groups": 534,
+    "worst_case_left": 1189,
+    "avg_left": 390.52
+   },
+   {
+    "word": "ladies",
+    "expected_guesses": 4.2055,
+    "entropy_bits": 7.2613,
+    "p_win": 0.0003,
+    "groups": 538,
+    "worst_case_left": 1265,
+    "avg_left": 396.98
+   },
+   {
+    "word": "lianes",
+    "expected_guesses": 4.1911,
+    "entropy_bits": 7.3031,
+    "p_win": 0.0,
+    "groups": 551,
+    "worst_case_left": 1296,
+    "avg_left": 386.04
+   },
+   {
+    "word": "retain",
+    "expected_guesses": 4.2109,
+    "entropy_bits": 7.2449,
+    "p_win": 0.0005,
+    "groups": 543,
+    "worst_case_left": 1341,
+    "avg_left": 428.1
+   },
+   {
+    "word": "ramies",
+    "expected_guesses": 4.196,
+    "entropy_bits": 7.2885,
+    "p_win": 0.0,
+    "groups": 550,
+    "worst_case_left": 1085,
+    "avg_left": 391.39
+   },
+   {
+    "word": "sorted",
+    "expected_guesses": 4.2117,
+    "entropy_bits": 7.242,
+    "p_win": 0.0002,
+    "groups": 519,
+    "worst_case_left": 2070,
+    "avg_left": 489.14
+   },
+   {
+    "word": "aeries",
+    "expected_guesses": 4.2003,
+    "entropy_bits": 7.2773,
+    "p_win": 0.0,
+    "groups": 467,
+    "worst_case_left": 2190,
+    "avg_left": 399.62
+   }
+  ]
+ },
+ "7": {
+  "normal": [
+   {
+    "word": "saltire",
+    "expected_guesses": 3.7389,
+    "entropy_bits": 8.9635,
+    "p_win": 0.0001,
+    "groups": 1448,
+    "worst_case_left": 736,
+    "avg_left": 155.73
+   },
+   {
+    "word": "saltier",
+    "expected_guesses": 3.748,
+    "entropy_bits": 8.9389,
+    "p_win": 0.0,
+    "groups": 1419,
+    "worst_case_left": 607,
+    "avg_left": 149.73
+   },
+   {
+    "word": "parties",
+    "expected_guesses": 3.7781,
+    "entropy_bits": 8.8483,
+    "p_win": 0.0003,
+    "groups": 1566,
+    "worst_case_left": 767,
+    "avg_left": 181.63
+   },
+   {
+    "word": "sardine",
+    "expected_guesses": 3.7935,
+    "entropy_bits": 8.8071,
+    "p_win": 0.0002,
+    "groups": 1473,
+    "worst_case_left": 848,
+    "avg_left": 183.33
+   },
+   {
+    "word": "retains",
+    "expected_guesses": 3.7897,
+    "entropy_bits": 8.8183,
+    "p_win": 0.0,
+    "groups": 1503,
+    "worst_case_left": 856,
+    "avg_left": 179.84
+   },
+   {
+    "word": "retails",
+    "expected_guesses": 3.8088,
+    "entropy_bits": 8.7646,
+    "p_win": 0.0,
+    "groups": 1447,
+    "worst_case_left": 777,
+    "avg_left": 178.81
+   },
+   {
+    "word": "ratlins",
+    "expected_guesses": 3.8106,
+    "entropy_bits": 8.7589,
+    "p_win": 0.0,
+    "groups": 1358,
+    "worst_case_left": 756,
+    "avg_left": 177.77
+   },
+   {
+    "word": "latrine",
+    "expected_guesses": 3.8115,
+    "entropy_bits": 8.7555,
+    "p_win": 0.0,
+    "groups": 1446,
+    "worst_case_left": 1081,
+    "avg_left": 194.93
+   },
+   {
+    "word": "salient",
+    "expected_guesses": 3.8438,
+    "entropy_bits": 8.6626,
+    "p_win": 0.0004,
+    "groups": 1422,
+    "worst_case_left": 698,
+    "avg_left": 200.96
+   },
+   {
+    "word": "rentals",
+    "expected_guesses": 3.8303,
+    "entropy_bits": 8.7035,
+    "p_win": 0.0,
+    "groups": 1384,
+    "worst_case_left": 868,
+    "avg_left": 198.09
+   },
+   {
+    "word": "realist",
+    "expected_guesses": 3.8424,
+    "entropy_bits": 8.6675,
+    "p_win": 0.0001,
+    "groups": 1313,
+    "worst_case_left": 750,
+    "avg_left": 200.92
+   },
+   {
+    "word": "certain",
+    "expected_guesses": 3.8598,
+    "entropy_bits": 8.6157,
+    "p_win": 0.0003,
+    "groups": 1408,
+    "worst_case_left": 1005,
+    "avg_left": 243.59
+   },
+   {
+    "word": "rations",
+    "expected_guesses": 3.8466,
+    "entropy_bits": 8.6565,
+    "p_win": 0.0,
+    "groups": 1396,
+    "worst_case_left": 753,
+    "avg_left": 191.58
+   },
+   {
+    "word": "resiant",
+    "expected_guesses": 3.8519,
+    "entropy_bits": 8.6389,
+    "p_win": 0.0,
+    "groups": 1402,
+    "worst_case_left": 859,
+    "avg_left": 217.73
+   },
+   {
+    "word": "norites",
+    "expected_guesses": 3.8518,
+    "entropy_bits": 8.642,
+    "p_win": 0.0,
+    "groups": 1405,
+    "worst_case_left": 930,
+    "avg_left": 204.24
+   },
+   {
+    "word": "details",
+    "expected_guesses": 3.8801,
+    "entropy_bits": 8.56,
+    "p_win": 0.0002,
+    "groups": 1334,
+    "worst_case_left": 853,
+    "avg_left": 209.96
+   },
+   {
+    "word": "saltern",
+    "expected_guesses": 3.8507,
+    "entropy_bits": 8.6442,
+    "p_win": 0.0,
+    "groups": 1339,
+    "worst_case_left": 986,
+    "avg_left": 209.77
+   },
+   {
+    "word": "retinas",
+    "expected_guesses": 3.8713,
+    "entropy_bits": 8.5846,
+    "p_win": 0.0,
+    "groups": 1445,
+    "worst_case_left": 897,
+    "avg_left": 217.84
+   },
+   {
+    "word": "marline",
+    "expected_guesses": 3.8891,
+    "entropy_bits": 8.5337,
+    "p_win": 0.0002,
+    "groups": 1436,
+    "worst_case_left": 1488,
+    "avg_left": 255.75
+   },
+   {
+    "word": "reloans",
+    "expected_guesses": 3.8856,
+    "entropy_bits": 8.5462,
+    "p_win": 0.0,
+    "groups": 1299,
+    "worst_case_left": 851,
+    "avg_left": 210.74
+   },
+   {
+    "word": "saunter",
+    "expected_guesses": 3.9012,
+    "entropy_bits": 8.5001,
+    "p_win": 0.0002,
+    "groups": 1344,
+    "worst_case_left": 770,
+    "avg_left": 229.39
+   },
+   {
+    "word": "sainted",
+    "expected_guesses": 3.894,
+    "entropy_bits": 8.522,
+    "p_win": 0.0,
+    "groups": 1316,
+    "worst_case_left": 741,
+    "avg_left": 222.83
+   },
+   {
+    "word": "tailors",
+    "expected_guesses": 3.8927,
+    "entropy_bits": 8.5261,
+    "p_win": 0.0,
+    "groups": 1328,
+    "worst_case_left": 726,
+    "avg_left": 205.95
+   },
+   {
+    "word": "salited",
+    "expected_guesses": 3.8946,
+    "entropy_bits": 8.5194,
+    "p_win": 0.0,
+    "groups": 1348,
+    "worst_case_left": 691,
+    "avg_left": 223.22
+   },
+   {
+    "word": "satined",
+    "expected_guesses": 3.895,
+    "entropy_bits": 8.5176,
+    "p_win": 0.0,
+    "groups": 1333,
+    "worst_case_left": 741,
+    "avg_left": 222.9
+   }
+  ],
+  "hard": [
+   {
+    "word": "saltire",
+    "expected_guesses": 3.7389,
+    "entropy_bits": 8.9635,
+    "p_win": 0.0001,
+    "groups": 1448,
+    "worst_case_left": 736,
+    "avg_left": 155.73
+   },
+   {
+    "word": "saltier",
+    "expected_guesses": 3.748,
+    "entropy_bits": 8.9389,
+    "p_win": 0.0,
+    "groups": 1419,
+    "worst_case_left": 607,
+    "avg_left": 149.73
+   },
+   {
+    "word": "parties",
+    "expected_guesses": 3.7781,
+    "entropy_bits": 8.8483,
+    "p_win": 0.0003,
+    "groups": 1566,
+    "worst_case_left": 767,
+    "avg_left": 181.63
+   },
+   {
+    "word": "sardine",
+    "expected_guesses": 3.7935,
+    "entropy_bits": 8.8071,
+    "p_win": 0.0002,
+    "groups": 1473,
+    "worst_case_left": 848,
+    "avg_left": 183.33
+   },
+   {
+    "word": "retains",
+    "expected_guesses": 3.7897,
+    "entropy_bits": 8.8183,
+    "p_win": 0.0,
+    "groups": 1503,
+    "worst_case_left": 856,
+    "avg_left": 179.84
+   },
+   {
+    "word": "retails",
+    "expected_guesses": 3.8088,
+    "entropy_bits": 8.7646,
+    "p_win": 0.0,
+    "groups": 1447,
+    "worst_case_left": 777,
+    "avg_left": 178.81
+   },
+   {
+    "word": "ratlins",
+    "expected_guesses": 3.8106,
+    "entropy_bits": 8.7589,
+    "p_win": 0.0,
+    "groups": 1358,
+    "worst_case_left": 756,
+    "avg_left": 177.77
+   },
+   {
+    "word": "latrine",
+    "expected_guesses": 3.8115,
+    "entropy_bits": 8.7555,
+    "p_win": 0.0,
+    "groups": 1446,
+    "worst_case_left": 1081,
+    "avg_left": 194.93
+   },
+   {
+    "word": "salient",
+    "expected_guesses": 3.8438,
+    "entropy_bits": 8.6626,
+    "p_win": 0.0004,
+    "groups": 1422,
+    "worst_case_left": 698,
+    "avg_left": 200.96
+   },
+   {
+    "word": "rentals",
+    "expected_guesses": 3.8303,
+    "entropy_bits": 8.7035,
+    "p_win": 0.0,
+    "groups": 1384,
+    "worst_case_left": 868,
+    "avg_left": 198.09
+   },
+   {
+    "word": "realist",
+    "expected_guesses": 3.8424,
+    "entropy_bits": 8.6675,
+    "p_win": 0.0001,
+    "groups": 1313,
+    "worst_case_left": 750,
+    "avg_left": 200.92
+   },
+   {
+    "word": "certain",
+    "expected_guesses": 3.8598,
+    "entropy_bits": 8.6157,
+    "p_win": 0.0003,
+    "groups": 1408,
+    "worst_case_left": 1005,
+    "avg_left": 243.59
+   },
+   {
+    "word": "rations",
+    "expected_guesses": 3.8466,
+    "entropy_bits": 8.6565,
+    "p_win": 0.0,
+    "groups": 1396,
+    "worst_case_left": 753,
+    "avg_left": 191.58
+   },
+   {
+    "word": "resiant",
+    "expected_guesses": 3.8519,
+    "entropy_bits": 8.6389,
+    "p_win": 0.0,
+    "groups": 1402,
+    "worst_case_left": 859,
+    "avg_left": 217.73
+   },
+   {
+    "word": "norites",
+    "expected_guesses": 3.8518,
+    "entropy_bits": 8.642,
+    "p_win": 0.0,
+    "groups": 1405,
+    "worst_case_left": 930,
+    "avg_left": 204.24
+   },
+   {
+    "word": "details",
+    "expected_guesses": 3.8801,
+    "entropy_bits": 8.56,
+    "p_win": 0.0002,
+    "groups": 1334,
+    "worst_case_left": 853,
+    "avg_left": 209.96
+   },
+   {
+    "word": "saltern",
+    "expected_guesses": 3.8507,
+    "entropy_bits": 8.6442,
+    "p_win": 0.0,
+    "groups": 1339,
+    "worst_case_left": 986,
+    "avg_left": 209.77
+   },
+   {
+    "word": "retinas",
+    "expected_guesses": 3.8713,
+    "entropy_bits": 8.5846,
+    "p_win": 0.0,
+    "groups": 1445,
+    "worst_case_left": 897,
+    "avg_left": 217.84
+   },
+   {
+    "word": "marline",
+    "expected_guesses": 3.8891,
+    "entropy_bits": 8.5337,
+    "p_win": 0.0002,
+    "groups": 1436,
+    "worst_case_left": 1488,
+    "avg_left": 255.75
+   },
+   {
+    "word": "reloans",
+    "expected_guesses": 3.8856,
+    "entropy_bits": 8.5462,
+    "p_win": 0.0,
+    "groups": 1299,
+    "worst_case_left": 851,
+    "avg_left": 210.74
+   },
+   {
+    "word": "saunter",
+    "expected_guesses": 3.9012,
+    "entropy_bits": 8.5001,
+    "p_win": 0.0002,
+    "groups": 1344,
+    "worst_case_left": 770,
+    "avg_left": 229.39
+   },
+   {
+    "word": "sainted",
+    "expected_guesses": 3.894,
+    "entropy_bits": 8.522,
+    "p_win": 0.0,
+    "groups": 1316,
+    "worst_case_left": 741,
+    "avg_left": 222.83
+   },
+   {
+    "word": "tailors",
+    "expected_guesses": 3.8927,
+    "entropy_bits": 8.5261,
+    "p_win": 0.0,
+    "groups": 1328,
+    "worst_case_left": 726,
+    "avg_left": 205.95
+   },
+   {
+    "word": "salited",
+    "expected_guesses": 3.8946,
+    "entropy_bits": 8.5194,
+    "p_win": 0.0,
+    "groups": 1348,
+    "worst_case_left": 691,
+    "avg_left": 223.22
+   },
+   {
+    "word": "satined",
+    "expected_guesses": 3.895,
+    "entropy_bits": 8.5176,
+    "p_win": 0.0,
+    "groups": 1333,
+    "worst_case_left": 741,
+    "avg_left": 222.9
+   }
+  ]
+ },
+ "8": {
+  "normal": [
+   {
+    "word": "notaries",
+    "expected_guesses": 3.4792,
+    "entropy_bits": 10.0866,
+    "p_win": 0.0,
+    "groups": 3413,
+    "worst_case_left": 386,
+    "avg_left": 76.0
+   },
+   {
+    "word": "curtains",
+    "expected_guesses": 3.5388,
+    "entropy_bits": 9.9151,
+    "p_win": 0.0002,
+    "groups": 3351,
+    "worst_case_left": 662,
+    "avg_left": 97.35
+   },
+   {
+    "word": "gantries",
+    "expected_guesses": 3.529,
+    "entropy_bits": 9.9451,
+    "p_win": 0.0,
+    "groups": 3445,
+    "worst_case_left": 506,
+    "avg_left": 87.91
+   },
+   {
+    "word": "latrines",
+    "expected_guesses": 3.5294,
+    "entropy_bits": 9.9424,
+    "p_win": 0.0,
+    "groups": 3343,
+    "worst_case_left": 311,
+    "avg_left": 86.02
+   },
+   {
+    "word": "ratlines",
+    "expected_guesses": 3.5191,
+    "entropy_bits": 9.9722,
+    "p_win": 0.0,
+    "groups": 3349,
+    "worst_case_left": 348,
+    "avg_left": 84.92
+   },
+   {
+    "word": "realties",
+    "expected_guesses": 3.5379,
+    "entropy_bits": 9.9195,
+    "p_win": 0.0,
+    "groups": 3051,
+    "worst_case_left": 447,
+    "avg_left": 91.31
+   },
+   {
+    "word": "retinals",
+    "expected_guesses": 3.5413,
+    "entropy_bits": 9.907,
+    "p_win": 0.0,
+    "groups": 3270,
+    "worst_case_left": 401,
+    "avg_left": 96.81
+   },
+   {
+    "word": "articles",
+    "expected_guesses": 3.5585,
+    "entropy_bits": 9.8588,
+    "p_win": 0.0004,
+    "groups": 3091,
+    "worst_case_left": 473,
+    "avg_left": 100.1
+   },
+   {
+    "word": "doctrine",
+    "expected_guesses": 3.5723,
+    "entropy_bits": 9.8168,
+    "p_win": 0.0004,
+    "groups": 3095,
+    "worst_case_left": 733,
+    "avg_left": 114.09
+   },
+   {
+    "word": "recitals",
+    "expected_guesses": 3.5614,
+    "entropy_bits": 9.8485,
+    "p_win": 0.0,
+    "groups": 3129,
+    "worst_case_left": 604,
+    "avg_left": 106.67
+   },
+   {
+    "word": "romanies",
+    "expected_guesses": 3.5659,
+    "entropy_bits": 9.8384,
+    "p_win": 0.0,
+    "groups": 3300,
+    "worst_case_left": 571,
+    "avg_left": 101.14
+   },
+   {
+    "word": "retinols",
+    "expected_guesses": 3.5678,
+    "entropy_bits": 9.8329,
+    "p_win": 0.0,
+    "groups": 3200,
+    "worst_case_left": 395,
+    "avg_left": 102.41
+   },
+   {
+    "word": "entrails",
+    "expected_guesses": 3.584,
+    "entropy_bits": 9.7847,
+    "p_win": 0.0003,
+    "groups": 3131,
+    "worst_case_left": 472,
+    "avg_left": 97.77
+   },
+   {
+    "word": "counties",
+    "expected_guesses": 3.5841,
+    "entropy_bits": 9.7854,
+    "p_win": 0.0002,
+    "groups": 3253,
+    "worst_case_left": 502,
+    "avg_left": 105.62
+   },
+   {
+    "word": "relation",
+    "expected_guesses": 3.5943,
+    "entropy_bits": 9.7567,
+    "p_win": 0.0003,
+    "groups": 3102,
+    "worst_case_left": 510,
+    "avg_left": 109.47
+   },
+   {
+    "word": "ratanies",
+    "expected_guesses": 3.5893,
+    "entropy_bits": 9.7726,
+    "p_win": 0.0,
+    "groups": 3139,
+    "worst_case_left": 472,
+    "avg_left": 102.1
+   },
+   {
+    "word": "lactones",
+    "expected_guesses": 3.5918,
+    "entropy_bits": 9.7665,
+    "p_win": 0.0,
+    "groups": 3145,
+    "worst_case_left": 479,
+    "avg_left": 103.65
+   },
+   {
+    "word": "lections",
+    "expected_guesses": 3.5936,
+    "entropy_bits": 9.7602,
+    "p_win": 0.0,
+    "groups": 3089,
+    "worst_case_left": 494,
+    "avg_left": 105.88
+   },
+   {
+    "word": "routines",
+    "expected_guesses": 3.595,
+    "entropy_bits": 9.7538,
+    "p_win": 0.0,
+    "groups": 3218,
+    "worst_case_left": 594,
+    "avg_left": 113.17
+   },
+   {
+    "word": "caldrons",
+    "expected_guesses": 3.6076,
+    "entropy_bits": 9.7218,
+    "p_win": 0.0,
+    "groups": 2929,
+    "worst_case_left": 403,
+    "avg_left": 106.51
+   },
+   {
+    "word": "strained",
+    "expected_guesses": 3.6232,
+    "entropy_bits": 9.675,
+    "p_win": 0.0003,
+    "groups": 2915,
+    "worst_case_left": 411,
+    "avg_left": 112.92
+   },
+   {
+    "word": "gelatins",
+    "expected_guesses": 3.6095,
+    "entropy_bits": 9.7139,
+    "p_win": 0.0,
+    "groups": 3248,
+    "worst_case_left": 545,
+    "avg_left": 115.43
+   },
+   {
+    "word": "uranites",
+    "expected_guesses": 3.6107,
+    "entropy_bits": 9.7128,
+    "p_win": 0.0,
+    "groups": 3154,
+    "worst_case_left": 551,
+    "avg_left": 114.76
+   },
+   {
+    "word": "clarinet",
+    "expected_guesses": 3.6276,
+    "entropy_bits": 9.6624,
+    "p_win": 0.0002,
+    "groups": 3093,
+    "worst_case_left": 453,
+    "avg_left": 123.5
+   },
+   {
+    "word": "actiones",
+    "expected_guesses": 3.6132,
+    "entropy_bits": 9.7036,
+    "p_win": 0.0,
+    "groups": 2979,
+    "worst_case_left": 513,
+    "avg_left": 113.87
+   }
+  ],
+  "hard": [
+   {
+    "word": "notaries",
+    "expected_guesses": 3.4792,
+    "entropy_bits": 10.0866,
+    "p_win": 0.0,
+    "groups": 3413,
+    "worst_case_left": 386,
+    "avg_left": 76.0
+   },
+   {
+    "word": "curtains",
+    "expected_guesses": 3.5388,
+    "entropy_bits": 9.9151,
+    "p_win": 0.0002,
+    "groups": 3351,
+    "worst_case_left": 662,
+    "avg_left": 97.35
+   },
+   {
+    "word": "gantries",
+    "expected_guesses": 3.529,
+    "entropy_bits": 9.9451,
+    "p_win": 0.0,
+    "groups": 3445,
+    "worst_case_left": 506,
+    "avg_left": 87.91
+   },
+   {
+    "word": "latrines",
+    "expected_guesses": 3.5294,
+    "entropy_bits": 9.9424,
+    "p_win": 0.0,
+    "groups": 3343,
+    "worst_case_left": 311,
+    "avg_left": 86.02
+   },
+   {
+    "word": "ratlines",
+    "expected_guesses": 3.5191,
+    "entropy_bits": 9.9722,
+    "p_win": 0.0,
+    "groups": 3349,
+    "worst_case_left": 348,
+    "avg_left": 84.92
+   },
+   {
+    "word": "realties",
+    "expected_guesses": 3.5379,
+    "entropy_bits": 9.9195,
+    "p_win": 0.0,
+    "groups": 3051,
+    "worst_case_left": 447,
+    "avg_left": 91.31
+   },
+   {
+    "word": "retinals",
+    "expected_guesses": 3.5413,
+    "entropy_bits": 9.907,
+    "p_win": 0.0,
+    "groups": 3270,
+    "worst_case_left": 401,
+    "avg_left": 96.81
+   },
+   {
+    "word": "articles",
+    "expected_guesses": 3.5585,
+    "entropy_bits": 9.8588,
+    "p_win": 0.0004,
+    "groups": 3091,
+    "worst_case_left": 473,
+    "avg_left": 100.1
+   },
+   {
+    "word": "doctrine",
+    "expected_guesses": 3.5723,
+    "entropy_bits": 9.8168,
+    "p_win": 0.0004,
+    "groups": 3095,
+    "worst_case_left": 733,
+    "avg_left": 114.09
+   },
+   {
+    "word": "recitals",
+    "expected_guesses": 3.5614,
+    "entropy_bits": 9.8485,
+    "p_win": 0.0,
+    "groups": 3129,
+    "worst_case_left": 604,
+    "avg_left": 106.67
+   },
+   {
+    "word": "romanies",
+    "expected_guesses": 3.5659,
+    "entropy_bits": 9.8384,
+    "p_win": 0.0,
+    "groups": 3300,
+    "worst_case_left": 571,
+    "avg_left": 101.14
+   },
+   {
+    "word": "retinols",
+    "expected_guesses": 3.5678,
+    "entropy_bits": 9.8329,
+    "p_win": 0.0,
+    "groups": 3200,
+    "worst_case_left": 395,
+    "avg_left": 102.41
+   },
+   {
+    "word": "entrails",
+    "expected_guesses": 3.584,
+    "entropy_bits": 9.7847,
+    "p_win": 0.0003,
+    "groups": 3131,
+    "worst_case_left": 472,
+    "avg_left": 97.77
+   },
+   {
+    "word": "counties",
+    "expected_guesses": 3.5841,
+    "entropy_bits": 9.7854,
+    "p_win": 0.0002,
+    "groups": 3253,
+    "worst_case_left": 502,
+    "avg_left": 105.62
+   },
+   {
+    "word": "relation",
+    "expected_guesses": 3.5943,
+    "entropy_bits": 9.7567,
+    "p_win": 0.0003,
+    "groups": 3102,
+    "worst_case_left": 510,
+    "avg_left": 109.47
+   },
+   {
+    "word": "ratanies",
+    "expected_guesses": 3.5893,
+    "entropy_bits": 9.7726,
+    "p_win": 0.0,
+    "groups": 3139,
+    "worst_case_left": 472,
+    "avg_left": 102.1
+   },
+   {
+    "word": "lactones",
+    "expected_guesses": 3.5918,
+    "entropy_bits": 9.7665,
+    "p_win": 0.0,
+    "groups": 3145,
+    "worst_case_left": 479,
+    "avg_left": 103.65
+   },
+   {
+    "word": "lections",
+    "expected_guesses": 3.5936,
+    "entropy_bits": 9.7602,
+    "p_win": 0.0,
+    "groups": 3089,
+    "worst_case_left": 494,
+    "avg_left": 105.88
+   },
+   {
+    "word": "routines",
+    "expected_guesses": 3.595,
+    "entropy_bits": 9.7538,
+    "p_win": 0.0,
+    "groups": 3218,
+    "worst_case_left": 594,
+    "avg_left": 113.17
+   },
+   {
+    "word": "caldrons",
+    "expected_guesses": 3.6076,
+    "entropy_bits": 9.7218,
+    "p_win": 0.0,
+    "groups": 2929,
+    "worst_case_left": 403,
+    "avg_left": 106.51
+   },
+   {
+    "word": "strained",
+    "expected_guesses": 3.6232,
+    "entropy_bits": 9.675,
+    "p_win": 0.0003,
+    "groups": 2915,
+    "worst_case_left": 411,
+    "avg_left": 112.92
+   },
+   {
+    "word": "gelatins",
+    "expected_guesses": 3.6095,
+    "entropy_bits": 9.7139,
+    "p_win": 0.0,
+    "groups": 3248,
+    "worst_case_left": 545,
+    "avg_left": 115.43
+   },
+   {
+    "word": "uranites",
+    "expected_guesses": 3.6107,
+    "entropy_bits": 9.7128,
+    "p_win": 0.0,
+    "groups": 3154,
+    "worst_case_left": 551,
+    "avg_left": 114.76
+   },
+   {
+    "word": "clarinet",
+    "expected_guesses": 3.6276,
+    "entropy_bits": 9.6624,
+    "p_win": 0.0002,
+    "groups": 3093,
+    "worst_case_left": 453,
+    "avg_left": 123.5
+   },
+   {
+    "word": "actiones",
+    "expected_guesses": 3.6132,
+    "entropy_bits": 9.7036,
+    "p_win": 0.0,
+    "groups": 2979,
+    "worst_case_left": 513,
+    "avg_left": 113.87
+   }
+  ]
+ },
+ "9": {
+  "normal": [
+   {
+    "word": "sarcoline",
+    "expected_guesses": 3.1332,
+    "entropy_bits": 11.1247,
+    "p_win": 0.0,
+    "groups": 7522,
+    "worst_case_left": 259,
+    "avg_left": 39.16
+   },
+   {
+    "word": "nectaries",
+    "expected_guesses": 3.1811,
+    "entropy_bits": 10.9925,
+    "p_win": 0.0,
+    "groups": 6532,
+    "worst_case_left": 182,
+    "avg_left": 38.53
+   },
+   {
+    "word": "centuries",
+    "expected_guesses": 3.2151,
+    "entropy_bits": 10.8949,
+    "p_win": 0.0004,
+    "groups": 6364,
+    "worst_case_left": 196,
+    "avg_left": 42.62
+   },
+   {
+    "word": "countries",
+    "expected_guesses": 3.221,
+    "entropy_bits": 10.8807,
+    "p_win": 0.0004,
+    "groups": 6874,
+    "worst_case_left": 229,
+    "avg_left": 43.86
+   },
+   {
+    "word": "larcenies",
+    "expected_guesses": 3.198,
+    "entropy_bits": 10.9452,
+    "p_win": 0.0,
+    "groups": 6443,
+    "worst_case_left": 172,
+    "avg_left": 39.7
+   },
+   {
+    "word": "reactions",
+    "expected_guesses": 3.2155,
+    "entropy_bits": 10.8977,
+    "p_win": 0.0,
+    "groups": 6525,
+    "worst_case_left": 226,
+    "avg_left": 43.08
+   },
+   {
+    "word": "penalties",
+    "expected_guesses": 3.238,
+    "entropy_bits": 10.8353,
+    "p_win": 0.0002,
+    "groups": 6347,
+    "worst_case_left": 240,
+    "avg_left": 45.64
+   },
+   {
+    "word": "relations",
+    "expected_guesses": 3.2253,
+    "entropy_bits": 10.8702,
+    "p_win": 0.0001,
+    "groups": 6712,
+    "worst_case_left": 205,
+    "avg_left": 44.26
+   },
+   {
+    "word": "lacertine",
+    "expected_guesses": 3.22,
+    "entropy_bits": 10.8777,
+    "p_win": 0.0,
+    "groups": 6110,
+    "worst_case_left": 237,
+    "avg_left": 45.65
+   },
+   {
+    "word": "aerolites",
+    "expected_guesses": 3.2364,
+    "entropy_bits": 10.8403,
+    "p_win": 0.0,
+    "groups": 6422,
+    "worst_case_left": 243,
+    "avg_left": 45.66
+   },
+   {
+    "word": "particles",
+    "expected_guesses": 3.2519,
+    "entropy_bits": 10.7884,
+    "p_win": 0.0004,
+    "groups": 6791,
+    "worst_case_left": 281,
+    "avg_left": 54.11
+   },
+   {
+    "word": "latencies",
+    "expected_guesses": 3.2394,
+    "entropy_bits": 10.834,
+    "p_win": 0.0,
+    "groups": 6068,
+    "worst_case_left": 178,
+    "avg_left": 41.42
+   },
+   {
+    "word": "secretion",
+    "expected_guesses": 3.2551,
+    "entropy_bits": 10.7846,
+    "p_win": 0.0004,
+    "groups": 5922,
+    "worst_case_left": 255,
+    "avg_left": 47.16
+   },
+   {
+    "word": "palestine",
+    "expected_guesses": 3.2559,
+    "entropy_bits": 10.778,
+    "p_win": 0.0002,
+    "groups": 6320,
+    "worst_case_left": 335,
+    "avg_left": 51.97
+   },
+   {
+    "word": "doctrines",
+    "expected_guesses": 3.2624,
+    "entropy_bits": 10.7572,
+    "p_win": 0.0004,
+    "groups": 6591,
+    "worst_case_left": 373,
+    "avg_left": 56.09
+   },
+   {
+    "word": "acroleins",
+    "expected_guesses": 3.2532,
+    "entropy_bits": 10.7926,
+    "p_win": 0.0,
+    "groups": 6084,
+    "worst_case_left": 238,
+    "avg_left": 46.84
+   },
+   {
+    "word": "larcenist",
+    "expected_guesses": 3.2421,
+    "entropy_bits": 10.8195,
+    "p_win": 0.0,
+    "groups": 6319,
+    "worst_case_left": 283,
+    "avg_left": 47.52
+   },
+   {
+    "word": "neurotics",
+    "expected_guesses": 3.2666,
+    "entropy_bits": 10.7544,
+    "p_win": 0.0,
+    "groups": 5808,
+    "worst_case_left": 234,
+    "avg_left": 47.14
+   },
+   {
+    "word": "neoterics",
+    "expected_guesses": 3.2672,
+    "entropy_bits": 10.7532,
+    "p_win": 0.0,
+    "groups": 5698,
+    "worst_case_left": 222,
+    "avg_left": 46.82
+   },
+   {
+    "word": "saturnine",
+    "expected_guesses": 3.2766,
+    "entropy_bits": 10.7211,
+    "p_win": 0.0,
+    "groups": 5580,
+    "worst_case_left": 380,
+    "avg_left": 58.21
+   },
+   {
+    "word": "suctorial",
+    "expected_guesses": 3.2912,
+    "entropy_bits": 10.6817,
+    "p_win": 0.0002,
+    "groups": 6077,
+    "worst_case_left": 264,
+    "avg_left": 54.86
+   },
+   {
+    "word": "horntails",
+    "expected_guesses": 3.2779,
+    "entropy_bits": 10.7244,
+    "p_win": 0.0,
+    "groups": 6294,
+    "worst_case_left": 209,
+    "avg_left": 47.8
+   },
+   {
+    "word": "selection",
+    "expected_guesses": 3.2949,
+    "entropy_bits": 10.6742,
+    "p_win": 0.0002,
+    "groups": 5541,
+    "worst_case_left": 271,
+    "avg_left": 50.46
+   },
+   {
+    "word": "romantics",
+    "expected_guesses": 3.2833,
+    "entropy_bits": 10.7056,
+    "p_win": 0.0,
+    "groups": 5873,
+    "worst_case_left": 251,
+    "avg_left": 49.61
+   },
+   {
+    "word": "aerations",
+    "expected_guesses": 3.2851,
+    "entropy_bits": 10.7009,
+    "p_win": 0.0,
+    "groups": 5999,
+    "worst_case_left": 225,
+    "avg_left": 51.27
+   }
+  ],
+  "hard": [
+   {
+    "word": "sarcoline",
+    "expected_guesses": 3.1332,
+    "entropy_bits": 11.1247,
+    "p_win": 0.0,
+    "groups": 7522,
+    "worst_case_left": 259,
+    "avg_left": 39.16
+   },
+   {
+    "word": "nectaries",
+    "expected_guesses": 3.1811,
+    "entropy_bits": 10.9925,
+    "p_win": 0.0,
+    "groups": 6532,
+    "worst_case_left": 182,
+    "avg_left": 38.53
+   },
+   {
+    "word": "centuries",
+    "expected_guesses": 3.2151,
+    "entropy_bits": 10.8949,
+    "p_win": 0.0004,
+    "groups": 6364,
+    "worst_case_left": 196,
+    "avg_left": 42.62
+   },
+   {
+    "word": "countries",
+    "expected_guesses": 3.221,
+    "entropy_bits": 10.8807,
+    "p_win": 0.0004,
+    "groups": 6874,
+    "worst_case_left": 229,
+    "avg_left": 43.86
+   },
+   {
+    "word": "larcenies",
+    "expected_guesses": 3.198,
+    "entropy_bits": 10.9452,
+    "p_win": 0.0,
+    "groups": 6443,
+    "worst_case_left": 172,
+    "avg_left": 39.7
+   },
+   {
+    "word": "reactions",
+    "expected_guesses": 3.2155,
+    "entropy_bits": 10.8977,
+    "p_win": 0.0,
+    "groups": 6525,
+    "worst_case_left": 226,
+    "avg_left": 43.08
+   },
+   {
+    "word": "penalties",
+    "expected_guesses": 3.238,
+    "entropy_bits": 10.8353,
+    "p_win": 0.0002,
+    "groups": 6347,
+    "worst_case_left": 240,
+    "avg_left": 45.64
+   },
+   {
+    "word": "relations",
+    "expected_guesses": 3.2253,
+    "entropy_bits": 10.8702,
+    "p_win": 0.0001,
+    "groups": 6712,
+    "worst_case_left": 205,
+    "avg_left": 44.26
+   },
+   {
+    "word": "lacertine",
+    "expected_guesses": 3.22,
+    "entropy_bits": 10.8777,
+    "p_win": 0.0,
+    "groups": 6110,
+    "worst_case_left": 237,
+    "avg_left": 45.65
+   },
+   {
+    "word": "aerolites",
+    "expected_guesses": 3.2364,
+    "entropy_bits": 10.8403,
+    "p_win": 0.0,
+    "groups": 6422,
+    "worst_case_left": 243,
+    "avg_left": 45.66
+   },
+   {
+    "word": "particles",
+    "expected_guesses": 3.2519,
+    "entropy_bits": 10.7884,
+    "p_win": 0.0004,
+    "groups": 6791,
+    "worst_case_left": 281,
+    "avg_left": 54.11
+   },
+   {
+    "word": "latencies",
+    "expected_guesses": 3.2394,
+    "entropy_bits": 10.834,
+    "p_win": 0.0,
+    "groups": 6068,
+    "worst_case_left": 178,
+    "avg_left": 41.42
+   },
+   {
+    "word": "secretion",
+    "expected_guesses": 3.2551,
+    "entropy_bits": 10.7846,
+    "p_win": 0.0004,
+    "groups": 5922,
+    "worst_case_left": 255,
+    "avg_left": 47.16
+   },
+   {
+    "word": "palestine",
+    "expected_guesses": 3.2559,
+    "entropy_bits": 10.778,
+    "p_win": 0.0002,
+    "groups": 6320,
+    "worst_case_left": 335,
+    "avg_left": 51.97
+   },
+   {
+    "word": "doctrines",
+    "expected_guesses": 3.2624,
+    "entropy_bits": 10.7572,
+    "p_win": 0.0004,
+    "groups": 6591,
+    "worst_case_left": 373,
+    "avg_left": 56.09
+   },
+   {
+    "word": "acroleins",
+    "expected_guesses": 3.2532,
+    "entropy_bits": 10.7926,
+    "p_win": 0.0,
+    "groups": 6084,
+    "worst_case_left": 238,
+    "avg_left": 46.84
+   },
+   {
+    "word": "larcenist",
+    "expected_guesses": 3.2421,
+    "entropy_bits": 10.8195,
+    "p_win": 0.0,
+    "groups": 6319,
+    "worst_case_left": 283,
+    "avg_left": 47.52
+   },
+   {
+    "word": "neurotics",
+    "expected_guesses": 3.2666,
+    "entropy_bits": 10.7544,
+    "p_win": 0.0,
+    "groups": 5808,
+    "worst_case_left": 234,
+    "avg_left": 47.14
+   },
+   {
+    "word": "neoterics",
+    "expected_guesses": 3.2672,
+    "entropy_bits": 10.7532,
+    "p_win": 0.0,
+    "groups": 5698,
+    "worst_case_left": 222,
+    "avg_left": 46.82
+   },
+   {
+    "word": "saturnine",
+    "expected_guesses": 3.2766,
+    "entropy_bits": 10.7211,
+    "p_win": 0.0,
+    "groups": 5580,
+    "worst_case_left": 380,
+    "avg_left": 58.21
+   },
+   {
+    "word": "suctorial",
+    "expected_guesses": 3.2912,
+    "entropy_bits": 10.6817,
+    "p_win": 0.0002,
+    "groups": 6077,
+    "worst_case_left": 264,
+    "avg_left": 54.86
+   },
+   {
+    "word": "horntails",
+    "expected_guesses": 3.2779,
+    "entropy_bits": 10.7244,
+    "p_win": 0.0,
+    "groups": 6294,
+    "worst_case_left": 209,
+    "avg_left": 47.8
+   },
+   {
+    "word": "selection",
+    "expected_guesses": 3.2949,
+    "entropy_bits": 10.6742,
+    "p_win": 0.0002,
+    "groups": 5541,
+    "worst_case_left": 271,
+    "avg_left": 50.46
+   },
+   {
+    "word": "romantics",
+    "expected_guesses": 3.2833,
+    "entropy_bits": 10.7056,
+    "p_win": 0.0,
+    "groups": 5873,
+    "worst_case_left": 251,
+    "avg_left": 49.61
+   },
+   {
+    "word": "aerations",
+    "expected_guesses": 3.2851,
+    "entropy_bits": 10.7009,
+    "p_win": 0.0,
+    "groups": 5999,
+    "worst_case_left": 225,
+    "avg_left": 51.27
+   }
+  ]
+ },
+ "10": {
+  "normal": [
+   {
+    "word": "aerolitics",
+    "expected_guesses": 2.8663,
+    "entropy_bits": 11.5438,
+    "p_win": 0.0,
+    "groups": 10099,
+    "worst_case_left": 166,
+    "avg_left": 21.05
+   },
+   {
+    "word": "mercantile",
+    "expected_guesses": 2.9079,
+    "entropy_bits": 11.4282,
+    "p_win": 0.0003,
+    "groups": 10144,
+    "worst_case_left": 145,
+    "avg_left": 22.64
+   },
+   {
+    "word": "lacustrine",
+    "expected_guesses": 2.9043,
+    "entropy_bits": 11.4397,
+    "p_win": 0.0,
+    "groups": 9764,
+    "worst_case_left": 161,
+    "avg_left": 21.86
+   },
+   {
+    "word": "laurestine",
+    "expected_guesses": 2.9087,
+    "entropy_bits": 11.4291,
+    "p_win": 0.0,
+    "groups": 9564,
+    "worst_case_left": 122,
+    "avg_left": 21.21
+   },
+   {
+    "word": "tourmaline",
+    "expected_guesses": 2.9407,
+    "entropy_bits": 11.3411,
+    "p_win": 0.0003,
+    "groups": 9804,
+    "worst_case_left": 187,
+    "avg_left": 24.74
+   },
+   {
+    "word": "normalcies",
+    "expected_guesses": 2.9494,
+    "entropy_bits": 11.3203,
+    "p_win": 0.0,
+    "groups": 9832,
+    "worst_case_left": 136,
+    "avg_left": 24.43
+   },
+   {
+    "word": "recusation",
+    "expected_guesses": 2.9589,
+    "entropy_bits": 11.2868,
+    "p_win": 0.0001,
+    "groups": 8904,
+    "worst_case_left": 149,
+    "avg_left": 25.67
+   },
+   {
+    "word": "caledonite",
+    "expected_guesses": 2.9443,
+    "entropy_bits": 11.3332,
+    "p_win": 0.0,
+    "groups": 9525,
+    "worst_case_left": 163,
+    "avg_left": 24.03
+   },
+   {
+    "word": "directions",
+    "expected_guesses": 2.9769,
+    "entropy_bits": 11.2347,
+    "p_win": 0.0004,
+    "groups": 9156,
+    "worst_case_left": 221,
+    "avg_left": 28.7
+   },
+   {
+    "word": "receptions",
+    "expected_guesses": 2.9635,
+    "entropy_bits": 11.2733,
+    "p_win": 0.0,
+    "groups": 9062,
+    "worst_case_left": 218,
+    "avg_left": 27.65
+   },
+   {
+    "word": "decorating",
+    "expected_guesses": 2.9798,
+    "entropy_bits": 11.2294,
+    "p_win": 0.0003,
+    "groups": 8695,
+    "worst_case_left": 206,
+    "avg_left": 28.12
+   },
+   {
+    "word": "alpestrine",
+    "expected_guesses": 2.9503,
+    "entropy_bits": 11.3116,
+    "p_win": 0.0,
+    "groups": 9233,
+    "worst_case_left": 146,
+    "avg_left": 24.86
+   },
+   {
+    "word": "reductions",
+    "expected_guesses": 2.9682,
+    "entropy_bits": 11.2614,
+    "p_win": 0.0,
+    "groups": 8841,
+    "worst_case_left": 171,
+    "avg_left": 27.27
+   },
+   {
+    "word": "repletions",
+    "expected_guesses": 2.9696,
+    "entropy_bits": 11.2565,
+    "p_win": 0.0,
+    "groups": 9327,
+    "worst_case_left": 182,
+    "avg_left": 28.43
+   },
+   {
+    "word": "replicates",
+    "expected_guesses": 2.9783,
+    "entropy_bits": 11.2317,
+    "p_win": 0.0,
+    "groups": 9331,
+    "worst_case_left": 213,
+    "avg_left": 30.5
+   },
+   {
+    "word": "sarcophile",
+    "expected_guesses": 2.9643,
+    "entropy_bits": 11.2742,
+    "p_win": 0.0,
+    "groups": 9697,
+    "worst_case_left": 210,
+    "avg_left": 28.19
+   },
+   {
+    "word": "rationales",
+    "expected_guesses": 2.9825,
+    "entropy_bits": 11.2225,
+    "p_win": 0.0,
+    "groups": 9715,
+    "worst_case_left": 182,
+    "avg_left": 29.25
+   },
+   {
+    "word": "secretions",
+    "expected_guesses": 2.9975,
+    "entropy_bits": 11.1757,
+    "p_win": 0.0003,
+    "groups": 9052,
+    "worst_case_left": 270,
+    "avg_left": 32.94
+   },
+   {
+    "word": "ceremonial",
+    "expected_guesses": 2.998,
+    "entropy_bits": 11.187,
+    "p_win": 0.0003,
+    "groups": 8809,
+    "worst_case_left": 193,
+    "avg_left": 27.64
+   },
+   {
+    "word": "reptilians",
+    "expected_guesses": 2.9849,
+    "entropy_bits": 11.2147,
+    "p_win": 0.0,
+    "groups": 8902,
+    "worst_case_left": 234,
+    "avg_left": 30.53
+   },
+   {
+    "word": "falconries",
+    "expected_guesses": 2.987,
+    "entropy_bits": 11.2163,
+    "p_win": 0.0,
+    "groups": 9163,
+    "worst_case_left": 162,
+    "avg_left": 27.22
+   },
+   {
+    "word": "macaronies",
+    "expected_guesses": 2.973,
+    "entropy_bits": 11.2488,
+    "p_win": 0.0,
+    "groups": 9927,
+    "worst_case_left": 169,
+    "avg_left": 28.1
+   },
+   {
+    "word": "alacrities",
+    "expected_guesses": 2.9882,
+    "entropy_bits": 11.2076,
+    "p_win": 0.0,
+    "groups": 8664,
+    "worst_case_left": 203,
+    "avg_left": 28.29
+   },
+   {
+    "word": "sclerotium",
+    "expected_guesses": 2.9939,
+    "entropy_bits": 11.1915,
+    "p_win": 0.0001,
+    "groups": 8670,
+    "worst_case_left": 169,
+    "avg_left": 28.73
+   },
+   {
+    "word": "regalities",
+    "expected_guesses": 2.9892,
+    "entropy_bits": 11.2075,
+    "p_win": 0.0,
+    "groups": 8452,
+    "worst_case_left": 196,
+    "avg_left": 28.12
+   }
+  ],
+  "hard": [
+   {
+    "word": "aerolitics",
+    "expected_guesses": 2.8663,
+    "entropy_bits": 11.5438,
+    "p_win": 0.0,
+    "groups": 10099,
+    "worst_case_left": 166,
+    "avg_left": 21.05
+   },
+   {
+    "word": "mercantile",
+    "expected_guesses": 2.9079,
+    "entropy_bits": 11.4282,
+    "p_win": 0.0003,
+    "groups": 10144,
+    "worst_case_left": 145,
+    "avg_left": 22.64
+   },
+   {
+    "word": "lacustrine",
+    "expected_guesses": 2.9043,
+    "entropy_bits": 11.4397,
+    "p_win": 0.0,
+    "groups": 9764,
+    "worst_case_left": 161,
+    "avg_left": 21.86
+   },
+   {
+    "word": "laurestine",
+    "expected_guesses": 2.9087,
+    "entropy_bits": 11.4291,
+    "p_win": 0.0,
+    "groups": 9564,
+    "worst_case_left": 122,
+    "avg_left": 21.21
+   },
+   {
+    "word": "tourmaline",
+    "expected_guesses": 2.9407,
+    "entropy_bits": 11.3411,
+    "p_win": 0.0003,
+    "groups": 9804,
+    "worst_case_left": 187,
+    "avg_left": 24.74
+   },
+   {
+    "word": "normalcies",
+    "expected_guesses": 2.9494,
+    "entropy_bits": 11.3203,
+    "p_win": 0.0,
+    "groups": 9832,
+    "worst_case_left": 136,
+    "avg_left": 24.43
+   },
+   {
+    "word": "recusation",
+    "expected_guesses": 2.9589,
+    "entropy_bits": 11.2868,
+    "p_win": 0.0001,
+    "groups": 8904,
+    "worst_case_left": 149,
+    "avg_left": 25.67
+   },
+   {
+    "word": "caledonite",
+    "expected_guesses": 2.9443,
+    "entropy_bits": 11.3332,
+    "p_win": 0.0,
+    "groups": 9525,
+    "worst_case_left": 163,
+    "avg_left": 24.03
+   },
+   {
+    "word": "directions",
+    "expected_guesses": 2.9769,
+    "entropy_bits": 11.2347,
+    "p_win": 0.0004,
+    "groups": 9156,
+    "worst_case_left": 221,
+    "avg_left": 28.7
+   },
+   {
+    "word": "receptions",
+    "expected_guesses": 2.9635,
+    "entropy_bits": 11.2733,
+    "p_win": 0.0,
+    "groups": 9062,
+    "worst_case_left": 218,
+    "avg_left": 27.65
+   },
+   {
+    "word": "decorating",
+    "expected_guesses": 2.9798,
+    "entropy_bits": 11.2294,
+    "p_win": 0.0003,
+    "groups": 8695,
+    "worst_case_left": 206,
+    "avg_left": 28.12
+   },
+   {
+    "word": "alpestrine",
+    "expected_guesses": 2.9503,
+    "entropy_bits": 11.3116,
+    "p_win": 0.0,
+    "groups": 9233,
+    "worst_case_left": 146,
+    "avg_left": 24.86
+   },
+   {
+    "word": "reductions",
+    "expected_guesses": 2.9682,
+    "entropy_bits": 11.2614,
+    "p_win": 0.0,
+    "groups": 8841,
+    "worst_case_left": 171,
+    "avg_left": 27.27
+   },
+   {
+    "word": "repletions",
+    "expected_guesses": 2.9696,
+    "entropy_bits": 11.2565,
+    "p_win": 0.0,
+    "groups": 9327,
+    "worst_case_left": 182,
+    "avg_left": 28.43
+   },
+   {
+    "word": "replicates",
+    "expected_guesses": 2.9783,
+    "entropy_bits": 11.2317,
+    "p_win": 0.0,
+    "groups": 9331,
+    "worst_case_left": 213,
+    "avg_left": 30.5
+   },
+   {
+    "word": "sarcophile",
+    "expected_guesses": 2.9643,
+    "entropy_bits": 11.2742,
+    "p_win": 0.0,
+    "groups": 9697,
+    "worst_case_left": 210,
+    "avg_left": 28.19
+   },
+   {
+    "word": "rationales",
+    "expected_guesses": 2.9825,
+    "entropy_bits": 11.2225,
+    "p_win": 0.0,
+    "groups": 9715,
+    "worst_case_left": 182,
+    "avg_left": 29.25
+   },
+   {
+    "word": "secretions",
+    "expected_guesses": 2.9975,
+    "entropy_bits": 11.1757,
+    "p_win": 0.0003,
+    "groups": 9052,
+    "worst_case_left": 270,
+    "avg_left": 32.94
+   },
+   {
+    "word": "ceremonial",
+    "expected_guesses": 2.998,
+    "entropy_bits": 11.187,
+    "p_win": 0.0003,
+    "groups": 8809,
+    "worst_case_left": 193,
+    "avg_left": 27.64
+   },
+   {
+    "word": "reptilians",
+    "expected_guesses": 2.9849,
+    "entropy_bits": 11.2147,
+    "p_win": 0.0,
+    "groups": 8902,
+    "worst_case_left": 234,
+    "avg_left": 30.53
+   },
+   {
+    "word": "falconries",
+    "expected_guesses": 2.987,
+    "entropy_bits": 11.2163,
+    "p_win": 0.0,
+    "groups": 9163,
+    "worst_case_left": 162,
+    "avg_left": 27.22
+   },
+   {
+    "word": "macaronies",
+    "expected_guesses": 2.973,
+    "entropy_bits": 11.2488,
+    "p_win": 0.0,
+    "groups": 9927,
+    "worst_case_left": 169,
+    "avg_left": 28.1
+   },
+   {
+    "word": "alacrities",
+    "expected_guesses": 2.9882,
+    "entropy_bits": 11.2076,
+    "p_win": 0.0,
+    "groups": 8664,
+    "worst_case_left": 203,
+    "avg_left": 28.29
+   },
+   {
+    "word": "sclerotium",
+    "expected_guesses": 2.9939,
+    "entropy_bits": 11.1915,
+    "p_win": 0.0001,
+    "groups": 8670,
+    "worst_case_left": 169,
+    "avg_left": 28.73
+   },
+   {
+    "word": "regalities",
+    "expected_guesses": 2.9892,
+    "entropy_bits": 11.2075,
+    "p_win": 0.0,
+    "groups": 8452,
+    "worst_case_left": 196,
+    "avg_left": 28.12
+   }
+  ]
+ },
+ "11": {
+  "normal": [
+   {
+    "word": "unrealities",
+    "expected_guesses": 2.6622,
+    "entropy_bits": 11.7961,
+    "p_win": 0.0,
+    "groups": 13151,
+    "worst_case_left": 71,
+    "avg_left": 10.65
+   },
+   {
+    "word": "persecution",
+    "expected_guesses": 2.7071,
+    "entropy_bits": 11.6689,
+    "p_win": 0.0005,
+    "groups": 12109,
+    "worst_case_left": 101,
+    "avg_left": 12.72
+   },
+   {
+    "word": "ulcerations",
+    "expected_guesses": 2.6942,
+    "entropy_bits": 11.7051,
+    "p_win": 0.0,
+    "groups": 13003,
+    "worst_case_left": 126,
+    "avg_left": 13.13
+   },
+   {
+    "word": "aeronautics",
+    "expected_guesses": 2.6812,
+    "entropy_bits": 11.7418,
+    "p_win": 0.0001,
+    "groups": 12451,
+    "worst_case_left": 92,
+    "avg_left": 11.43
+   },
+   {
+    "word": "customarily",
+    "expected_guesses": 2.7114,
+    "entropy_bits": 11.6602,
+    "p_win": 0.0005,
+    "groups": 12387,
+    "worst_case_left": 112,
+    "avg_left": 13.45
+   },
+   {
+    "word": "personality",
+    "expected_guesses": 2.7174,
+    "entropy_bits": 11.6361,
+    "p_win": 0.0008,
+    "groups": 13276,
+    "worst_case_left": 104,
+    "avg_left": 14.88
+   },
+   {
+    "word": "decorations",
+    "expected_guesses": 2.73,
+    "entropy_bits": 11.6027,
+    "p_win": 0.0005,
+    "groups": 12441,
+    "worst_case_left": 125,
+    "avg_left": 15.49
+   },
+   {
+    "word": "lacerations",
+    "expected_guesses": 2.7209,
+    "entropy_bits": 11.636,
+    "p_win": 0.0,
+    "groups": 12406,
+    "worst_case_left": 116,
+    "avg_left": 13.93
+   },
+   {
+    "word": "percolation",
+    "expected_guesses": 2.7391,
+    "entropy_bits": 11.581,
+    "p_win": 0.0005,
+    "groups": 12506,
+    "worst_case_left": 146,
+    "avg_left": 16.38
+   },
+   {
+    "word": "hectoliters",
+    "expected_guesses": 2.7287,
+    "entropy_bits": 11.6082,
+    "p_win": 0.0,
+    "groups": 11583,
+    "worst_case_left": 113,
+    "avg_left": 14.62
+   },
+   {
+    "word": "legionaries",
+    "expected_guesses": 2.7143,
+    "entropy_bits": 11.6587,
+    "p_win": 0.0,
+    "groups": 11682,
+    "worst_case_left": 83,
+    "avg_left": 12.67
+   },
+   {
+    "word": "description",
+    "expected_guesses": 2.7474,
+    "entropy_bits": 11.5588,
+    "p_win": 0.0008,
+    "groups": 11507,
+    "worst_case_left": 100,
+    "avg_left": 14.89
+   },
+   {
+    "word": "replication",
+    "expected_guesses": 2.7377,
+    "entropy_bits": 11.5867,
+    "p_win": 0.0002,
+    "groups": 11628,
+    "worst_case_left": 106,
+    "avg_left": 15.0
+   },
+   {
+    "word": "sanctuaried",
+    "expected_guesses": 2.7372,
+    "entropy_bits": 11.593,
+    "p_win": 0.0,
+    "groups": 12310,
+    "worst_case_left": 109,
+    "avg_left": 14.48
+   },
+   {
+    "word": "abnormities",
+    "expected_guesses": 2.7245,
+    "entropy_bits": 11.6261,
+    "p_win": 0.0,
+    "groups": 11948,
+    "worst_case_left": 115,
+    "avg_left": 13.37
+   },
+   {
+    "word": "pageantries",
+    "expected_guesses": 2.7456,
+    "entropy_bits": 11.5737,
+    "p_win": 0.0,
+    "groups": 11805,
+    "worst_case_left": 105,
+    "avg_left": 14.57
+   },
+   {
+    "word": "celebration",
+    "expected_guesses": 2.761,
+    "entropy_bits": 11.5302,
+    "p_win": 0.0005,
+    "groups": 11504,
+    "worst_case_left": 81,
+    "avg_left": 14.12
+   },
+   {
+    "word": "sarculation",
+    "expected_guesses": 2.7317,
+    "entropy_bits": 11.6052,
+    "p_win": 0.0,
+    "groups": 12267,
+    "worst_case_left": 80,
+    "avg_left": 13.56
+   },
+   {
+    "word": "rationalism",
+    "expected_guesses": 2.7617,
+    "entropy_bits": 11.5278,
+    "p_win": 0.0004,
+    "groups": 11710,
+    "worst_case_left": 93,
+    "avg_left": 15.8
+   },
+   {
+    "word": "clandestine",
+    "expected_guesses": 2.7622,
+    "entropy_bits": 11.5206,
+    "p_win": 0.0005,
+    "groups": 10935,
+    "worst_case_left": 111,
+    "avg_left": 14.53
+   },
+   {
+    "word": "recitations",
+    "expected_guesses": 2.7473,
+    "entropy_bits": 11.5584,
+    "p_win": 0.0,
+    "groups": 11455,
+    "worst_case_left": 122,
+    "avg_left": 15.95
+   },
+   {
+    "word": "neapolitans",
+    "expected_guesses": 2.75,
+    "entropy_bits": 11.5568,
+    "p_win": 0.0,
+    "groups": 10984,
+    "worst_case_left": 111,
+    "avg_left": 14.11
+   },
+   {
+    "word": "declaration",
+    "expected_guesses": 2.7655,
+    "entropy_bits": 11.5136,
+    "p_win": 0.0008,
+    "groups": 11645,
+    "worst_case_left": 93,
+    "avg_left": 15.76
+   },
+   {
+    "word": "relocations",
+    "expected_guesses": 2.7528,
+    "entropy_bits": 11.5498,
+    "p_win": 0.0,
+    "groups": 12138,
+    "worst_case_left": 145,
+    "avg_left": 15.94
+   },
+   {
+    "word": "machineries",
+    "expected_guesses": 2.7557,
+    "entropy_bits": 11.5417,
+    "p_win": 0.0,
+    "groups": 11883,
+    "worst_case_left": 132,
+    "avg_left": 15.63
+   }
+  ],
+  "hard": [
+   {
+    "word": "unrealities",
+    "expected_guesses": 2.6622,
+    "entropy_bits": 11.7961,
+    "p_win": 0.0,
+    "groups": 13151,
+    "worst_case_left": 71,
+    "avg_left": 10.65
+   },
+   {
+    "word": "persecution",
+    "expected_guesses": 2.7071,
+    "entropy_bits": 11.6689,
+    "p_win": 0.0005,
+    "groups": 12109,
+    "worst_case_left": 101,
+    "avg_left": 12.72
+   },
+   {
+    "word": "ulcerations",
+    "expected_guesses": 2.6942,
+    "entropy_bits": 11.7051,
+    "p_win": 0.0,
+    "groups": 13003,
+    "worst_case_left": 126,
+    "avg_left": 13.13
+   },
+   {
+    "word": "aeronautics",
+    "expected_guesses": 2.6812,
+    "entropy_bits": 11.7418,
+    "p_win": 0.0001,
+    "groups": 12451,
+    "worst_case_left": 92,
+    "avg_left": 11.43
+   },
+   {
+    "word": "customarily",
+    "expected_guesses": 2.7114,
+    "entropy_bits": 11.6602,
+    "p_win": 0.0005,
+    "groups": 12387,
+    "worst_case_left": 112,
+    "avg_left": 13.45
+   },
+   {
+    "word": "personality",
+    "expected_guesses": 2.7174,
+    "entropy_bits": 11.6361,
+    "p_win": 0.0008,
+    "groups": 13276,
+    "worst_case_left": 104,
+    "avg_left": 14.88
+   },
+   {
+    "word": "decorations",
+    "expected_guesses": 2.73,
+    "entropy_bits": 11.6027,
+    "p_win": 0.0005,
+    "groups": 12441,
+    "worst_case_left": 125,
+    "avg_left": 15.49
+   },
+   {
+    "word": "lacerations",
+    "expected_guesses": 2.7209,
+    "entropy_bits": 11.636,
+    "p_win": 0.0,
+    "groups": 12406,
+    "worst_case_left": 116,
+    "avg_left": 13.93
+   },
+   {
+    "word": "percolation",
+    "expected_guesses": 2.7391,
+    "entropy_bits": 11.581,
+    "p_win": 0.0005,
+    "groups": 12506,
+    "worst_case_left": 146,
+    "avg_left": 16.38
+   },
+   {
+    "word": "hectoliters",
+    "expected_guesses": 2.7287,
+    "entropy_bits": 11.6082,
+    "p_win": 0.0,
+    "groups": 11583,
+    "worst_case_left": 113,
+    "avg_left": 14.62
+   },
+   {
+    "word": "legionaries",
+    "expected_guesses": 2.7143,
+    "entropy_bits": 11.6587,
+    "p_win": 0.0,
+    "groups": 11682,
+    "worst_case_left": 83,
+    "avg_left": 12.67
+   },
+   {
+    "word": "description",
+    "expected_guesses": 2.7474,
+    "entropy_bits": 11.5588,
+    "p_win": 0.0008,
+    "groups": 11507,
+    "worst_case_left": 100,
+    "avg_left": 14.89
+   },
+   {
+    "word": "replication",
+    "expected_guesses": 2.7377,
+    "entropy_bits": 11.5867,
+    "p_win": 0.0002,
+    "groups": 11628,
+    "worst_case_left": 106,
+    "avg_left": 15.0
+   },
+   {
+    "word": "sanctuaried",
+    "expected_guesses": 2.7372,
+    "entropy_bits": 11.593,
+    "p_win": 0.0,
+    "groups": 12310,
+    "worst_case_left": 109,
+    "avg_left": 14.48
+   },
+   {
+    "word": "abnormities",
+    "expected_guesses": 2.7245,
+    "entropy_bits": 11.6261,
+    "p_win": 0.0,
+    "groups": 11948,
+    "worst_case_left": 115,
+    "avg_left": 13.37
+   },
+   {
+    "word": "pageantries",
+    "expected_guesses": 2.7456,
+    "entropy_bits": 11.5737,
+    "p_win": 0.0,
+    "groups": 11805,
+    "worst_case_left": 105,
+    "avg_left": 14.57
+   },
+   {
+    "word": "celebration",
+    "expected_guesses": 2.761,
+    "entropy_bits": 11.5302,
+    "p_win": 0.0005,
+    "groups": 11504,
+    "worst_case_left": 81,
+    "avg_left": 14.12
+   },
+   {
+    "word": "sarculation",
+    "expected_guesses": 2.7317,
+    "entropy_bits": 11.6052,
+    "p_win": 0.0,
+    "groups": 12267,
+    "worst_case_left": 80,
+    "avg_left": 13.56
+   },
+   {
+    "word": "rationalism",
+    "expected_guesses": 2.7617,
+    "entropy_bits": 11.5278,
+    "p_win": 0.0004,
+    "groups": 11710,
+    "worst_case_left": 93,
+    "avg_left": 15.8
+   },
+   {
+    "word": "clandestine",
+    "expected_guesses": 2.7622,
+    "entropy_bits": 11.5206,
+    "p_win": 0.0005,
+    "groups": 10935,
+    "worst_case_left": 111,
+    "avg_left": 14.53
+   },
+   {
+    "word": "recitations",
+    "expected_guesses": 2.7473,
+    "entropy_bits": 11.5584,
+    "p_win": 0.0,
+    "groups": 11455,
+    "worst_case_left": 122,
+    "avg_left": 15.95
+   },
+   {
+    "word": "neapolitans",
+    "expected_guesses": 2.75,
+    "entropy_bits": 11.5568,
+    "p_win": 0.0,
+    "groups": 10984,
+    "worst_case_left": 111,
+    "avg_left": 14.11
+   },
+   {
+    "word": "declaration",
+    "expected_guesses": 2.7655,
+    "entropy_bits": 11.5136,
+    "p_win": 0.0008,
+    "groups": 11645,
+    "worst_case_left": 93,
+    "avg_left": 15.76
+   },
+   {
+    "word": "relocations",
+    "expected_guesses": 2.7528,
+    "entropy_bits": 11.5498,
+    "p_win": 0.0,
+    "groups": 12138,
+    "worst_case_left": 145,
+    "avg_left": 15.94
+   },
+   {
+    "word": "machineries",
+    "expected_guesses": 2.7557,
+    "entropy_bits": 11.5417,
+    "p_win": 0.0,
+    "groups": 11883,
+    "worst_case_left": 132,
+    "avg_left": 15.63
+   }
+  ]
+ }
+}

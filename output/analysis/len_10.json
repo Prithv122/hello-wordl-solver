@@ -1,0 +1,1327 @@
+{
+ "length": 10,
+ "n_words": 48939,
+ "tiers": {
+  "A": 584,
+  "B": 3137,
+  "C": 1900,
+  "D": 43318
+ },
+ "n_common": 1147,
+ "n_guess_pool": 6493,
+ "letters": {
+  "presence": {
+   "e": 0.7467661146134934,
+   "i": 0.6991958919707506,
+   "n": 0.6212227658316336,
+   "a": 0.5899555139887648,
+   "t": 0.5881521922485183,
+   "r": 0.5749594802997596,
+   "o": 0.5300077132511903,
+   "s": 0.5022096186493293,
+   "l": 0.4192911432796207,
+   "c": 0.4009818803922959,
+   "u": 0.32569752104496513,
+   "d": 0.30235796670926623,
+   "p": 0.272040001070237,
+   "m": 0.25721611269675504,
+   "g": 0.2282811297138864,
+   "h": 0.20200206751177668,
+   "b": 0.15215419625822663,
+   "y": 0.15113386025498732,
+   "f": 0.11181196138508698,
+   "v": 0.10461177589925841,
+   "w": 0.043790856633120184,
+   "k": 0.040544540768091296,
+   "x": 0.03003123803778003,
+   "z": 0.025140321499038058,
+   "q": 0.017744301615516718,
+   "j": 0.01258484338594328
+  },
+  "positional": {
+   "pos1": {
+    "c": 0.10754674891972403,
+    "s": 0.10170883468185671,
+    "p": 0.09729965284889677,
+    "a": 0.08978049568319856,
+    "d": 0.06442154051708002,
+    "i": 0.06158327065364288
+   },
+   "pos2": {
+    "e": 0.16834196539361465,
+    "o": 0.12695064862388722,
+    "n": 0.1096573381039982,
+    "a": 0.09875066546577733,
+    "r": 0.08990424362114341,
+    "i": 0.0845499963783872
+   },
+   "pos3": {
+    "r": 0.09427530890248975,
+    "n": 0.0859241536047244,
+    "s": 0.0821541858770948,
+    "t": 0.0746842911847711,
+    "a": 0.06578050840810197,
+    "c": 0.0652645202754201
+   },
+   "pos4": {
+    "e": 0.1170321856795913,
+    "i": 0.10425668974633703,
+    "r": 0.08366704483804217,
+    "t": 0.08177764535143014,
+    "o": 0.07576910080581277,
+    "a": 0.06997087919302279
+   },
+   "pos5": {
+    "e": 0.12311880692729121,
+    "r": 0.09889760087568576,
+    "i": 0.09606676792716871,
+    "o": 0.08583804096349451,
+    "t": 0.07371745735069722,
+    "a": 0.06847752196028993
+   },
+   "pos6": {
+    "a": 0.1217248426448545,
+    "i": 0.11518297315844643,
+    "e": 0.09586759963974978,
+    "t": 0.07133833956107637,
+    "r": 0.07098078170621991,
+    "n": 0.06860361656111999
+   },
+   "pos7": {
+    "t": 0.16029345109571574,
+    "a": 0.10643589483007458,
+    "i": 0.09904441415444677,
+    "n": 0.08861007939285155,
+    "e": 0.07314565091877238,
+    "r": 0.06987434469330868
+   },
+   "pos8": {
+    "i": 0.29308681196718,
+    "e": 0.10110707994621561,
+    "o": 0.10042583091474015,
+    "t": 0.08559053054818415,
+    "a": 0.07032287571854094,
+    "n": 0.06555309438340795
+   },
+   "pos9": {
+    "n": 0.16282708224256062,
+    "e": 0.1609252777201635,
+    "o": 0.09610805552695949,
+    "l": 0.08725922740781127,
+    "t": 0.07026294276255332,
+    "a": 0.06693216302687452
+   },
+   "pos10": {
+    "e": 0.1828770077717512,
+    "s": 0.18178658593339195,
+    "n": 0.10335814322076464,
+    "d": 0.09446236875834876,
+    "y": 0.09351085075257587,
+    "g": 0.0880740559351303
+   }
+  },
+  "positional_matrix": [
+   [
+    0.08978049568319856,
+    0.033323053573479366,
+    0.10754674891972403,
+    0.06442154051708002,
+    0.0523404357998467,
+    0.03395299298081148,
+    0.023982461454483715,
+    0.034181898750313355,
+    0.06158327065364288,
+    0.004858595401176374,
+    0.004440332546964754,
+    0.02446414818017011,
+    0.04476639376586851,
+    0.020190664237004528,
+    0.027854651504145296,
+    0.09729965284889677,
+    0.0037819220413057063,
+    0.0589060845127436,
+    0.10170883468185671,
+    0.03345568655288242,
+    0.048250299797821986,
+    0.01298398253694299,
+    0.01251243415098884,
+    0.000925198742064232,
+    0.0012126911169728332,
+    0.0012755290496961245
+   ],
+   [
+    0.09875066546577733,
+    0.012853949206391579,
+    0.026221791414591692,
+    0.009346293026794609,
+    0.16834196539361465,
+    0.005427681507039315,
+    0.0024319220664589004,
+    0.035622899520441544,
+    0.0845499963783872,
+    5.688985473048811e-05,
+    0.0013385778040544596,
+    0.037632106761334404,
+    0.023827690749459566,
+    0.1096573381039982,
+    0.12695064862388722,
+    0.02056368040650934,
+    0.0027263061279199077,
+    0.08990424362114341,
+    0.014258073637693866,
+    0.021000845964701566,
+    0.06249644674674491,
+    0.008998004054166701,
+    0.0022899780404986372,
+    0.016521306409388446,
+    0.01785965303661524,
+    0.0003710460776738033
+   ],
+   [
+    0.06578050840810197,
+    0.027436882990319305,
+    0.0652645202754201,
+    0.03509730082908925,
+    0.06366567662016992,
+    0.02479865232575096,
+    0.02655747179950165,
+    0.012326755540324794,
+    0.047310227225920244,
+    0.0031843023175965567,
+    0.001712930146542649,
+    0.06076490904650938,
+    0.052144730803007945,
+    0.0859241536047244,
+    0.06001971708615578,
+    0.05654563679633569,
+    0.001968409619655705,
+    0.09427530890248975,
+    0.0821541858770948,
+    0.0746842911847711,
+    0.027253476891486623,
+    0.0170329501624428,
+    0.0028017352010533017,
+    0.0025940947917870274,
+    0.007530560435236195,
+    0.0011706111186184616
+   ],
+   [
+    0.06997087919302279,
+    0.01476199114130949,
+    0.05423265302665664,
+    0.028389696458689287,
+    0.1170321856795913,
+    0.018128267424562756,
+    0.02099240582958826,
+    0.02548931127185961,
+    0.10425668974633703,
+    0.003713189826455096,
+    0.008208747464204457,
+    0.047009842744542896,
+    0.029242142835414108,
+    0.042266166943596965,
+    0.07576910080581277,
+    0.040991065352939976,
+    0.003870477305619489,
+    0.08366704483804217,
+    0.04805038709193603,
+    0.08177764535143014,
+    0.04946844465239959,
+    0.017670423898828738,
+    0.0038495289048078875,
+    0.0021860124416344397,
+    0.007513531862894028,
+    0.0014921679079229078
+   ],
+   [
+    0.06847752196028993,
+    0.01643379362171121,
+    0.04353032325654019,
+    0.024992663479797103,
+    0.12311880692729121,
+    0.010605488488572942,
+    0.027506083374594058,
+    0.027775728607639397,
+    0.09606676792716871,
+    0.00045116556870129136,
+    0.005619065387330356,
+    0.06274595633272939,
+    0.03465715468916013,
+    0.056842936012130814,
+    0.08583804096349451,
+    0.027912935689551693,
+    0.0014954291005256591,
+    0.09889760087568576,
+    0.050894184844036426,
+    0.07371745735069722,
+    0.04010519284249336,
+    0.00926905961125368,
+    0.003651209719695097,
+    0.0018469429171984078,
+    0.005914077551869539,
+    0.0016344128999414783
+   ],
+   [
+    0.1217248426448545,
+    0.015743133221659995,
+    0.06509221938795522,
+    0.025402958730146533,
+    0.09586759963974978,
+    0.01210953510517376,
+    0.025725745554645792,
+    0.024059960941467704,
+    0.11518297315844643,
+    0.00020255597300597903,
+    0.002502627281025041,
+    0.04627841816392821,
+    0.02517207705304474,
+    0.06860361656111999,
+    0.06314315010892098,
+    0.030761262471949245,
+    0.0029452000506704754,
+    0.07098078170621991,
+    0.05614967887111146,
+    0.07133833956107637,
+    0.029936653274704,
+    0.011451137684995446,
+    0.008202989852654424,
+    0.001476696507795452,
+    0.008030136467112314,
+    0.0019157100266644653
+   ],
+   [
+    0.10643589483007458,
+    0.008075041475376252,
+    0.03252093250195228,
+    0.02695278853616688,
+    0.07314565091877238,
+    0.007441430863709697,
+    0.01274777361521498,
+    0.027265027009202376,
+    0.09904441415444677,
+    0.00018135604017462432,
+    0.003382500825497584,
+    0.06802726655947498,
+    0.03341762234319021,
+    0.08861007939285155,
+    0.04455163776293361,
+    0.014261016416930514,
+    0.0003434473447333482,
+    0.06987434469330868,
+    0.06117473903531793,
+    0.16029345109571574,
+    0.032297993711693444,
+    0.0061449199725288825,
+    0.008012017438037202,
+    0.001702537366906235,
+    0.01091515639160333,
+    0.003180959704224419
+   ],
+   [
+    0.07032287571854094,
+    0.032262933346814966,
+    0.02538753531011543,
+    0.025037940697292538,
+    0.10110707994621561,
+    0.006007414832443008,
+    0.014647408855693033,
+    0.01756577640102063,
+    0.29308681196718,
+    9.082777614530748e-05,
+    0.004751506734228942,
+    0.038356818490300884,
+    0.012121941594910245,
+    0.06555309438340795,
+    0.10042583091474015,
+    0.008865989000245806,
+    0.0006486661842931954,
+    0.037081795412528304,
+    0.02567685092868112,
+    0.08559053054818415,
+    0.01702607156137107,
+    0.0038104542052095924,
+    0.0031120239374503216,
+    0.0012563791755227638,
+    0.0034830554757010273,
+    0.006722386601870303
+   ],
+   [
+    0.06693216302687452,
+    0.0005154894304660513,
+    0.03673507088182714,
+    0.009921766301228069,
+    0.1609252777201635,
+    0.002581705749358112,
+    0.008346222071501867,
+    0.006260659596224581,
+    0.06115699948519226,
+    2.133369552393304e-05,
+    0.0073384088734051054,
+    0.08725922740781127,
+    0.008817895496494602,
+    0.16282708224256062,
+    0.09610805552695949,
+    0.005520613137708081,
+    0.0,
+    0.04809656139183845,
+    0.06338099762363172,
+    0.07026294276255332,
+    0.06582777752655875,
+    0.019822392281259708,
+    0.0015873444255193232,
+    0.0002883240299102802,
+    0.0010105102610829943,
+    0.008455179054318475
+   ],
+   [
+    0.028159027057164946,
+    0.0001067077340620523,
+    0.02620645086927204,
+    0.09446236875834876,
+    0.1828770077717512,
+    0.0021977675652159172,
+    0.0880740559351303,
+    0.012571621234570174,
+    0.0031600927241821983,
+    0.0,
+    0.004531227204456339,
+    0.04222611664870868,
+    0.023629005170884308,
+    0.10335814322076464,
+    0.0024944357700469296,
+    0.004053109907142851,
+    7.111231841311014e-06,
+    0.0418552043337267,
+    0.18178658593339195,
+    0.0623125361299279,
+    0.00021691219938117936,
+    6.400108657179913e-05,
+    0.0007601152242302245,
+    0.0012586545952389062,
+    0.09351085075257587,
+    0.00012089094130228719
+   ]
+  ],
+  "p_double_letter": 0.9526109385680586,
+  "vowel_count": {
+   "1": 0.0001671335764920023,
+   "2": 0.02401819499465237,
+   "3": 0.25782119259846636,
+   "4": 0.4824349709256525,
+   "5": 0.21896302717455987,
+   "6": 0.016201143950759757,
+   "7": 0.00039433677954784984
+  },
+  "top_endings_2": [
+   [
+    "ng",
+    0.08693499681859447
+   ],
+   [
+    "on",
+    0.07765727025722105
+   ],
+   [
+    "ed",
+    0.07630831566690241
+   ],
+   [
+    "us",
+    0.04723185828143192
+   ],
+   [
+    "es",
+    0.04642444776778054
+   ],
+   [
+    "ly",
+    0.04381584408567471
+   ],
+   [
+    "nt",
+    0.04063539616914172
+   ],
+   [
+    "te",
+    0.03630459345826351
+   ],
+   [
+    "le",
+    0.03624952393930585
+   ],
+   [
+    "al",
+    0.03381874757938668
+   ]
+  ],
+  "top_endings_3": [
+   [
+    "ing",
+    0.08648418310393224
+   ],
+   [
+    "ion",
+    0.0707863140142797
+   ],
+   [
+    "ous",
+    0.037684249494420924
+   ],
+   [
+    "ent",
+    0.03073512495103129
+   ],
+   [
+    "ess",
+    0.029719488089360768
+   ],
+   [
+    "ted",
+    0.02714102608529785
+   ],
+   [
+    "ble",
+    0.02573355177091167
+   ],
+   [
+    "ate",
+    0.02387812655427312
+   ],
+   [
+    "nce",
+    0.020538242231842734
+   ],
+   [
+    "ive",
+    0.01819869784403226
+   ]
+  ],
+  "top_starts_2": [
+   [
+    "co",
+    0.05904857522101401
+   ],
+   [
+    "re",
+    0.04659949660620829
+   ],
+   [
+    "un",
+    0.04381840447808383
+   ],
+   [
+    "in",
+    0.04149945372915983
+   ],
+   [
+    "pr",
+    0.03652547928197988
+   ],
+   [
+    "di",
+    0.03135800837633005
+   ],
+   [
+    "de",
+    0.026473476098274187
+   ],
+   [
+    "su",
+    0.022796208824487938
+   ],
+   [
+    "pe",
+    0.01630394203394857
+   ],
+   [
+    "ca",
+    0.01605844532874024
+   ]
+  ]
+ },
+ "openers": [
+  {
+   "word": "aerolitics",
+   "expected_guesses": 2.8663,
+   "entropy_bits": 11.5438,
+   "p_win": 0.0,
+   "groups": 10099,
+   "worst_case_left": 166,
+   "avg_left": 21.05
+  },
+  {
+   "word": "mercantile",
+   "expected_guesses": 2.9079,
+   "entropy_bits": 11.4282,
+   "p_win": 0.0003,
+   "groups": 10144,
+   "worst_case_left": 145,
+   "avg_left": 22.64
+  },
+  {
+   "word": "lacustrine",
+   "expected_guesses": 2.9043,
+   "entropy_bits": 11.4397,
+   "p_win": 0.0,
+   "groups": 9764,
+   "worst_case_left": 161,
+   "avg_left": 21.86
+  },
+  {
+   "word": "laurestine",
+   "expected_guesses": 2.9087,
+   "entropy_bits": 11.4291,
+   "p_win": 0.0,
+   "groups": 9564,
+   "worst_case_left": 122,
+   "avg_left": 21.21
+  },
+  {
+   "word": "tourmaline",
+   "expected_guesses": 2.9407,
+   "entropy_bits": 11.3411,
+   "p_win": 0.0003,
+   "groups": 9804,
+   "worst_case_left": 187,
+   "avg_left": 24.74
+  },
+  {
+   "word": "normalcies",
+   "expected_guesses": 2.9494,
+   "entropy_bits": 11.3203,
+   "p_win": 0.0,
+   "groups": 9832,
+   "worst_case_left": 136,
+   "avg_left": 24.43
+  },
+  {
+   "word": "recusation",
+   "expected_guesses": 2.9589,
+   "entropy_bits": 11.2868,
+   "p_win": 0.0001,
+   "groups": 8904,
+   "worst_case_left": 149,
+   "avg_left": 25.67
+  },
+  {
+   "word": "caledonite",
+   "expected_guesses": 2.9443,
+   "entropy_bits": 11.3332,
+   "p_win": 0.0,
+   "groups": 9525,
+   "worst_case_left": 163,
+   "avg_left": 24.03
+  },
+  {
+   "word": "directions",
+   "expected_guesses": 2.9769,
+   "entropy_bits": 11.2347,
+   "p_win": 0.0004,
+   "groups": 9156,
+   "worst_case_left": 221,
+   "avg_left": 28.7
+  },
+  {
+   "word": "receptions",
+   "expected_guesses": 2.9635,
+   "entropy_bits": 11.2733,
+   "p_win": 0.0,
+   "groups": 9062,
+   "worst_case_left": 218,
+   "avg_left": 27.65
+  },
+  {
+   "word": "decorating",
+   "expected_guesses": 2.9798,
+   "entropy_bits": 11.2294,
+   "p_win": 0.0003,
+   "groups": 8695,
+   "worst_case_left": 206,
+   "avg_left": 28.12
+  },
+  {
+   "word": "alpestrine",
+   "expected_guesses": 2.9503,
+   "entropy_bits": 11.3116,
+   "p_win": 0.0,
+   "groups": 9233,
+   "worst_case_left": 146,
+   "avg_left": 24.86
+  },
+  {
+   "word": "reductions",
+   "expected_guesses": 2.9682,
+   "entropy_bits": 11.2614,
+   "p_win": 0.0,
+   "groups": 8841,
+   "worst_case_left": 171,
+   "avg_left": 27.27
+  },
+  {
+   "word": "repletions",
+   "expected_guesses": 2.9696,
+   "entropy_bits": 11.2565,
+   "p_win": 0.0,
+   "groups": 9327,
+   "worst_case_left": 182,
+   "avg_left": 28.43
+  },
+  {
+   "word": "replicates",
+   "expected_guesses": 2.9783,
+   "entropy_bits": 11.2317,
+   "p_win": 0.0,
+   "groups": 9331,
+   "worst_case_left": 213,
+   "avg_left": 30.5
+  },
+  {
+   "word": "sarcophile",
+   "expected_guesses": 2.9643,
+   "entropy_bits": 11.2742,
+   "p_win": 0.0,
+   "groups": 9697,
+   "worst_case_left": 210,
+   "avg_left": 28.19
+  },
+  {
+   "word": "rationales",
+   "expected_guesses": 2.9825,
+   "entropy_bits": 11.2225,
+   "p_win": 0.0,
+   "groups": 9715,
+   "worst_case_left": 182,
+   "avg_left": 29.25
+  },
+  {
+   "word": "secretions",
+   "expected_guesses": 2.9975,
+   "entropy_bits": 11.1757,
+   "p_win": 0.0003,
+   "groups": 9052,
+   "worst_case_left": 270,
+   "avg_left": 32.94
+  },
+  {
+   "word": "ceremonial",
+   "expected_guesses": 2.998,
+   "entropy_bits": 11.187,
+   "p_win": 0.0003,
+   "groups": 8809,
+   "worst_case_left": 193,
+   "avg_left": 27.64
+  },
+  {
+   "word": "reptilians",
+   "expected_guesses": 2.9849,
+   "entropy_bits": 11.2147,
+   "p_win": 0.0,
+   "groups": 8902,
+   "worst_case_left": 234,
+   "avg_left": 30.53
+  },
+  {
+   "word": "falconries",
+   "expected_guesses": 2.987,
+   "entropy_bits": 11.2163,
+   "p_win": 0.0,
+   "groups": 9163,
+   "worst_case_left": 162,
+   "avg_left": 27.22
+  },
+  {
+   "word": "macaronies",
+   "expected_guesses": 2.973,
+   "entropy_bits": 11.2488,
+   "p_win": 0.0,
+   "groups": 9927,
+   "worst_case_left": 169,
+   "avg_left": 28.1
+  },
+  {
+   "word": "alacrities",
+   "expected_guesses": 2.9882,
+   "entropy_bits": 11.2076,
+   "p_win": 0.0,
+   "groups": 8664,
+   "worst_case_left": 203,
+   "avg_left": 28.29
+  },
+  {
+   "word": "sclerotium",
+   "expected_guesses": 2.9939,
+   "entropy_bits": 11.1915,
+   "p_win": 0.0001,
+   "groups": 8670,
+   "worst_case_left": 169,
+   "avg_left": 28.73
+  },
+  {
+   "word": "regalities",
+   "expected_guesses": 2.9892,
+   "entropy_bits": 11.2075,
+   "p_win": 0.0,
+   "groups": 8452,
+   "worst_case_left": 196,
+   "avg_left": 28.12
+  }
+ ],
+ "common_openers": [
+  {
+   "word": "mercantile",
+   "expected_guesses": 2.9079,
+   "entropy_bits": 11.4282,
+   "p_win": 0.0003,
+   "groups": 10144,
+   "worst_case_left": 145,
+   "avg_left": 22.64
+  },
+  {
+   "word": "tourmaline",
+   "expected_guesses": 2.9407,
+   "entropy_bits": 11.3411,
+   "p_win": 0.0003,
+   "groups": 9804,
+   "worst_case_left": 187,
+   "avg_left": 24.74
+  },
+  {
+   "word": "directions",
+   "expected_guesses": 2.9769,
+   "entropy_bits": 11.2347,
+   "p_win": 0.0004,
+   "groups": 9156,
+   "worst_case_left": 221,
+   "avg_left": 28.7
+  },
+  {
+   "word": "decorating",
+   "expected_guesses": 2.9798,
+   "entropy_bits": 11.2294,
+   "p_win": 0.0003,
+   "groups": 8695,
+   "worst_case_left": 206,
+   "avg_left": 28.12
+  },
+  {
+   "word": "secretions",
+   "expected_guesses": 2.9975,
+   "entropy_bits": 11.1757,
+   "p_win": 0.0003,
+   "groups": 9052,
+   "worst_case_left": 270,
+   "avg_left": 32.94
+  },
+  {
+   "word": "ceremonial",
+   "expected_guesses": 2.998,
+   "entropy_bits": 11.187,
+   "p_win": 0.0003,
+   "groups": 8809,
+   "worst_case_left": 193,
+   "avg_left": 27.64
+  },
+  {
+   "word": "separation",
+   "expected_guesses": 3.0074,
+   "entropy_bits": 11.1527,
+   "p_win": 0.0004,
+   "groups": 8943,
+   "worst_case_left": 192,
+   "avg_left": 30.73
+  },
+  {
+   "word": "complaints",
+   "expected_guesses": 3.0113,
+   "entropy_bits": 11.1476,
+   "p_win": 0.0003,
+   "groups": 8983,
+   "worst_case_left": 209,
+   "avg_left": 30.5
+  },
+  {
+   "word": "ceremonies",
+   "expected_guesses": 3.0238,
+   "entropy_bits": 11.1127,
+   "p_win": 0.0004,
+   "groups": 8357,
+   "worst_case_left": 226,
+   "avg_left": 31.24
+  },
+  {
+   "word": "decreasing",
+   "expected_guesses": 3.0266,
+   "entropy_bits": 11.1024,
+   "p_win": 0.0003,
+   "groups": 7727,
+   "worst_case_left": 177,
+   "avg_left": 31.64
+  }
+ ],
+ "pairs": [
+  {
+   "first": "mercantile",
+   "second": "indigenous",
+   "joint_bits": 13.482
+  },
+  {
+   "first": "mercantile",
+   "second": "endogenous",
+   "joint_bits": 13.479
+  },
+  {
+   "first": "tourmaline",
+   "second": "prescribed",
+   "joint_bits": 13.476
+  },
+  {
+   "first": "aerolitics",
+   "second": "comprehend",
+   "joint_bits": 13.476
+  },
+  {
+   "first": "mercantile",
+   "second": "snapdragon",
+   "joint_bits": 13.473
+  },
+  {
+   "first": "aerolitics",
+   "second": "unemployed",
+   "joint_bits": 13.473
+  },
+  {
+   "first": "mercantile",
+   "second": "arthropods",
+   "joint_bits": 13.471
+  },
+  {
+   "first": "aerolitics",
+   "second": "husbandman",
+   "joint_bits": 13.468
+  },
+  {
+   "first": "decorating",
+   "second": "marsupials",
+   "joint_bits": 13.463
+  },
+  {
+   "first": "mercantile",
+   "second": "podocarpus",
+   "joint_bits": 13.449
+  }
+ ],
+ "traps": [],
+ "trap_share": 0.0,
+ "first_feedback": [
+  {
+   "greens": 0,
+   "yellows": 1,
+   "probability": 0.0002,
+   "avg_candidates_left": 4.7,
+   "distinct_patterns": 3
+  },
+  {
+   "greens": 0,
+   "yellows": 2,
+   "probability": 0.0028,
+   "avg_candidates_left": 16.0,
+   "distinct_patterns": 23
+  },
+  {
+   "greens": 0,
+   "yellows": 3,
+   "probability": 0.0208,
+   "avg_candidates_left": 48.7,
+   "distinct_patterns": 80
+  },
+  {
+   "greens": 0,
+   "yellows": 4,
+   "probability": 0.0584,
+   "avg_candidates_left": 63.3,
+   "distinct_patterns": 145
+  },
+  {
+   "greens": 0,
+   "yellows": 5,
+   "probability": 0.0764,
+   "avg_candidates_left": 57.4,
+   "distinct_patterns": 179
+  },
+  {
+   "greens": 0,
+   "yellows": 6,
+   "probability": 0.066,
+   "avg_candidates_left": 45.1,
+   "distinct_patterns": 152
+  },
+  {
+   "greens": 0,
+   "yellows": 7,
+   "probability": 0.0285,
+   "avg_candidates_left": 24.1,
+   "distinct_patterns": 90
+  },
+  {
+   "greens": 0,
+   "yellows": 8,
+   "probability": 0.0035,
+   "avg_candidates_left": 9.8,
+   "distinct_patterns": 35
+  },
+  {
+   "greens": 0,
+   "yellows": 9,
+   "probability": 0.0006,
+   "avg_candidates_left": 2.4,
+   "distinct_patterns": 7
+  },
+  {
+   "greens": 1,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 2
+  },
+  {
+   "greens": 1,
+   "yellows": 1,
+   "probability": 0.0022,
+   "avg_candidates_left": 8.3,
+   "distinct_patterns": 41
+  },
+  {
+   "greens": 1,
+   "yellows": 2,
+   "probability": 0.0185,
+   "avg_candidates_left": 12.2,
+   "distinct_patterns": 200
+  },
+  {
+   "greens": 1,
+   "yellows": 3,
+   "probability": 0.0818,
+   "avg_candidates_left": 19.4,
+   "distinct_patterns": 521
+  },
+  {
+   "greens": 1,
+   "yellows": 4,
+   "probability": 0.1217,
+   "avg_candidates_left": 18.1,
+   "distinct_patterns": 799
+  },
+  {
+   "greens": 1,
+   "yellows": 5,
+   "probability": 0.1068,
+   "avg_candidates_left": 13.7,
+   "distinct_patterns": 798
+  },
+  {
+   "greens": 1,
+   "yellows": 6,
+   "probability": 0.0358,
+   "avg_candidates_left": 7.4,
+   "distinct_patterns": 472
+  },
+  {
+   "greens": 1,
+   "yellows": 7,
+   "probability": 0.0062,
+   "avg_candidates_left": 3.9,
+   "distinct_patterns": 140
+  },
+  {
+   "greens": 1,
+   "yellows": 8,
+   "probability": 0.0003,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 15
+  },
+  {
+   "greens": 2,
+   "yellows": 0,
+   "probability": 0.0012,
+   "avg_candidates_left": 8.8,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 2,
+   "yellows": 1,
+   "probability": 0.0087,
+   "avg_candidates_left": 5.9,
+   "distinct_patterns": 130
+  },
+  {
+   "greens": 2,
+   "yellows": 2,
+   "probability": 0.0437,
+   "avg_candidates_left": 7.2,
+   "distinct_patterns": 542
+  },
+  {
+   "greens": 2,
+   "yellows": 3,
+   "probability": 0.0749,
+   "avg_candidates_left": 7.4,
+   "distinct_patterns": 1039
+  },
+  {
+   "greens": 2,
+   "yellows": 4,
+   "probability": 0.0789,
+   "avg_candidates_left": 5.5,
+   "distinct_patterns": 1153
+  },
+  {
+   "greens": 2,
+   "yellows": 5,
+   "probability": 0.0288,
+   "avg_candidates_left": 3.6,
+   "distinct_patterns": 628
+  },
+  {
+   "greens": 2,
+   "yellows": 6,
+   "probability": 0.0061,
+   "avg_candidates_left": 2.1,
+   "distinct_patterns": 192
+  },
+  {
+   "greens": 2,
+   "yellows": 7,
+   "probability": 0.0002,
+   "avg_candidates_left": 1.2,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 3,
+   "yellows": 0,
+   "probability": 0.0018,
+   "avg_candidates_left": 2.7,
+   "distinct_patterns": 29
+  },
+  {
+   "greens": 3,
+   "yellows": 1,
+   "probability": 0.0115,
+   "avg_candidates_left": 4.0,
+   "distinct_patterns": 202
+  },
+  {
+   "greens": 3,
+   "yellows": 2,
+   "probability": 0.0278,
+   "avg_candidates_left": 3.8,
+   "distinct_patterns": 558
+  },
+  {
+   "greens": 3,
+   "yellows": 3,
+   "probability": 0.0355,
+   "avg_candidates_left": 3.1,
+   "distinct_patterns": 676
+  },
+  {
+   "greens": 3,
+   "yellows": 4,
+   "probability": 0.0167,
+   "avg_candidates_left": 1.8,
+   "distinct_patterns": 376
+  },
+  {
+   "greens": 3,
+   "yellows": 5,
+   "probability": 0.0016,
+   "avg_candidates_left": 1.4,
+   "distinct_patterns": 79
+  },
+  {
+   "greens": 3,
+   "yellows": 6,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 5
+  },
+  {
+   "greens": 4,
+   "yellows": 0,
+   "probability": 0.0011,
+   "avg_candidates_left": 2.6,
+   "distinct_patterns": 32
+  },
+  {
+   "greens": 4,
+   "yellows": 1,
+   "probability": 0.0069,
+   "avg_candidates_left": 3.4,
+   "distinct_patterns": 134
+  },
+  {
+   "greens": 4,
+   "yellows": 2,
+   "probability": 0.011,
+   "avg_candidates_left": 2.8,
+   "distinct_patterns": 233
+  },
+  {
+   "greens": 4,
+   "yellows": 3,
+   "probability": 0.0063,
+   "avg_candidates_left": 2.3,
+   "distinct_patterns": 148
+  },
+  {
+   "greens": 4,
+   "yellows": 4,
+   "probability": 0.0007,
+   "avg_candidates_left": 1.6,
+   "distinct_patterns": 37
+  },
+  {
+   "greens": 4,
+   "yellows": 5,
+   "probability": 0.0,
+   "avg_candidates_left": 2.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 5,
+   "yellows": 0,
+   "probability": 0.0007,
+   "avg_candidates_left": 3.0,
+   "distinct_patterns": 17
+  },
+  {
+   "greens": 5,
+   "yellows": 1,
+   "probability": 0.0022,
+   "avg_candidates_left": 2.5,
+   "distinct_patterns": 41
+  },
+  {
+   "greens": 5,
+   "yellows": 2,
+   "probability": 0.0019,
+   "avg_candidates_left": 2.6,
+   "distinct_patterns": 62
+  },
+  {
+   "greens": 5,
+   "yellows": 3,
+   "probability": 0.0003,
+   "avg_candidates_left": 2.5,
+   "distinct_patterns": 15
+  },
+  {
+   "greens": 5,
+   "yellows": 4,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 3
+  },
+  {
+   "greens": 6,
+   "yellows": 0,
+   "probability": 0.0003,
+   "avg_candidates_left": 1.5,
+   "distinct_patterns": 12
+  },
+  {
+   "greens": 6,
+   "yellows": 1,
+   "probability": 0.0001,
+   "avg_candidates_left": 2.5,
+   "distinct_patterns": 11
+  },
+  {
+   "greens": 6,
+   "yellows": 2,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.2,
+   "distinct_patterns": 8
+  },
+  {
+   "greens": 6,
+   "yellows": 3,
+   "probability": 0.0001,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 7,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 5
+  },
+  {
+   "greens": 7,
+   "yellows": 1,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 7,
+   "yellows": 2,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 8,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  },
+  {
+   "greens": 10,
+   "yellows": 0,
+   "probability": 0.0,
+   "avg_candidates_left": 1.0,
+   "distinct_patterns": 1
+  }
+ ],
+ "book_patterns": 600,
+ "book_coverage": 0.487,
+ "benchmark": {
+  "length": 10,
+  "games": 724,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "aerolitics",
+  "avg_guesses": 2.515,
+  "distribution": {
+   "2": 380,
+   "3": 316,
+   "4": 27,
+   "5": 1
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 1.0,
+  "failed_words": [],
+  "avg_live_step_seconds": 0.007,
+  "max_live_step_seconds": 0.162
+ },
+ "benchmark_hard": {
+  "length": 10,
+  "games": 724,
+  "answers": "held-out Hello Wordl answers",
+  "opener": "aerolitics",
+  "avg_guesses": 2.529,
+  "distribution": {
+   "2": 371,
+   "3": 325,
+   "4": 26,
+   "5": 2
+  },
+  "max_guesses_allowed": 6,
+  "win_rate": 1.0,
+  "failed_words": [],
+  "avg_live_step_seconds": 0.0023,
+  "max_live_step_seconds": 0.023
+ },
+ "seconds": 140.2
+}
