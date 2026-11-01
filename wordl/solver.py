@@ -34,6 +34,7 @@ PAIR_BUDGET = 4_000_000        # guess x candidate pairs evaluated exactly per l
 LOOKAHEAD_K = 80               # exact tree search when <= this many candidates remain
 LOOKAHEAD_WIDTH = 10           # guesses explored per node in that search
 FAIL_PENALTY = 20.0            # cost of running out of tries, in "guesses" (tuned)
+CANDIDATE_MARGIN = 0.0         # tuned in scripts/tune.py
 PRIOR_POWER = 1.0              # tuned in scripts/tune.py
 JUNK_TAX = 0.15
 TIER_TAX = {"A": 0.01, "B": 0.03, "C": 0.015, "D": 0.05}
@@ -49,7 +50,8 @@ class Solver:
                  max_guesses: int | None = None, use_book: bool = True,
                  pair_budget: int = PAIR_BUDGET, lookahead: bool = True,
                  lookahead_k: int = LOOKAHEAD_K, lookahead_width: int = LOOKAHEAD_WIDTH,
-                 prior_power: float = PRIOR_POWER, fail_penalty: float = FAIL_PENALTY):
+                 prior_power: float = PRIOR_POWER, fail_penalty: float = FAIL_PENALTY,
+                 candidate_margin: float = CANDIDATE_MARGIN):
         self.L = length
         self.lex = lex or load(length)
         if len(self.lex) == 0:
@@ -60,6 +62,7 @@ class Solver:
         # prior_power < 1 flattens the prior = hedge more against "rare" answers
         self.w = np.asarray(self.lex.weights, dtype=np.float64) ** prior_power
         self.fail_penalty = fail_penalty
+        self.candidate_margin = candidate_margin
         n = len(self.words)
         self.is_guess = np.array([self.lex.is_guess(i) for i in range(n)])
         self.is_common = np.array([self.lex.is_common(i) for i in range(n)])
@@ -186,6 +189,13 @@ class Solver:
             E = res["E"] + self.tax[pool]
             # searched guesses (honest cost) first, then the rest by heuristic
             order = np.lexsort((-res["p_win"], E, ~searched))
+        # Prefer a guess that could WIN NOW when it is nearly as good as the
+        # best probe word (a probe can never be the answer).
+        if self.candidate_margin > 0 and res["p_win"][order[0]] == 0:
+            Ef = res["E"] + self.tax[pool]
+            cands = order[res["p_win"][order] > 0]
+            if len(cands) and Ef[cands[0]] - Ef[order[0]] <= self.candidate_margin:
+                order = np.concatenate(([cands[0]], order[order != cands[0]]))
         order = order[:top]
         return [{
             "word": self.words[pool[o]],

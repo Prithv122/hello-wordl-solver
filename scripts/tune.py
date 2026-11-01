@@ -15,7 +15,8 @@ from wordl.book import build_book  # noqa: E402
 from wordl.simulate import simulate  # noqa: E402
 from wordl.solver import Solver  # noqa: E402
 
-TARGETS = "/tmp/hello_wordl_targets.json"
+TARGETS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                       "data", "external", "targets.json")
 
 
 def train_answers(L):

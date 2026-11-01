@@ -18,6 +18,11 @@ hidden answer (Hello Wordl answers are everyday words):
     C       plural / -ed / -ing / -er ... of a Webster word ("cats", "baked")
     D       any other word in words.csv
 
+If data/external/dictionary.json (Hello Wordl's accepted-word list, fetched by
+scripts/fetch_game_lists.py) is present, only words the game accepts are
+kept: names (JAMEL, PATEL), abbreviations and junk are dropped. Every
+remaining word still comes from the two files above.
+
 Case is ignored everywhere (the game has no case): "Time", "TIME" and
 "time" are the same word. Words are stored lowercase internally and shown
 in CAPITALS.
@@ -103,6 +108,9 @@ def build(words_path: str = RAW_WORDS, dict_path: str = RAW_DICT):
 
     base = set(defs)
     universe = base | seen
+    valid = load_game_dictionary()
+    if valid:  # names, abbreviations and junk are never valid Hello Wordl words
+        universe &= valid
     calib = load_calibration()
     by_len = defaultdict(list)
     for w in universe:
@@ -134,6 +142,15 @@ def word_class(w: str, n_defs: int, base: set[str]) -> str:
 
 
 CALIB_FILE = os.path.join(ROOT, "data", "prior_calibration.json")
+GAME_DICT = os.path.join(ROOT, "data", "external", "dictionary.json")
+
+
+def load_game_dictionary() -> set[str] | None:
+    """Hello Wordl's accepted-word list (scripts/fetch_game_lists.py), if present."""
+    if os.path.exists(GAME_DICT):
+        with open(GAME_DICT) as f:
+            return {w.lower() for w in json.load(f)}
+    return None
 DEFAULT_WEIGHT = {"A4": 1.0, "A3": 0.9, "A2": 0.6, "A1": 0.25, "B": 0.05, "C": 0.005,
                   "D": 0.06}
 

@@ -1,26 +1,26 @@
 # 9-letter Hello Wordl - full report
 
-Words in list: **57,718** · everyday words: **1,616** · guessable pool: **8,680**
+Words in list: **26,649** · everyday words: **1,572** · guessable pool: **6,246**
 
 ## Best first guesses (exact search over every word)
 
 | # | word | exp. guesses* | info (bits) | avg answers left | worst case |
 |---|---|---|---|---|---|
-| 1 | **SARCOLINE** | 3.133 | 11.125 | 39 | 259 |
-| 2 | **NECTARIES** | 3.181 | 10.992 | 39 | 182 |
-| 3 | **CENTURIES** | 3.215 | 10.895 | 43 | 196 |
-| 4 | **COUNTRIES** | 3.221 | 10.881 | 44 | 229 |
-| 5 | **LARCENIES** | 3.198 | 10.945 | 40 | 172 |
-| 6 | **REACTIONS** | 3.216 | 10.898 | 43 | 226 |
-| 7 | **PENALTIES** | 3.238 | 10.835 | 46 | 240 |
-| 8 | **RELATIONS** | 3.225 | 10.870 | 44 | 205 |
-| 9 | **LACERTINE** | 3.220 | 10.878 | 46 | 237 |
-| 10 | **AEROLITES** | 3.236 | 10.840 | 46 | 243 |
-| 11 | **PARTICLES** | 3.252 | 10.788 | 54 | 281 |
-| 12 | **LATENCIES** | 3.239 | 10.834 | 41 | 178 |
-| 13 | **SECRETION** | 3.255 | 10.785 | 47 | 255 |
-| 14 | **PALESTINE** | 3.256 | 10.778 | 52 | 335 |
-| 15 | **DOCTRINES** | 3.262 | 10.757 | 56 | 373 |
+| 1 | **NECTARIES** | 3.019 | 10.948 | 18 | 135 |
+| 2 | **CENTURIES** | 3.050 | 10.859 | 20 | 125 |
+| 3 | **COUNTRIES** | 3.057 | 10.840 | 21 | 141 |
+| 4 | **PENALTIES** | 3.072 | 10.802 | 21 | 122 |
+| 5 | **LARCENIES** | 3.044 | 10.877 | 19 | 102 |
+| 6 | **REACTIONS** | 3.059 | 10.836 | 20 | 117 |
+| 7 | **AEROLITES** | 3.064 | 10.826 | 19 | 87 |
+| 8 | **DOCTRINES** | 3.091 | 10.742 | 24 | 175 |
+| 9 | **PARTICLES** | 3.092 | 10.740 | 24 | 126 |
+| 10 | **RELATIONS** | 3.077 | 10.786 | 20 | 91 |
+| 11 | **LATENCIES** | 3.082 | 10.777 | 20 | 139 |
+| 12 | **ACROLEINS** | 3.113 | 10.688 | 24 | 149 |
+| 13 | **SECRETION** | 3.132 | 10.630 | 26 | 179 |
+| 14 | **NEOTERICS** | 3.117 | 10.677 | 23 | 183 |
+| 15 | **NEUROTICS** | 3.117 | 10.675 | 23 | 174 |
 
 \* model estimate of total guesses; real averages are in the benchmark below.
 
@@ -28,85 +28,87 @@ Words in list: **57,718** · everyday words: **1,616** · guessable pool: **8,68
 
 | # | word | info (bits) | avg answers left |
 |---|---|---|---|
-| 1 | **CENTURIES** | 10.895 | 43 |
-| 2 | **COUNTRIES** | 10.881 | 44 |
-| 3 | **PENALTIES** | 10.835 | 46 |
-| 4 | **PARTICLES** | 10.788 | 54 |
-| 5 | **SECRETION** | 10.785 | 47 |
-| 6 | **PALESTINE** | 10.778 | 52 |
-| 7 | **DOCTRINES** | 10.757 | 56 |
-| 8 | **SUCTORIAL** | 10.682 | 55 |
-| 9 | **SELECTION** | 10.674 | 50 |
-| 10 | **MASCULINE** | 10.607 | 63 |
+| 1 | **CENTURIES** | 10.859 | 20 |
+| 2 | **COUNTRIES** | 10.840 | 21 |
+| 3 | **PENALTIES** | 10.802 | 21 |
+| 4 | **DOCTRINES** | 10.742 | 24 |
+| 5 | **PARTICLES** | 10.740 | 24 |
+| 6 | **SECRETION** | 10.630 | 26 |
+| 7 | **SUCTORIAL** | 10.526 | 29 |
+| 8 | **SELECTION** | 10.522 | 27 |
+| 9 | **COMPANIES** | 10.513 | 29 |
+| 10 | **CURTAILED** | 10.450 | 34 |
 
 ## Best fixed two-word starts (play both, whatever the colours)
 
 | first | second | combined info (bits) |
 |---|---|---|
-| CENTURIES | GALLOPADE | 13.70 |
-| CENTURIES | AMPHIBOLE | 13.67 |
-| CENTURIES | PATHOLOGY | 13.65 |
-| PARTICLES | MODIFYING | 13.65 |
-| SARCOLINE | PIGMENTED | 13.64 |
-| NECTARIES | POLYGONUM | 13.63 |
-| SARCOLINE | PERMITTED | 13.62 |
-| COUNTRIES | MEDIAEVAL | 13.62 |
-| CENTURIES | ABDOMINAL | 13.62 |
-| CENTURIES | ALLOMORPH | 13.61 |
+| CENTURIES | GALLOPADE | 13.25 |
+| CENTURIES | AMPHIBOLE | 13.23 |
+| CENTURIES | PATHOLOGY | 13.22 |
+| NECTARIES | POLYGONUM | 13.21 |
+| COUNTRIES | MEDIAEVAL | 13.20 |
+| CENTURIES | ABDOMINAL | 13.20 |
+| CENTURIES | ALLOMORPH | 13.20 |
+| PENALTIES | DISCOURSE | 13.18 |
+| COUNTRIES | ASSEMBLED | 13.18 |
+| CENTURIES | FALSEHOOD | 13.18 |
 
 ## Letter probabilities
 
-P(letter appears in the answer): **E** 73%, **I** 63%, **A** 56%, **R** 56%, **N** 55%, **T** 51%, **S** 49%, **O** 45%, **L** 38%, **C** 35%, **D** 30%, **U** 29%
+P(letter appears in the answer): **E** 74%, **I** 63%, **R** 56%, **N** 55%, **A** 54%, **S** 52%, **T** 52%, **O** 44%, **L** 38%, **C** 35%, **D** 31%, **U** 28%
 
 Most likely letter in each position:
 
 | position | top letters |
 |---|---|
-| 1 | S 11%, C 9%, P 9%, A 9%, D 6% |
-| 2 | E 17%, O 12%, A 12%, R 9%, N 8% |
-| 3 | R 11%, A 8%, N 7%, S 7%, C 7% |
-| 4 | E 13%, T 9%, I 8%, R 8%, O 7% |
-| 5 | E 13%, I 11%, A 10%, R 10%, O 8% |
-| 6 | T 11%, I 10%, N 10%, A 9%, R 8% |
-| 7 | I 27%, E 11%, A 10%, O 9%, T 8% |
-| 8 | E 18%, N 16%, T 8%, L 7%, A 7% |
-| 9 | E 19%, S 19%, D 11%, G 9%, Y 8% |
+| 1 | S 11%, C 10%, P 9%, A 8%, D 7% |
+| 2 | E 17%, O 13%, A 11%, R 9%, N 8% |
+| 3 | R 11%, A 8%, S 8%, N 7%, T 7% |
+| 4 | E 13%, T 9%, I 8%, R 8%, A 6% |
+| 5 | E 13%, I 11%, R 10%, A 9%, O 7% |
+| 6 | T 12%, I 10%, N 10%, A 9%, R 8% |
+| 7 | I 27%, E 12%, A 9%, O 8%, T 8% |
+| 8 | E 21%, N 17%, T 8%, L 7%, R 7% |
+| 9 | S 24%, E 17%, D 12%, G 10%, Y 8% |
 
 - P(answer has a repeated letter): **89%**
-- Number of vowels (A E I O U): 2: 7%, 3: 42%, 4: 42%, 5: 8%
-- Common endings: -ING 8.8%, -ION 3.6%, -ATE 2.9%, -ESS 2.7%, -TED 2.7%, -ENT 2.4%, -OUS 2.3%, -ITY 1.6%
-- Common beginnings: CO- 4.4%, RE- 4.3%, IN- 3.3%, PR- 3.0%, UN- 2.9%, DE- 2.7%, DI- 2.3%, EX- 1.9%
+- Number of vowels (A E I O U): 2: 8%, 3: 45%, 4: 41%, 5: 6%
+- Common endings: -ING 10.3%, -ION 3.7%, -TED 3.0%, -ESS 3.0%, -ATE 2.9%, -ENT 2.4%, -OUS 2.3%, -ERS 2.0%
+- Common beginnings: CO- 4.7%, RE- 4.6%, IN- 3.6%, PR- 3.1%, DE- 3.0%, DI- 2.5%, UN- 2.2%, EX- 2.0%
 
-## What your first feedback means (after SARCOLINE)
+## What your first feedback means (after NECTARIES)
 
 | greens | yellows | how often | avg answers still possible |
 |---|---|---|---|
-| 0 | 2 | 0.4% | 20 |
-| 0 | 3 | 3.9% | 67 |
-| 0 | 4 | 10.8% | 107 |
-| 0 | 5 | 10.3% | 91 |
-| 0 | 6 | 4.8% | 52 |
-| 0 | 7 | 1.2% | 22 |
-| 1 | 1 | 0.4% | 8 |
-| 1 | 2 | 3.7% | 21 |
-| 1 | 3 | 10.8% | 27 |
-| 1 | 4 | 12.9% | 22 |
-| 1 | 5 | 6.0% | 12 |
-| 1 | 6 | 1.5% | 5 |
-| 2 | 1 | 2.2% | 22 |
-| 2 | 2 | 7.1% | 25 |
-| 2 | 3 | 7.5% | 13 |
-| 2 | 4 | 4.0% | 6 |
-| 2 | 5 | 0.8% | 2 |
-| 3 | 0 | 0.4% | 13 |
-| 3 | 1 | 2.4% | 11 |
-| 3 | 2 | 3.6% | 8 |
-| 3 | 3 | 1.8% | 3 |
-| 3 | 4 | 0.3% | 2 |
-| 4 | 0 | 0.5% | 10 |
-| 4 | 1 | 0.9% | 5 |
-| 4 | 2 | 1.0% | 3 |
-| 5 | 1 | 0.3% | 2 |
+| 0 | 1 | 0.2% | 8 |
+| 0 | 2 | 1.3% | 20 |
+| 0 | 3 | 3.4% | 23 |
+| 0 | 4 | 6.6% | 27 |
+| 0 | 5 | 6.9% | 27 |
+| 0 | 6 | 3.8% | 19 |
+| 0 | 7 | 0.9% | 9 |
+| 1 | 1 | 1.1% | 31 |
+| 1 | 2 | 6.3% | 33 |
+| 1 | 3 | 12.1% | 32 |
+| 1 | 4 | 13.2% | 24 |
+| 1 | 5 | 7.3% | 14 |
+| 1 | 6 | 1.6% | 6 |
+| 2 | 0 | 0.3% | 11 |
+| 2 | 1 | 1.8% | 13 |
+| 2 | 2 | 6.2% | 16 |
+| 2 | 3 | 9.2% | 14 |
+| 2 | 4 | 5.8% | 9 |
+| 2 | 5 | 1.4% | 4 |
+| 3 | 0 | 0.4% | 7 |
+| 3 | 1 | 1.7% | 6 |
+| 3 | 2 | 2.8% | 6 |
+| 3 | 3 | 2.3% | 4 |
+| 3 | 4 | 0.8% | 3 |
+| 4 | 1 | 0.6% | 6 |
+| 4 | 2 | 0.6% | 3 |
+| 4 | 3 | 0.3% | 2 |
+| 5 | 1 | 0.2% | 2 |
 
 ## Trap families (0% of everyday words sit in a family of 4+)
 
@@ -117,7 +119,7 @@ Words that differ in only one letter. If you land in one, don't guess them one b
 
 | mode | games | avg guesses | win rate | distribution |
 |---|---|---|---|---|
-| normal | 903 | 2.631 | 100.0% | 2: 381 · 3: 476 · 4: 44 · 5: 2 |
-| hard | 903 | 2.668 | 100.0% | 2: 366 · 3: 474 · 4: 60 · 5: 3 |
+| normal | 903 | 2.630 | 100.0% | 2: 369 · 3: 499 · 4: 35 |
+| hard | 903 | 2.648 | 100.0% | 2: 360 · 3: 502 · 4: 40 · 5: 1 |
 
-Opening book: 600 first-feedback patterns precomputed (55.5% of games). Average live step: 8 ms.
+Opening book: 600 first-feedback patterns precomputed (58.0% of games). Average live step: 2 ms.

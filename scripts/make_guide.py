@@ -195,7 +195,30 @@ def guide(data):
           "-ABLE and plural -S decide a big chunk of the answer.",
           "- **Two candidates left** → guess the more common word. **Three+ left with turns to spare** → a splitting "
           "word beats guessing a candidate.", ""]
-    o += ["## 7. A simple human recipe", "",
+    sc_path = os.path.join(ROOT, "output", "strategy_comparison.json")
+    if os.path.exists(sc_path):
+        sc = json.load(open(sc_path))
+        names = list(sc[0]["strategies"])
+        o += ["## 7. Human strategies, tested", "",
+              "Each strategy below was played on every held-out real answer. Cells show "
+              "**average guesses · win rate** (6 tries). The \"frequency pair\" is the two words made of the most "
+              "common letters (second word = the most common *new* letters).", "",
+              "| letters | frequency pair | " + " | ".join(names) + " |",
+              "|---|---|" + "---|" * len(names)]
+        for r in sc:
+            cells = []
+            for n in names:
+                x = r["strategies"].get(n)
+                cells.append(f"{x['avg_guesses']:.2f} · {x['win_rate'] * 100:.1f}%" if x else "-")
+            o.append(f"| {r['length']} | {U(r['first'])} + {U(r['second'])} | " + " | ".join(cells) + " |")
+        o += ["", "What this shows:", "",
+              "- **Short words (4-5 letters): simple rules lose games.** Many near-identical words "
+              "means guessing \"the most common word that fits\" walks you into traps; the solver's probe words "
+              "are what keep the win rate near 100%.",
+              "- **Long words (8+): almost any sensible start works.** One frequency word usually leaves a handful "
+              "of words, so starting to guess immediately is close to optimal.",
+              "- **Don't burn a second fixed word on long words** - it costs about half a guess.", ""]
+    o += ["## 8. A simple human recipe", "",
           "1. Turn 1: play the opener for your length (table above).",
           "2. Turn 2: if you got ≤1 hit, play the fixed partner word (new letters). Otherwise pick a word that keeps your "
           "greens, moves your yellows and adds new common letters.",
@@ -203,7 +226,7 @@ def guide(data):
           "play a splitting word first (see traps).",
           "4. Use the solver (`python -m wordl play -n 7` or the web page) to check yourself; it shows the best word "
           "*and why* (expected guesses, bits, chance to win now).", ""]
-    o += ["## 8. How good is the algorithm?", "",
+    o += ["## 9. How good is the algorithm?", "",
           "Tested on real Hello Wordl answers it **never saw during tuning** (held-out half), 6 tries:", "",
           "| letters | games | avg guesses | win rate | hard-mode avg | hard-mode win |", "|---|---|---|---|---|---|"]
     for L in LENGTHS:
@@ -214,10 +237,11 @@ def guide(data):
           "Speed: turns 1-2 are instant lookups (precomputed opening book); later turns are computed live in "
           "milliseconds (Python ≈ " + f"{max(D[L]['benchmark']['avg_live_step_seconds'] for L in LENGTHS) * 1000:.0f}"
           " ms worst average; the browser version is similar).", ""]
-    o += ["## 9. How the algorithm works", "",
+    o += ["## 10. How the algorithm works", "",
           "1. **Prior** - every word gets P(answer). Class = Webster definitions count × how often the word is *used* "
           "inside the 54k definitions (a word-frequency signal), plus plurals/inflections. Class weights are "
-          "calibrated on half of Hello Wordl's public answer list (`scripts/calibrate.py`).",
+          "calibrated on half of Hello Wordl's public answer list (`scripts/calibrate.py`). Only words the game "
+          "accepts are kept, so names (JAMEL, PATEL) and abbreviations never count as possible answers.",
           "2. **Feedback** - exact Hello Wordl colouring including duplicates, vectorised with NumPy.",
           "3. **Score every guess** - group all candidates by the pattern they'd produce, then compute information "
           "(entropy), P(win now) and an *expected number of guesses* "

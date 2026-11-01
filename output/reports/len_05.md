@@ -1,26 +1,26 @@
 # 5-letter Hello Wordl - full report
 
-Words in list: **22,223** · everyday words: **1,579** · guessable pool: **4,363**
+Words in list: **10,443** · everyday words: **1,542** · guessable pool: **3,668**
 
 ## Best first guesses (exact search over every word)
 
 | # | word | exp. guesses* | info (bits) | avg answers left | worst case |
 |---|---|---|---|---|---|
-| 1 | **TEARS** | 4.259 | 6.146 | 560 | 2156 |
-| 2 | **SLATE** | 4.270 | 6.115 | 599 | 2260 |
-| 3 | **LARES** | 4.265 | 6.130 | 470 | 1404 |
-| 4 | **STARE** | 4.289 | 6.061 | 576 | 2156 |
-| 5 | **RATES** | 4.274 | 6.105 | 517 | 1545 |
-| 6 | **TALES** | 4.282 | 6.083 | 545 | 1602 |
-| 7 | **RAISE** | 4.299 | 6.034 | 500 | 1198 |
-| 8 | **AIRES** | 4.284 | 6.077 | 481 | 1891 |
-| 9 | **RALES** | 4.287 | 6.069 | 486 | 1404 |
-| 10 | **SATLE** | 4.275 | 6.101 | 559 | 1602 |
-| 11 | **SANER** | 4.290 | 6.058 | 497 | 1358 |
-| 12 | **SNARE** | 4.306 | 6.013 | 552 | 1758 |
-| 13 | **LEARS** | 4.295 | 6.047 | 530 | 1844 |
-| 14 | **TRIES** | 4.310 | 6.002 | 648 | 2472 |
-| 15 | **REALS** | 4.295 | 6.046 | 529 | 1844 |
+| 1 | **TEARS** | 4.172 | 6.168 | 246 | 718 |
+| 2 | **SLATE** | 4.187 | 6.126 | 262 | 723 |
+| 3 | **LARES** | 4.191 | 6.115 | 215 | 685 |
+| 4 | **STARE** | 4.204 | 6.078 | 253 | 718 |
+| 5 | **RATES** | 4.192 | 6.114 | 226 | 718 |
+| 6 | **TALES** | 4.200 | 6.089 | 239 | 723 |
+| 7 | **TRIES** | 4.217 | 6.039 | 271 | 955 |
+| 8 | **RALES** | 4.211 | 6.058 | 220 | 685 |
+| 9 | **SNARE** | 4.228 | 6.008 | 258 | 689 |
+| 10 | **RAISE** | 4.229 | 6.005 | 245 | 638 |
+| 11 | **STALE** | 4.230 | 6.002 | 275 | 723 |
+| 12 | **LEARS** | 4.216 | 6.044 | 241 | 685 |
+| 13 | **REALS** | 4.217 | 6.042 | 239 | 685 |
+| 14 | **SANER** | 4.218 | 6.038 | 234 | 689 |
+| 15 | **TAELS** | 4.220 | 6.033 | 274 | 919 |
 
 \* model estimate of total guesses; real averages are in the benchmark below.
 
@@ -28,69 +28,69 @@ Words in list: **22,223** · everyday words: **1,579** · guessable pool: **4,36
 
 | # | word | info (bits) | avg answers left |
 |---|---|---|---|
-| 1 | **TEARS** | 6.146 | 560 |
-| 2 | **SLATE** | 6.115 | 599 |
-| 3 | **STARE** | 6.061 | 576 |
-| 4 | **RAISE** | 6.034 | 500 |
-| 5 | **SNARE** | 6.013 | 552 |
-| 6 | **TRIES** | 6.002 | 648 |
-| 7 | **STALE** | 5.990 | 625 |
-| 8 | **ARISE** | 5.973 | 554 |
-| 9 | **LEAST** | 5.946 | 652 |
-| 10 | **ALOES** | 5.934 | 587 |
+| 1 | **TEARS** | 6.168 | 246 |
+| 2 | **SLATE** | 6.126 | 262 |
+| 3 | **STARE** | 6.078 | 253 |
+| 4 | **TRIES** | 6.039 | 271 |
+| 5 | **SNARE** | 6.008 | 258 |
+| 6 | **RAISE** | 6.005 | 245 |
+| 7 | **STALE** | 6.002 | 275 |
+| 8 | **ARISE** | 5.945 | 268 |
+| 9 | **ALOES** | 5.943 | 246 |
+| 10 | **LEAST** | 5.937 | 298 |
 
 ## Best fixed two-word starts (play both, whatever the colours)
 
 | first | second | combined info (bits) |
 |---|---|---|
-| LARES | TONIC | 9.87 |
-| LARES | POINT | 9.87 |
-| LARES | COUNT | 9.81 |
-| SLATE | MINOR | 9.78 |
-| SLATE | DORIC | 9.78 |
-| SLATE | GROIN | 9.73 |
-| SLATE | ROUND | 9.72 |
-| SLATE | ROBIN | 9.72 |
-| TEARS | COULD | 9.69 |
-| LARES | MOUNT | 9.69 |
+| LARES | POINT | 9.82 |
+| LARES | TONIC | 9.80 |
+| LARES | COUNT | 9.76 |
+| SLATE | DORIC | 9.73 |
+| SLATE | MINOR | 9.73 |
+| SLATE | ROUND | 9.68 |
+| TEARS | COULD | 9.68 |
+| SLATE | GROIN | 9.67 |
+| SLATE | ROBIN | 9.65 |
+| TRIES | BLAND | 9.65 |
 
 ## Letter probabilities
 
-P(letter appears in the answer): **E** 47%, **A** 42%, **S** 37%, **R** 35%, **O** 29%, **T** 29%, **I** 28%, **L** 28%, **N** 24%, **C** 18%, **U** 18%, **D** 17%
+P(letter appears in the answer): **E** 48%, **A** 40%, **S** 39%, **R** 35%, **O** 30%, **T** 29%, **I** 27%, **L** 27%, **N** 23%, **C** 18%, **D** 18%, **U** 17%
 
 Most likely letter in each position:
 
 | position | top letters |
 |---|---|
-| 1 | S 15%, C 8%, B 7%, T 7%, A 7% |
-| 2 | A 15%, O 14%, E 11%, R 10%, I 9% |
-| 3 | A 14%, I 10%, O 10%, R 9%, E 8% |
-| 4 | E 16%, N 7%, A 7%, L 7%, I 7% |
-| 5 | E 17%, S 16%, T 9%, Y 9%, R 8% |
+| 1 | S 16%, C 8%, B 7%, T 7%, P 6% |
+| 2 | O 14%, A 14%, E 11%, R 10%, I 10% |
+| 3 | A 14%, I 11%, O 10%, R 8%, E 8% |
+| 4 | E 17%, N 7%, L 7%, A 7%, T 7% |
+| 5 | S 17%, E 17%, Y 10%, T 9%, R 8% |
 
-- P(answer has a repeated letter): **32%**
-- Number of vowels (A E I O U): 1: 30%, 2: 60%, 3: 10%
-- Common endings: -TCH 0.9%, -TER 0.7%, -ING 0.7%, -VER 0.6%, -LLY 0.6%, -NES 0.6%, -AIN 0.5%, -IDE 0.5%
-- Common beginnings: ST- 2.7%, SH- 2.0%, GR- 1.6%, SP- 1.6%, CH- 1.6%, CA- 1.5%, SC- 1.5%, CO- 1.5%
+- P(answer has a repeated letter): **31%**
+- Number of vowels (A E I O U): 1: 31%, 2: 60%, 3: 9%
+- Common endings: -TCH 0.9%, -TER 0.7%, -ING 0.7%, -NES 0.6%, -LLY 0.6%, -VER 0.6%, -AIN 0.5%, -IDE 0.5%
+- Common beginnings: ST- 2.8%, SH- 2.1%, SP- 1.7%, CH- 1.6%, GR- 1.6%, CO- 1.6%, BR- 1.5%, SC- 1.5%
 
 ## What your first feedback means (after TEARS)
 
 | greens | yellows | how often | avg answers still possible |
 |---|---|---|---|
-| 0 | 0 | 6.3% | 1545 |
-| 0 | 1 | 19.0% | 1432 |
-| 0 | 2 | 22.6% | 620 |
-| 0 | 3 | 8.1% | 213 |
-| 0 | 4 | 1.6% | 42 |
-| 1 | 0 | 8.2% | 570 |
-| 1 | 1 | 14.6% | 264 |
-| 1 | 2 | 8.4% | 80 |
-| 1 | 3 | 1.5% | 19 |
-| 2 | 0 | 4.0% | 130 |
-| 2 | 1 | 3.1% | 33 |
-| 2 | 2 | 0.8% | 7 |
-| 3 | 0 | 0.9% | 21 |
-| 3 | 1 | 0.5% | 5 |
+| 0 | 0 | 6.4% | 718 |
+| 0 | 1 | 18.6% | 506 |
+| 0 | 2 | 21.7% | 242 |
+| 0 | 3 | 8.1% | 97 |
+| 0 | 4 | 1.6% | 25 |
+| 1 | 0 | 8.4% | 370 |
+| 1 | 1 | 14.8% | 175 |
+| 1 | 2 | 8.6% | 58 |
+| 1 | 3 | 1.6% | 15 |
+| 2 | 0 | 4.3% | 99 |
+| 2 | 1 | 3.3% | 28 |
+| 2 | 2 | 0.9% | 6 |
+| 3 | 0 | 1.0% | 20 |
+| 3 | 1 | 0.5% | 4 |
 
 ## Trap families (10% of everyday words sit in a family of 4+)
 
@@ -113,9 +113,7 @@ Words that differ in only one letter. If you land in one, don't guess them one b
 
 | mode | games | avg guesses | win rate | distribution |
 |---|---|---|---|---|
-| normal | 712 | 3.603 | 99.6% | 2: 20 · 3: 364 · 4: 229 · 5: 80 · 6: 16 · 7: 3 |
-| hard | 712 | 3.713 | 97.9% | 2: 42 · 3: 323 · 4: 214 · 5: 92 · 6: 26 · 7: 6 · 8: 6 · 9: 1 · 10: 2 |
-
-Missed (normal mode): LASER, BATCH, BOXER
+| normal | 712 | 3.560 | 100.0% | 2: 23 · 3: 362 · 4: 249 · 5: 61 · 6: 17 |
+| hard | 712 | 3.657 | 98.6% | 2: 47 · 3: 308 · 4: 247 · 5: 82 · 6: 18 · 7: 4 · 8: 3 · 9: 2 · 10: 1 |
 
 Opening book: 147 first-feedback patterns precomputed (99.5% of games). Average live step: 6 ms.

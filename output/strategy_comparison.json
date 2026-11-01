@@ -1,0 +1,741 @@
+[
+ {
+  "length": 4,
+  "games": 652,
+  "first": "aloe",
+  "second": "stir",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 4.965,
+    "win_rate": 0.8267,
+    "distribution": {
+     "2": 17,
+     "3": 104,
+     "4": 193,
+     "5": 134,
+     "6": 91,
+     "7": 56,
+     "8": 29,
+     "9": 14,
+     "10": 6,
+     "11": 4,
+     "12": 3,
+     "13": 1
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 4.89,
+    "win_rate": 0.8497,
+    "distribution": {
+     "2": 6,
+     "3": 114,
+     "4": 202,
+     "5": 142,
+     "6": 90,
+     "7": 53,
+     "8": 23,
+     "9": 11,
+     "10": 3,
+     "11": 4,
+     "12": 4
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 4.893,
+    "win_rate": 0.8512,
+    "distribution": {
+     "3": 117,
+     "4": 208,
+     "5": 140,
+     "6": 90,
+     "7": 53,
+     "8": 22,
+     "9": 11,
+     "10": 4,
+     "11": 3,
+     "12": 4
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 5.265,
+    "win_rate": 0.7669,
+    "distribution": {
+     "2": 23,
+     "3": 81,
+     "4": 150,
+     "5": 136,
+     "6": 110,
+     "7": 77,
+     "8": 40,
+     "9": 20,
+     "10": 7,
+     "11": 4,
+     "12": 2,
+     "13": 1,
+     "14": 1
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 4.84,
+    "win_rate": 0.8589,
+    "distribution": {
+     "2": 15,
+     "3": 112,
+     "4": 202,
+     "5": 150,
+     "6": 81,
+     "7": 47,
+     "8": 20,
+     "9": 9,
+     "10": 7,
+     "11": 4,
+     "12": 4,
+     "14": 1
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 4.876,
+    "win_rate": 0.8528,
+    "distribution": {
+     "2": 19,
+     "3": 114,
+     "4": 192,
+     "5": 141,
+     "6": 90,
+     "7": 45,
+     "8": 23,
+     "9": 10,
+     "10": 8,
+     "11": 5,
+     "12": 4,
+     "14": 1
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 4.245,
+    "win_rate": 0.9862,
+    "distribution": {
+     "2": 7,
+     "3": 144,
+     "4": 275,
+     "5": 147,
+     "6": 70,
+     "7": 5,
+     "8": 4
+    }
+   }
+  }
+ },
+ {
+  "length": 5,
+  "games": 712,
+  "first": "tears",
+  "second": "logic",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 3.765,
+    "win_rate": 0.9846,
+    "distribution": {
+     "2": 44,
+     "3": 273,
+     "4": 257,
+     "5": 98,
+     "6": 29,
+     "7": 6,
+     "8": 5
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 3.805,
+    "win_rate": 0.986,
+    "distribution": {
+     "2": 32,
+     "3": 278,
+     "4": 262,
+     "5": 92,
+     "6": 38,
+     "7": 5,
+     "8": 5
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.851,
+    "win_rate": 0.9902,
+    "distribution": {
+     "2": 1,
+     "3": 296,
+     "4": 280,
+     "5": 88,
+     "6": 40,
+     "7": 4,
+     "8": 3
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 3.82,
+    "win_rate": 0.9831,
+    "distribution": {
+     "2": 47,
+     "3": 253,
+     "4": 253,
+     "5": 116,
+     "6": 31,
+     "7": 7,
+     "8": 5
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 3.844,
+    "win_rate": 0.9775,
+    "distribution": {
+     "2": 37,
+     "3": 259,
+     "4": 275,
+     "5": 91,
+     "6": 34,
+     "7": 5,
+     "8": 9,
+     "9": 1,
+     "11": 1
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 3.815,
+    "win_rate": 0.9761,
+    "distribution": {
+     "2": 37,
+     "3": 276,
+     "4": 263,
+     "5": 86,
+     "6": 33,
+     "7": 6,
+     "8": 9,
+     "9": 1,
+     "11": 1
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 3.56,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 23,
+     "3": 362,
+     "4": 249,
+     "5": 61,
+     "6": 17
+    }
+   }
+  }
+ },
+ {
+  "length": 6,
+  "games": 1012,
+  "first": "satire",
+  "second": "column",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 3.384,
+    "win_rate": 0.9911,
+    "distribution": {
+     "2": 134,
+     "3": 506,
+     "4": 265,
+     "5": 74,
+     "6": 24,
+     "7": 7,
+     "8": 2
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 3.373,
+    "win_rate": 0.9931,
+    "distribution": {
+     "2": 108,
+     "3": 549,
+     "4": 260,
+     "5": 69,
+     "6": 19,
+     "7": 5,
+     "8": 2
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.452,
+    "win_rate": 0.9921,
+    "distribution": {
+     "3": 674,
+     "4": 253,
+     "5": 62,
+     "6": 15,
+     "7": 5,
+     "8": 3
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 3.411,
+    "win_rate": 0.9901,
+    "distribution": {
+     "2": 138,
+     "3": 478,
+     "4": 286,
+     "5": 76,
+     "6": 24,
+     "7": 7,
+     "8": 2,
+     "9": 1
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 3.4,
+    "win_rate": 0.9911,
+    "distribution": {
+     "2": 88,
+     "3": 565,
+     "4": 265,
+     "5": 70,
+     "6": 15,
+     "7": 6,
+     "9": 2,
+     "10": 1
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 3.408,
+    "win_rate": 0.9901,
+    "distribution": {
+     "2": 91,
+     "3": 562,
+     "4": 260,
+     "5": 72,
+     "6": 17,
+     "7": 5,
+     "8": 2,
+     "9": 2,
+     "10": 1
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 3.227,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 92,
+     "3": 649,
+     "4": 228,
+     "5": 35,
+     "6": 8
+    }
+   }
+  }
+ },
+ {
+  "length": 7,
+  "games": 1057,
+  "first": "saltire",
+  "second": "gunlock",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 3.068,
+    "win_rate": 0.9981,
+    "distribution": {
+     "2": 231,
+     "3": 591,
+     "4": 180,
+     "5": 44,
+     "6": 9,
+     "7": 2
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 3.108,
+    "win_rate": 0.9981,
+    "distribution": {
+     "2": 204,
+     "3": 602,
+     "4": 198,
+     "5": 41,
+     "6": 10,
+     "7": 2
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.376,
+    "win_rate": 0.9991,
+    "distribution": {
+     "3": 721,
+     "4": 286,
+     "5": 40,
+     "6": 9,
+     "7": 1
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 3.056,
+    "win_rate": 0.9981,
+    "distribution": {
+     "2": 238,
+     "3": 586,
+     "4": 181,
+     "5": 42,
+     "6": 8,
+     "7": 2
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 3.154,
+    "win_rate": 0.9953,
+    "distribution": {
+     "2": 161,
+     "3": 647,
+     "4": 196,
+     "5": 38,
+     "6": 10,
+     "7": 4,
+     "9": 1
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 3.147,
+    "win_rate": 0.9953,
+    "distribution": {
+     "2": 162,
+     "3": 653,
+     "4": 187,
+     "5": 42,
+     "6": 8,
+     "7": 4,
+     "9": 1
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 3.014,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 179,
+     "3": 709,
+     "4": 149,
+     "5": 15,
+     "6": 5
+    }
+   }
+  }
+ },
+ {
+  "length": 8,
+  "games": 980,
+  "first": "entrails",
+  "second": "plumbago",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 2.865,
+    "win_rate": 0.999,
+    "distribution": {
+     "2": 280,
+     "3": 568,
+     "4": 119,
+     "5": 12,
+     "8": 1
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 2.868,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 273,
+     "3": 574,
+     "4": 122,
+     "5": 11
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.247,
+    "win_rate": 1.0,
+    "distribution": {
+     "3": 753,
+     "4": 213,
+     "5": 13,
+     "6": 1
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 2.863,
+    "win_rate": 0.999,
+    "distribution": {
+     "2": 281,
+     "3": 568,
+     "4": 118,
+     "5": 12,
+     "8": 1
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 2.967,
+    "win_rate": 0.998,
+    "distribution": {
+     "2": 204,
+     "3": 619,
+     "4": 148,
+     "5": 5,
+     "6": 2,
+     "7": 2
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 2.964,
+    "win_rate": 0.998,
+    "distribution": {
+     "2": 205,
+     "3": 620,
+     "4": 146,
+     "5": 5,
+     "6": 2,
+     "7": 2
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 2.786,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 294,
+     "3": 608,
+     "4": 73,
+     "5": 4,
+     "6": 1
+    }
+   }
+  }
+ },
+ {
+  "length": 9,
+  "games": 903,
+  "first": "doctrines",
+  "second": "subfamily",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 2.711,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 346,
+     "3": 477,
+     "4": 75,
+     "5": 5
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 2.723,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 338,
+     "3": 482,
+     "4": 78,
+     "5": 5
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.105,
+    "win_rate": 1.0,
+    "distribution": {
+     "3": 811,
+     "4": 89,
+     "5": 3
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 2.71,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 347,
+     "3": 476,
+     "4": 75,
+     "5": 5
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 2.807,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 261,
+     "3": 559,
+     "4": 79,
+     "5": 4
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 2.807,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 261,
+     "3": 559,
+     "4": 79,
+     "5": 4
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 2.63,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 369,
+     "3": 499,
+     "4": 35
+    }
+   }
+  }
+ },
+ {
+  "length": 10,
+  "games": 724,
+  "first": "introduces",
+  "second": "bankruptcy",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 2.591,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 327,
+     "3": 367,
+     "4": 29,
+     "5": 1
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 2.594,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 324,
+     "3": 371,
+     "4": 28,
+     "5": 1
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.17,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 1,
+     "3": 604,
+     "4": 114,
+     "5": 5
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 2.591,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 327,
+     "3": 367,
+     "4": 29,
+     "5": 1
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 2.686,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 261,
+     "3": 430,
+     "4": 32,
+     "5": 1
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 2.686,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 261,
+     "3": 430,
+     "4": 32,
+     "5": 1
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 2.412,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 432,
+     "3": 287,
+     "4": 4,
+     "5": 1
+    }
+   }
+  }
+ },
+ {
+  "length": 11,
+  "games": 472,
+  "first": "personality",
+  "second": "disgraceful",
+  "strategies": {
+   "pair, guess if 2+ revealed": {
+    "avg_guesses": 2.371,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 307,
+     "3": 153,
+     "4": 10,
+     "5": 1
+    }
+   },
+   "pair, guess if 3+ revealed": {
+    "avg_guesses": 2.371,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 307,
+     "3": 153,
+     "4": 10,
+     "5": 1
+    }
+   },
+   "always play both words": {
+    "avg_guesses": 3.064,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 1,
+     "3": 437,
+     "4": 33
+    }
+   },
+   "one word, then guess": {
+    "avg_guesses": 2.371,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 307,
+     "3": 153,
+     "4": 10,
+     "5": 1
+    }
+   },
+   "pair if <2 revealed, then keep-hits + common letters": {
+    "avg_guesses": 2.447,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 267,
+     "3": 196,
+     "4": 8
+    }
+   },
+   "one word, then keep-hits + common letters": {
+    "avg_guesses": 2.447,
+    "win_rate": 1.0,
+    "distribution": {
+     "1": 1,
+     "2": 267,
+     "3": 196,
+     "4": 8
+    }
+   },
+   "SOLVER (information)": {
+    "avg_guesses": 2.343,
+    "win_rate": 1.0,
+    "distribution": {
+     "2": 313,
+     "3": 156,
+     "4": 3
+    }
+   }
+  }
+ }
+]

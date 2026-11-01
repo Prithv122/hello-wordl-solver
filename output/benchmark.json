@@ -5,75 +5,62 @@
    "games": 652,
    "answers": "held-out Hello Wordl answers",
    "opener": "sale",
-   "avg_guesses": 4.419,
+   "avg_guesses": 4.245,
    "distribution": {
-    "2": 9,
-    "3": 114,
-    "4": 258,
-    "5": 165,
-    "6": 89,
-    "7": 7,
-    "8": 9,
-    "9": 1
+    "2": 7,
+    "3": 144,
+    "4": 275,
+    "5": 147,
+    "6": 70,
+    "7": 5,
+    "8": 4
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.9739,
+   "win_rate": 0.9862,
    "failed_words": [
-    "jazz",
-    "hast",
     "bade",
-    "junk",
-    "mart",
-    "cola",
     "polo",
-    "chez",
-    "lull",
-    "mort",
-    "quiz",
+    "baba",
+    "jeep",
     "bunk",
-    "gaol",
-    "nana",
-    "morn",
+    "duff",
     "pail",
-    "dill"
+    "dill",
+    "mime"
    ],
-   "avg_live_step_seconds": 0.0042,
-   "max_live_step_seconds": 0.067
+   "avg_live_step_seconds": 0.003,
+   "max_live_step_seconds": 0.055
   },
   "hard_mode": {
    "length": 4,
    "games": 652,
    "answers": "held-out Hello Wordl answers",
    "opener": "sale",
-   "avg_guesses": 4.828,
+   "avg_guesses": 4.597,
    "distribution": {
-    "2": 26,
-    "3": 129,
-    "4": 201,
-    "5": 117,
-    "6": 84,
-    "7": 31,
-    "8": 23,
-    "9": 20,
-    "10": 7,
-    "11": 8,
-    "12": 2,
-    "13": 3,
-    "14": 1
+    "2": 25,
+    "3": 132,
+    "4": 215,
+    "5": 132,
+    "6": 79,
+    "7": 34,
+    "8": 15,
+    "9": 9,
+    "10": 6,
+    "11": 3,
+    "12": 1,
+    "13": 1
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.8543,
+   "win_rate": 0.8942,
    "failed_words": [
     "more",
     "will",
-    "your",
     "year",
     "near",
     "wall",
     "cold",
-    "hall",
     "zone",
-    "zero",
     "wine",
     "fill",
     "rear",
@@ -82,11 +69,14 @@
     "dare",
     "fold",
     "cave",
-    "cult",
-    "mama"
+    "hood",
+    "mama",
+    "math",
+    "jazz",
+    "hast"
    ],
-   "avg_live_step_seconds": 0.002,
-   "max_live_step_seconds": 0.039
+   "avg_live_step_seconds": 0.0027,
+   "max_live_step_seconds": 0.04
   }
  },
  "5": {
@@ -95,63 +85,53 @@
    "games": 712,
    "answers": "held-out Hello Wordl answers",
    "opener": "tears",
-   "avg_guesses": 3.603,
+   "avg_guesses": 3.56,
    "distribution": {
-    "2": 20,
-    "3": 364,
-    "4": 229,
-    "5": 80,
-    "6": 16,
-    "7": 3
+    "2": 23,
+    "3": 362,
+    "4": 249,
+    "5": 61,
+    "6": 17
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.9958,
-   "failed_words": [
-    "laser",
-    "batch",
-    "boxer"
-   ],
-   "avg_live_step_seconds": 0.0065,
-   "max_live_step_seconds": 0.072
+   "win_rate": 1.0,
+   "failed_words": [],
+   "avg_live_step_seconds": 0.0057,
+   "max_live_step_seconds": 0.074
   },
   "hard_mode": {
    "length": 5,
    "games": 712,
    "answers": "held-out Hello Wordl answers",
    "opener": "tears",
-   "avg_guesses": 3.713,
+   "avg_guesses": 3.657,
    "distribution": {
-    "2": 42,
-    "3": 323,
-    "4": 214,
-    "5": 92,
-    "6": 26,
-    "7": 6,
-    "8": 6,
-    "9": 1,
-    "10": 2
+    "2": 47,
+    "3": 308,
+    "4": 247,
+    "5": 82,
+    "6": 18,
+    "7": 4,
+    "8": 3,
+    "9": 2,
+    "10": 1
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.9789,
+   "win_rate": 0.986,
    "failed_words": [
     "pound",
     "baker",
     "chaos",
-    "radar",
     "batch",
-    "voter",
     "moody",
-    "welch",
     "liner",
-    "parry",
     "piper",
-    "pasta",
     "boxer",
-    "stoop",
-    "fitch"
+    "fitch",
+    "foyer"
    ],
-   "avg_live_step_seconds": 0.0023,
-   "max_live_step_seconds": 0.038
+   "avg_live_step_seconds": 0.0037,
+   "max_live_step_seconds": 0.046
   }
  },
  "6": {
@@ -160,59 +140,45 @@
    "games": 1012,
    "answers": "held-out Hello Wordl answers",
    "opener": "satire",
-   "avg_guesses": 3.311,
+   "avg_guesses": 3.227,
    "distribution": {
-    "2": 83,
-    "3": 617,
-    "4": 243,
-    "5": 53,
-    "6": 15,
-    "7": 1
+    "2": 92,
+    "3": 649,
+    "4": 228,
+    "5": 35,
+    "6": 8
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.999,
-   "failed_words": [
-    "hiking"
-   ],
-   "avg_live_step_seconds": 0.0065,
-   "max_live_step_seconds": 0.097
+   "win_rate": 1.0,
+   "failed_words": [],
+   "avg_live_step_seconds": 0.0045,
+   "max_live_step_seconds": 0.096
   },
   "hard_mode": {
    "length": 6,
    "games": 1012,
    "answers": "held-out Hello Wordl answers",
    "opener": "satire",
-   "avg_guesses": 3.396,
+   "avg_guesses": 3.295,
    "distribution": {
     "2": 106,
-    "3": 574,
-    "4": 225,
-    "5": 69,
-    "6": 26,
-    "7": 7,
-    "8": 2,
-    "9": 1,
-    "13": 1,
-    "15": 1
+    "3": 598,
+    "4": 243,
+    "5": 40,
+    "6": 21,
+    "7": 1,
+    "8": 3
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.9881,
+   "win_rate": 0.996,
    "failed_words": [
-    "coding",
-    "vastly",
-    "sinner",
     "zoning",
     "wilder",
-    "bunker",
-    "bender",
-    "sizing",
-    "panzer",
     "ritter",
-    "tester",
-    "weiner"
+    "tester"
    ],
-   "avg_live_step_seconds": 0.0027,
-   "max_live_step_seconds": 0.093
+   "avg_live_step_seconds": 0.0032,
+   "max_live_step_seconds": 0.057
   }
  },
  "7": {
@@ -221,47 +187,45 @@
    "games": 1057,
    "answers": "held-out Hello Wordl answers",
    "opener": "saltire",
-   "avg_guesses": 3.056,
+   "avg_guesses": 3.014,
    "distribution": {
-    "2": 167,
-    "3": 696,
-    "4": 167,
-    "5": 22,
+    "2": 179,
+    "3": 709,
+    "4": 149,
+    "5": 15,
     "6": 5
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0049,
-   "max_live_step_seconds": 0.08
+   "avg_live_step_seconds": 0.0025,
+   "max_live_step_seconds": 0.054
   },
   "hard_mode": {
    "length": 7,
    "games": 1057,
    "answers": "held-out Hello Wordl answers",
    "opener": "saltire",
-   "avg_guesses": 3.115,
+   "avg_guesses": 3.057,
    "distribution": {
-    "2": 185,
-    "3": 639,
-    "4": 181,
-    "5": 39,
-    "6": 7,
+    "2": 194,
+    "3": 658,
+    "4": 171,
+    "5": 24,
+    "6": 6,
     "7": 3,
-    "8": 3
+    "8": 1
    },
    "max_guesses_allowed": 6,
-   "win_rate": 0.9943,
+   "win_rate": 0.9962,
    "failed_words": [
     "mailing",
-    "masking",
     "wetting",
     "banning",
-    "mending",
-    "purging"
+    "mending"
    ],
-   "avg_live_step_seconds": 0.0022,
-   "max_live_step_seconds": 0.022
+   "avg_live_step_seconds": 0.002,
+   "max_live_step_seconds": 0.023
   }
  },
  "8": {
@@ -270,31 +234,31 @@
    "games": 980,
    "answers": "held-out Hello Wordl answers",
    "opener": "notaries",
-   "avg_guesses": 2.836,
+   "avg_guesses": 2.786,
    "distribution": {
-    "2": 276,
-    "3": 594,
-    "4": 106,
-    "5": 3,
+    "2": 294,
+    "3": 608,
+    "4": 73,
+    "5": 4,
     "6": 1
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0068,
-   "max_live_step_seconds": 0.141
+   "avg_live_step_seconds": 0.0025,
+   "max_live_step_seconds": 0.055
   },
   "hard_mode": {
    "length": 8,
    "games": 980,
    "answers": "held-out Hello Wordl answers",
    "opener": "notaries",
-   "avg_guesses": 2.88,
+   "avg_guesses": 2.805,
    "distribution": {
-    "2": 283,
-    "3": 548,
-    "4": 136,
-    "5": 11,
+    "2": 303,
+    "3": 574,
+    "4": 97,
+    "5": 4,
     "6": 1,
     "7": 1
    },
@@ -303,8 +267,8 @@
    "failed_words": [
     "wounding"
    ],
-   "avg_live_step_seconds": 0.0027,
-   "max_live_step_seconds": 0.028
+   "avg_live_step_seconds": 0.0022,
+   "max_live_step_seconds": 0.024
   }
  },
  "9": {
@@ -312,36 +276,35 @@
    "length": 9,
    "games": 903,
    "answers": "held-out Hello Wordl answers",
-   "opener": "sarcoline",
-   "avg_guesses": 2.631,
+   "opener": "nectaries",
+   "avg_guesses": 2.63,
    "distribution": {
-    "2": 381,
-    "3": 476,
-    "4": 44,
-    "5": 2
+    "2": 369,
+    "3": 499,
+    "4": 35
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0084,
-   "max_live_step_seconds": 0.11
+   "avg_live_step_seconds": 0.0023,
+   "max_live_step_seconds": 0.043
   },
   "hard_mode": {
    "length": 9,
    "games": 903,
    "answers": "held-out Hello Wordl answers",
-   "opener": "sarcoline",
-   "avg_guesses": 2.668,
+   "opener": "nectaries",
+   "avg_guesses": 2.648,
    "distribution": {
-    "2": 366,
-    "3": 474,
-    "4": 60,
-    "5": 3
+    "2": 360,
+    "3": 502,
+    "4": 40,
+    "5": 1
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0028,
+   "avg_live_step_seconds": 0.0019,
    "max_live_step_seconds": 0.022
   }
  },
@@ -350,37 +313,37 @@
    "length": 10,
    "games": 724,
    "answers": "held-out Hello Wordl answers",
-   "opener": "aerolitics",
-   "avg_guesses": 2.515,
+   "opener": "mercantile",
+   "avg_guesses": 2.412,
    "distribution": {
-    "2": 380,
-    "3": 316,
-    "4": 27,
+    "2": 432,
+    "3": 287,
+    "4": 4,
     "5": 1
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.007,
-   "max_live_step_seconds": 0.162
+   "avg_live_step_seconds": 0.0026,
+   "max_live_step_seconds": 0.053
   },
   "hard_mode": {
    "length": 10,
    "games": 724,
    "answers": "held-out Hello Wordl answers",
-   "opener": "aerolitics",
-   "avg_guesses": 2.529,
+   "opener": "mercantile",
+   "avg_guesses": 2.427,
    "distribution": {
-    "2": 371,
-    "3": 325,
-    "4": 26,
-    "5": 2
+    "2": 424,
+    "3": 292,
+    "4": 7,
+    "5": 1
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0023,
-   "max_live_step_seconds": 0.023
+   "avg_live_step_seconds": 0.002,
+   "max_live_step_seconds": 0.033
   }
  },
  "11": {
@@ -389,34 +352,34 @@
    "games": 472,
    "answers": "held-out Hello Wordl answers",
    "opener": "unrealities",
-   "avg_guesses": 2.445,
+   "avg_guesses": 2.343,
    "distribution": {
-    "2": 271,
-    "3": 192,
-    "4": 9
+    "2": 313,
+    "3": 156,
+    "4": 3
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0043,
-   "max_live_step_seconds": 0.065
+   "avg_live_step_seconds": 0.0017,
+   "max_live_step_seconds": 0.035
   },
   "hard_mode": {
    "length": 11,
    "games": 472,
    "answers": "held-out Hello Wordl answers",
    "opener": "unrealities",
-   "avg_guesses": 2.458,
+   "avg_guesses": 2.358,
    "distribution": {
-    "2": 263,
-    "3": 202,
-    "4": 7
+    "2": 306,
+    "3": 163,
+    "4": 3
    },
    "max_guesses_allowed": 6,
    "win_rate": 1.0,
    "failed_words": [],
-   "avg_live_step_seconds": 0.0023,
-   "max_live_step_seconds": 0.025
+   "avg_live_step_seconds": 0.0017,
+   "max_live_step_seconds": 0.031
   }
  }
 }

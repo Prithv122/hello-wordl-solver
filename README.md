@@ -17,15 +17,20 @@ in milliseconds, and teaches you *why* with a data-driven strategy guide.
 
 | letters | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 |---|---|---|---|---|---|---|---|---|
-| avg guesses | 4.42 | 3.60 | 3.31 | 3.06 | 2.84 | 2.63 | 2.52 | 2.45 |
-| win rate | 97.4% | 99.6% | 99.9% | 100% | 100% | 100% | 100% | 100% |
-| hard-mode win | 85.4% | 97.9% | 98.8% | 99.4% | 99.9% | 100% | 100% | 100% |
-| best opener | SALE | TEARS | SATIRE | SALTIRE | NOTARIES | SARCOLINE | AEROLITICS | UNREALITIES |
+| avg guesses | 4.25 | 3.56 | 3.23 | 3.01 | 2.79 | 2.63 | 2.41 | 2.34 |
+| win rate | 98.6% | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| hard-mode win | 89.4% | 98.6% | 99.6% | 99.6% | 99.9% | 100% | 100% | 100% |
+| best opener | SALE | TEARS | SATIRE | SALTIRE | NOTARIES | NECTARIES | MERCANTILE | UNREALITIES |
 
 Benchmark answers come from the half of Hello Wordl's public answer list that was **never**
 used for calibration or tuning. 4-letter words are the hardest: many near-identical words
 and only 6 tries. Hard mode here means "only guess words that could still be the answer",
 which is stricter than the game's own hard mode.
+
+Simple human rules ("two most-common-letter words, then guess the most common word that fits",
+and variants) were tested on the same answers: they reach only ~83-86% wins on 4-letter words
+and are 0.1-0.5 guesses slower elsewhere. See section 7 of the guide and
+`output/strategy_comparison.md`.
 
 ## Quick start
 
@@ -44,7 +49,8 @@ something else, `!` if the game rejected the word, `?` lists the possible answer
 ## How it works
 
 1. **Word list**: `data/raw/words.csv` (466k words) ∪ Webster's `data/raw/dictionary.csv`,
-   case-insensitive and shown in CAPITALS.
+   case-insensitive and shown in CAPITALS, filtered to words Hello Wordl accepts, so names
+   (JAMEL, PATEL) and abbreviations never count as possible answers.
 2. **Prior**: each word gets P(answer) from its class: number of Webster definitions ×
    how often the word is *used* inside the 54k definitions (a word-frequency signal), plus
    plurals and inflections. Class weights are calibrated on half of Hello Wordl's public
@@ -63,9 +69,11 @@ something else, `!` if the game rejected the word, `?` lists the possible answer
 ## Rebuilding everything
 
 ```bash
-python scripts/calibrate.py          # downloads Hello Wordl's answer list, fits the prior
+python scripts/fetch_game_lists.py   # Hello Wordl's word lists -> data/external/ (not committed)
+python scripts/calibrate.py          # fits the prior on half of the answer list
 python scripts/build_all.py          # openers, opening books, stats, benchmark (~5 min, 4 cores)
 python scripts/compare_openers.py 5  # "most frequent letters" vs information
+python scripts/compare_strategies.py # human strategies vs the solver
 python scripts/make_charts.py && python scripts/make_guide.py && python scripts/export_web.py
 python -m pytest -q tests
 ```
@@ -83,6 +91,7 @@ python -m pytest -q tests
 | `output/analysis/len_XX.json` | all statistics behind the guide |
 | `output/benchmark.json` | simulated games, every held-out answer |
 | `output/opener_methods.txt` | letter-frequency vs information openers |
+| `output/strategy_comparison.md` | human strategies vs the solver |
 | `output/charts/` | charts |
 | `data/lexicon/len_XX.tsv` | word lists with class + prior weight |
 | `data/prior_calibration.json`, `data/benchmark_answers.json` | calibration + held-out test answers |

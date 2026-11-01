@@ -18,21 +18,16 @@ from __future__ import annotations
 import json
 import os
 import sys
-import urllib.request
 from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from scripts.fetch_game_lists import fetch as fetch_list  # noqa: E402
 from wordl import lexicon  # noqa: E402
-
-URL = "https://raw.githubusercontent.com/lynn/hello-wordl/main/src/targets.json"
-CACHE = os.path.join("/tmp", "hello_wordl_targets.json")
 
 
 def fetch():
-    if not os.path.exists(CACHE):
-        with urllib.request.urlopen(URL, timeout=60) as r, open(CACHE, "wb") as f:
-            f.write(r.read())
-    t = json.load(open(CACHE))
+    fetch_list("dictionary.json")
+    t = json.load(open(fetch_list("targets.json")))
     t = t[: t.index("murky") + 1]
     return [w for w in t if w.isalpha() and 4 <= len(w) <= 11]
 
