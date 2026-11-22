@@ -16,6 +16,29 @@ From the solver's analysis of 5-letter words:
 
 The pair works because the second word covers five completely new common letters, so between them you test S L A T E M I N O R.
 
+## Best third word after SLATE + MINOR
+
+**Play PUDGY** (or DUCHY). It tests five more brand-new letters (P U D G Y), so after three words you've covered 15 letters.
+
+After SLATE + MINOR, about **16.4** answers are left on average and only 10% of answers are pinned down exactly. A fixed third word cuts that a lot:
+
+| Third word | Avg answers left after all three | Answers pinned down exactly |
+|---|---|---|
+| **DUCHY** | **3.75** | 38% |
+| **PUDGY** | **3.76** | 38% |
+| DUCKY | 3.85 | 36% |
+| CUBED | 3.95 | 37% |
+| CUPID | 4.05 | 36% |
+| HYPED | 4.18 | 35% |
+| DUCKS | 4.29 | 34% (best of the most common words) |
+| DUTCH | 4.39 | 36% |
+| DOUGH | 4.62 | 34% |
+| POUCH | 4.71 | 37% |
+
+The best third words share the same idea: D, U, C/P, H/G and Y are the most useful letters still untested after SLATE + MINOR.
+
+**Only use a fixed third word if the first two gave you little.** If SLATE + MINOR already lit up 4 or more letters, you usually know enough to start guessing real answers. Spending turn 3 on PUDGY then costs you a guess you didn't need.
+
 ## When to skip the second word
 
 If SLATE already shows 3 or more coloured letters, start guessing real answers instead.
